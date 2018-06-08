@@ -1,2 +1,5 @@
 # Raspi-output-catcher
-Catches the output of raspberry pi using Git
+## Followings are the outputs of raspi :
+-	Test 1
+-	test 2
+-	Test3
