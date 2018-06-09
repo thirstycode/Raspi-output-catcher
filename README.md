@@ -1,5 +1,7 @@
 # Raspi-output-catcher
 ## Followings are the outputs of raspi :
+-	03:30:59 PM 09 06 --> new
+-	03:30:05 PM 09 06 --> new
 -	03:29:52 PM 09 06 --> new
 -	03:25:08 PM 09 06 --> new
 -	03:24:33 PM 09 06 --> new
