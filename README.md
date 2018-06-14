@@ -1,5 +1,58 @@
 # Raspi-output-catcher
 ## Followings are the outputs of raspi :
+-	10:29:46 PM 14 06 --> posted with username shraddha.kapoor.sweet
+-	10:28:30 PM 14 06 --> posted with username tamannaah.143
+-	10:28:29 PM 14 06 --> posted with username urvashirautela26
+-	10:27:17 PM 14 06 --> some error with posting having username manushi.chillar.insta
+-	10:27:09 PM 14 06 --> posted with username realshrutihaasan
+-	10:27:07 PM 14 06 --> posted with username kriti.sanon143
+-	10:26:58 PM 14 06 --> posted with username disha.patani.updates
+-	09:33:15 PM 14 06 --> total users followed from urvashirautela26 - 375
+-	09:33:00 PM 14 06 --> total users followed from realshrutihaasan - 375
+-	09:30:42 PM 14 06 --> total users followed from disha.patani.updates - 375
+-	09:30:36 PM 14 06 --> total users followed from kriti.sanon143 - 375
+-	09:30:31 PM 14 06 --> total users followed from tamannaah.143 - 375
+-	08:55:32 PM 14 06 --> total users followed from urvashirautela26 - 300
+-	08:55:22 PM 14 06 --> total users followed from realshrutihaasan - 300
+-	08:52:42 PM 14 06 --> total users followed from kriti.sanon143 - 300
+-	08:52:41 PM 14 06 --> total users followed from disha.patani.updates - 300
+-	08:52:33 PM 14 06 --> total users followed from tamannaah.143 - 300
+-	08:14:45 PM 14 06 --> total users followed from kriti.sanon143 - 225
+-	08:14:33 PM 14 06 --> total users followed from disha.patani.updates - 225
+-	08:14:32 PM 14 06 --> total users followed from tamannaah.143 - 225
+-	08:13:37 PM 14 06 --> total users followed from urvashirautela26 - 225
+-	08:13:27 PM 14 06 --> total users followed from realshrutihaasan - 225
+-	07:36:50 PM 14 06 --> total users followed from kriti.sanon143 - 150
+-	07:36:40 PM 14 06 --> total users followed from tamannaah.143 - 150
+-	07:36:33 PM 14 06 --> total users followed from disha.patani.updates - 150
+-	07:36:06 PM 14 06 --> total users followed from urvashirautela26 - 150
+-	07:35:56 PM 14 06 --> total users followed from realshrutihaasan - 150
+-	07:26:29 PM 14 06 --> some error with following having username manushi.chillar.insta
+-	07:21:56 PM 14 06 --> posted with username tamannaah.143
+-	07:21:37 PM 14 06 --> posted with username realshrutihaasan
+-	07:21:09 PM 14 06 --> posted with username shraddha.kapoor.sweet
+-	07:20:57 PM 14 06 --> some error with posting having username manushi.chillar.insta
+-	07:20:43 PM 14 06 --> posted with username urvashirautela26
+-	07:19:47 PM 14 06 --> posted with username kriti.sanon143
+-	07:19:01 PM 14 06 --> posted with username disha.patani.updates
+-	06:20:30 PM 14 06 --> total users followed from tamannaah.143 - 75
+-	06:20:21 PM 14 06 --> total users followed from disha.patani.updates - 75
+-	06:20:20 PM 14 06 --> total users followed from kriti.sanon143 - 75
+-	06:20:14 PM 14 06 --> total users followed from realshrutihaasan - 75
+-	06:20:10 PM 14 06 --> total users followed from manushi.chillar.insta - 75
+-	06:19:51 PM 14 06 --> total users followed from urvashirautela26 - 75
+-	05:03:36 PM 14 06 --> some error with following having username shraddha.kapoor.sweet
+-	04:48:46 PM 14 06 --> posted with username realshrutihaasan
+-	04:48:00 PM 14 06 --> posted with username tamannaah.143
+-	04:47:37 PM 14 06 --> some error with posting having username manushi.chillar.insta
+-	04:47:04 PM 14 06 --> posted with username disha.patani.updates
+-	04:46:54 PM 14 06 --> posted with username kriti.sanon143
+-	04:46:50 PM 14 06 --> posted with username shraddha.kapoor.sweet
+-	04:46:49 PM 14 06 --> posted with username urvashirautela26
+-	01:19:08 PM 14 06 --> posted with username tamannaah.143
+-	01:18:41 PM 14 06 --> posted with username disha.patani.updates
+-	01:18:32 PM 14 06 --> posted with username realshrutihaasan
+-	01:18:23 PM 14 06 --> posted with username kriti.sanon143
 -	01:17:50 PM 14 06 --> posted with username shraddha.kapoor.sweet
 -	01:16:52 PM 14 06 --> some error with posting having username manushi.chillar.insta
 -	01:15:57 PM 14 06 --> posted with username urvashirautela26
