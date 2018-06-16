@@ -1,5 +1,26 @@
 # Raspi-output-catcher
 ## Followings are the outputs of raspi :
+-	01:21:12 PM 16 06 --> some error with posting having username urvashirautela26
+-	01:20:46 PM 16 06 --> some error with posting having username kriti.sanon143
+-	01:20:05 PM 16 06 --> some error with posting having username disha.patani.updates
+-	01:20:00 PM 16 06 --> some error with posting having username shraddha.kapoor.sweet
+-	01:19:55 PM 16 06 --> some error with posting having username tamannaah.143
+-	01:17:57 PM 16 06 --> some error with posting having username realshrutihaasan
+-	01:17:22 PM 16 06 --> some error with posting having username manushi.chillar.insta
+-	10:51:16 AM 16 06 --> some error with posting having username shraddha.kapoor.sweet
+-	10:51:11 AM 16 06 --> some error with posting having username disha.patani.updates
+-	10:50:40 AM 16 06 --> some error with posting having username kriti.sanon143
+-	10:49:28 AM 16 06 --> some error with posting having username urvashirautela26
+-	10:49:13 AM 16 06 --> some error with posting having username realshrutihaasan
+-	10:48:44 AM 16 06 --> some error with posting having username manushi.chillar.insta
+-	10:48:37 AM 16 06 --> some error with posting having username tamannaah.143
+-	08:22:11 AM 16 06 --> some error with posting having username disha.patani.updates
+-	08:21:30 AM 16 06 --> some error with posting having username tamannaah.143
+-	08:20:39 AM 16 06 --> some error with posting having username shraddha.kapoor.sweet
+-	08:20:08 AM 16 06 --> some error with posting having username kriti.sanon143
+-	08:19:48 AM 16 06 --> some error with posting having username urvashirautela26
+-	08:19:04 AM 16 06 --> some error with posting having username manushi.chillar.insta
+-	08:18:57 AM 16 06 --> some error with posting having username realshrutihaasan
 -	10:31:50 PM 15 06 --> total users followed from manushi.chillar.insta - 525
 -	10:30:49 PM 15 06 --> total users followed from realshrutihaasan - 525
 -	10:30:11 PM 15 06 --> total users followed from tamannaah.143 - 525
