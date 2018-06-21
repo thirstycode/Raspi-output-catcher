@@ -1,5 +1,12 @@
 # Raspi-output-catcher
 ## Followings are the outputs of raspi :
+-	01:18:31 PM 21 06 --> posted with username realshrutihaasan
+-	01:17:41 PM 21 06 --> posted with username kriti.sanon143
+-	01:17:18 PM 21 06 --> posted with username disha.patani.updates
+-	01:17:15 PM 21 06 --> posted with username shraddha.kapoor.sweet
+-	01:16:36 PM 21 06 --> posted with username urvashirautela26
+-	01:16:33 PM 21 06 --> posted with username tamannaah.143
+-	01:16:15 PM 21 06 --> some error with posting having username manushi.chillar.insta
 -	10:50:03 AM 21 06 --> posted with username disha.patani.updates
 -	10:49:59 AM 21 06 --> posted with username shraddha.kapoor.sweet
 -	10:49:35 AM 21 06 --> posted with username realshrutihaasan
