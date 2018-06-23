@@ -1,5 +1,33 @@
 # Raspi-output-catcher
 ## Followings are the outputs of raspi :
+-	04:48:43 PM 23 06 --> some error with posting having username disha.patani.updates
+-	04:48:24 PM 23 06 --> some error with posting having username shraddha.kapoor.sweet
+-	04:48:15 PM 23 06 --> some error with posting having username manushi.chillar.insta
+-	04:48:03 PM 23 06 --> some error with posting having username realshrutihaasan
+-	04:47:26 PM 23 06 --> some error with posting having username urvashirautela26
+-	04:46:24 PM 23 06 --> some error with posting having username kriti.sanon143
+-	04:45:41 PM 23 06 --> some error with posting having username tamannaah.143
+-	01:18:03 PM 23 06 --> some error with posting having username shraddha.kapoor.sweet
+-	01:17:52 PM 23 06 --> some error with posting having username kriti.sanon143
+-	01:17:39 PM 23 06 --> some error with posting having username tamannaah.143
+-	01:17:28 PM 23 06 --> some error with posting having username realshrutihaasan
+-	01:16:58 PM 23 06 --> some error with posting having username disha.patani.updates
+-	01:16:16 PM 23 06 --> some error with posting having username urvashirautela26
+-	01:16:02 PM 23 06 --> some error with posting having username manushi.chillar.insta
+-	10:50:31 AM 23 06 --> some error with posting having username urvashirautela26
+-	10:50:07 AM 23 06 --> some error with posting having username realshrutihaasan
+-	10:50:01 AM 23 06 --> some error with posting having username shraddha.kapoor.sweet
+-	10:49:25 AM 23 06 --> some error with posting having username tamannaah.143
+-	10:49:12 AM 23 06 --> some error with posting having username disha.patani.updates
+-	10:49:09 AM 23 06 --> some error with posting having username manushi.chillar.insta
+-	10:48:31 AM 23 06 --> some error with posting having username kriti.sanon143
+-	08:19:45 AM 23 06 --> some error with posting having username manushi.chillar.insta
+-	08:18:48 AM 23 06 --> some error with posting having username kriti.sanon143
+-	08:18:06 AM 23 06 --> some error with posting having username realshrutihaasan
+-	08:17:53 AM 23 06 --> some error with posting having username urvashirautela26
+-	08:17:33 AM 23 06 --> some error with posting having username tamannaah.143
+-	08:17:30 AM 23 06 --> some error with posting having username disha.patani.updates
+-	08:16:53 AM 23 06 --> some error with posting having username shraddha.kapoor.sweet
 -	10:29:51 PM 22 06 --> posted with username shraddha.kapoor.sweet
 -	10:29:38 PM 22 06 --> posted with username disha.patani.updates
 -	10:29:29 PM 22 06 --> posted with username urvashirautela26
