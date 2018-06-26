@@ -1,5 +1,9 @@
 # Raspi-output-catcher
 ## Followings are the outputs of raspi :
+-	09:23:17 PM 26 06 --> total users followed from kriti.sanon143 - 375
+-	09:22:07 PM 26 06 --> total users followed from tamannaah.143 - 375
+-	09:21:52 PM 26 06 --> total users followed from disha.patani.updates - 375
+-	09:21:15 PM 26 06 --> total users followed from urvashirautela26 - 375
 -	09:09:21 PM 26 06 --> some error with following having username realshrutihaasan
 -	08:41:34 PM 26 06 --> total users followed from realshrutihaasan - 300
 -	08:40:39 PM 26 06 --> total users followed from kriti.sanon143 - 300
