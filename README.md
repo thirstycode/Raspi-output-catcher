@@ -1,5 +1,83 @@
 # Raspi-output-catcher
 ## Followings are the outputs of raspi :
+-	03:20:01 PM 17 07 --> posted with username shraddha.kapoor.sweet
+-	03:20:00 PM 17 07 --> some error with posting having username urvashirautela26
+-	03:19:57 PM 17 07 --> posted with username urvashirautela26
+-	03:19:42 PM 17 07 --> posted with username kriti.sanon143
+-	03:19:34 PM 17 07 --> posted with username shraddha.kapoor.sweet
+-	03:19:27 PM 17 07 --> some error with posting having username urvashirautela26
+-	03:19:25 PM 17 07 --> posted with username realshrutihaasan
+-	03:19:25 PM 17 07 --> posted with username urvashirautela26
+-	03:19:23 PM 17 07 --> some error with posting having username manushi.chillar.insta
+-	03:19:23 PM 17 07 --> posted with username manushi.chillar.insta
+-	03:19:18 PM 17 07 --> posted with username realshrutihaasan
+-	03:19:16 PM 17 07 --> some error with posting having username realshrutihaasan
+-	03:19:16 PM 17 07 --> posted with username realshrutihaasan
+-	03:19:16 PM 17 07 --> some error with posting having username disha.patani.updates
+-	03:19:16 PM 17 07 --> posted with username disha.patani.updates
+-	03:19:16 PM 17 07 --> some error with posting having username priyanka.chopra143
+-	03:19:16 PM 17 07 --> posted with username priyanka.chopra143
+-	03:19:15 PM 17 07 --> some error with posting having username urvashirautela26
+-	03:19:12 PM 17 07 --> posted with username urvashirautela26
+-	03:19:10 PM 17 07 --> some error with posting having username tamannaah.143
+-	03:19:09 PM 17 07 --> posted with username manushi.chillar.insta
+-	03:19:07 PM 17 07 --> posted with username tamannaah.143
+-	03:19:04 PM 17 07 --> posted with username priyanka.chopra143
+-	03:19:02 PM 17 07 --> some error with posting having username tamannaah.143
+-	03:18:59 PM 17 07 --> posted with username tamannaah.143
+-	03:18:54 PM 17 07 --> some error with posting having username urvashirautela26
+-	03:18:51 PM 17 07 --> posted with username urvashirautela26
+-	03:18:44 PM 17 07 --> posted with username disha.patani.updates
+-	03:18:42 PM 17 07 --> posted with username priyanka.chopra143
+-	03:18:31 PM 17 07 --> posted with username priyanka.chopra143
+-	03:18:27 PM 17 07 --> some error with posting having username kriti.sanon143
+-	03:18:27 PM 17 07 --> posted with username kriti.sanon143
+-	03:18:26 PM 17 07 --> some error with posting having username angelinajolie143
+-	03:18:26 PM 17 07 --> some error with posting having username urvashirautela26
+-	03:18:25 PM 17 07 --> posted with username shraddha.kapoor.sweet
+-	03:18:22 PM 17 07 --> some error with posting having username disha.patani.updates
+-	03:18:13 PM 17 07 --> some error with posting having username priyanka.chopra143
+-	03:18:13 PM 17 07 --> some error with posting having username manushi.chillar.insta
+-	03:17:54 PM 17 07 --> some error with posting having username realshrutihaasan
+-	03:17:17 PM 17 07 --> some error with posting having username tamannaah.143
+-	03:17:17 PM 17 07 --> some error with posting having username tamannaah.143
+-	03:17:16 PM 17 07 --> posted with username tamannaah.143
+-	03:17:12 PM 17 07 --> posted with username tamannaah.143
+-	03:17:09 PM 17 07 --> posted with username realshrutihaasan
+-	03:17:06 PM 17 07 --> posted with username kriti.sanon143
+-	03:16:50 PM 17 07 --> posted with username manushi.chillar.insta
+-	03:16:43 PM 17 07 --> posted with username angelinajolie143
+-	03:16:38 PM 17 07 --> some error with posting having username tamannaah.143
+-	03:16:37 PM 17 07 --> posted with username kriti.sanon143
+-	03:16:37 PM 17 07 --> posted with username manushi.chillar.insta
+-	03:16:35 PM 17 07 --> posted with username priyanka.chopra143
+-	03:16:35 PM 17 07 --> posted with username tamannaah.143
+-	03:16:11 PM 17 07 --> some error with posting having username shraddha.kapoor.sweet
+-	03:15:58 PM 17 07 --> posted with username shraddha.kapoor.sweet
+-	03:15:55 PM 17 07 --> posted with username disha.patani.updates
+-	03:15:52 PM 17 07 --> some error with posting having username angelinajolie143
+-	03:15:52 PM 17 07 --> posted with username angelinajolie143
+-	03:15:45 PM 17 07 --> posted with username angelinajolie143
+-	03:15:31 PM 17 07 --> More following detected for disha.patani.updates. Starting unfollow process
+-	03:15:31 PM 17 07 --> some error with posting having username tamannaah.143
+-	03:15:28 PM 17 07 --> No need to unfollow for priyanka.chopra143
+-	03:15:28 PM 17 07 --> posted with username manushi.chillar.insta
+-	03:15:25 PM 17 07 --> More following detected for manushi.chillar.insta. Starting unfollow process
+-	03:15:23 PM 17 07 --> posted with username tamannaah.143
+-	03:15:02 PM 17 07 --> some error with unfollowing having username urvashirautela26
+-	03:15:01 PM 17 07 --> More following detected for shraddha.kapoor.sweet. Starting unfollow process
+-	03:15:00 PM 17 07 --> No need to unfollow for kriti.sanon143
+-	03:14:55 PM 17 07 --> some error with unfollowing having username tamannaah.143
+-	03:14:49 PM 17 07 --> More following detected for realshrutihaasan. Starting unfollow process
+-	08:19:58 AM 05 07 --> some error with posting having username priyanka.chopra143
+-	08:19:47 AM 05 07 --> some error with posting having username tamannaah.143
+-	08:19:45 AM 05 07 --> some error with posting having username manushi.chillar.insta
+-	08:19:32 AM 05 07 --> some error with posting having username urvashirautela26
+-	08:19:28 AM 05 07 --> some error with posting having username kriti.sanon143
+-	08:18:54 AM 05 07 --> some error with posting having username realshrutihaasan
+-	08:18:22 AM 05 07 --> some error with posting having username angelinajolie143
+-	08:17:49 AM 05 07 --> some error with posting having username shraddha.kapoor.sweet
+-	08:17:02 AM 05 07 --> some error with posting having username disha.patani.updates
 -	01:14:40 AM 05 07 --> total users unfollowed from tamannaah.143 - 95
 -	01:14:26 AM 05 07 --> total users unfollowed from manushi.chillar.insta - 95
 -	01:14:18 AM 05 07 --> total users unfollowed from shraddha.kapoor.sweet - 95
