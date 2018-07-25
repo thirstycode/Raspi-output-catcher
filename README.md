@@ -1,5 +1,18 @@
 # Raspi-output-catcher
 ## Followings are the outputs of raspi :
+-	01:17:37 AM 26 07 --> total users unfollowed from shraddha.kapoor.sweet - 95
+-	01:14:31 AM 26 07 --> total users unfollowed from tamannaah.143 - 95
+-	01:14:22 AM 26 07 --> total users unfollowed from disha.patani.updates - 95
+-	01:14:12 AM 26 07 --> total users unfollowed from realshrutihaasan - 95
+-	01:14:03 AM 26 07 --> total users unfollowed from kriti.sanon143 - 95
+-	01:12:44 AM 26 07 --> some error with unfollowing having username urvashirautela26
+-	01:12:44 AM 26 07 --> More following detected for disha.patani.updates. Starting unfollow process
+-	01:12:40 AM 26 07 --> More following detected for shraddha.kapoor.sweet. Starting unfollow process
+-	01:12:35 AM 26 07 --> More following detected for tamannaah.143. Starting unfollow process
+-	01:12:32 AM 26 07 --> More following detected for kriti.sanon143. Starting unfollow process
+-	01:12:29 AM 26 07 --> No need to unfollow for manushi.chillar.insta
+-	01:12:24 AM 26 07 --> More following detected for priyanka.chopra143. Starting unfollow process
+-	01:12:20 AM 26 07 --> More following detected for realshrutihaasan. Starting unfollow process
 -	10:30:00 PM 25 07 --> posted with username priyanka.chopra143
 -	10:29:27 PM 25 07 --> posted with username kriti.sanon143
 -	10:29:22 PM 25 07 --> some error with posting having username manushi.chillar.insta
@@ -2597,7 +2610,7 @@
 -	07:19:30 PM 20 06 --> posted with username disha.patani.updates
 -	07:19:25 PM 20 06 --> some error with posting having username urvashirautela26
 -	07:19:22 PM 20 06 --> posted with username urvashirautela26
--	06:26:15 PM 20 06 --> some error with posting having username urvashirautela26
+-	-	06:26:15 PM 20 06 --> some error with posting having username urvashirautela26
 -	06:25:24 PM 20 06 --> posted with username tamannaah.143
 -	06:25:16 PM 20 06 --> some error with posting having username realshrutihaasan
 -	01:18:10 PM 20 06 --> posted with username kriti.sanon143
