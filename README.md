@@ -1,5 +1,17 @@
 # Raspi-output-catcher
 ## Followings are the outputs of raspi :
+-	01:39:21 AM 01 08 --> total users unfollowed from realshrutihaasan - 95
+-	01:37:18 AM 01 08 --> total users unfollowed from manushi.chillar.insta - 95
+-	01:37:00 AM 01 08 --> total users unfollowed from kriti.sanon143 - 95
+-	01:37:00 AM 01 08 --> total users unfollowed from disha.patani.updates - 95
+-	01:36:48 AM 01 08 --> total users unfollowed from shraddha.kapoor.sweet - 95
+-	01:36:15 AM 01 08 --> More following detected for realshrutihaasan. Starting unfollow process
+-	01:35:09 AM 01 08 --> More following detected for kriti.sanon143. Starting unfollow process
+-	01:35:05 AM 01 08 --> More following detected for manushi.chillar.insta. Starting unfollow process
+-	01:34:56 AM 01 08 --> some error with unfollowing having username tamannaah.143
+-	01:34:54 AM 01 08 --> More following detected for disha.patani.updates. Starting unfollow process
+-	01:34:49 AM 01 08 --> More following detected for shraddha.kapoor.sweet. Starting unfollow process
+-	01:33:14 AM 01 08 --> some error with unfollowing having username urvashirautela26
 -	10:30:24 PM 31 07 --> some error with posting having username urvashirautela26
 -	10:30:22 PM 31 07 --> posted with username urvashirautela26
 -	10:29:59 PM 31 07 --> posted with username realshrutihaasan
@@ -108,8 +120,7 @@
 -	08:17:31 AM 31 07 --> posted with username realshrutihaasan
 -	08:16:36 AM 31 07 --> posted with username angelinajolie143
 -	03:40:59 AM 31 07 --> total users unfollowed from realshrutihaasan - 380
--	03:36:05 AM 31 07 --> total users unfollowed from manushi.chillar.insta - 380
--	03:35:28 AM 31 07 --> total users unfollowed from shraddha.kapoor.sweet - 380
+-	03:36:05 AM 31 07 --> total users unfollowed from manushi.chillar.insta - 3-	03:35:28 AM 31 07 --> total users unfollowed from shraddha.kapoor.sweet - 380
 -	03:34:59 AM 31 07 --> total users unfollowed from priyanka.chopra143 - 380
 -	03:34:31 AM 31 07 --> total users unfollowed from disha.patani.updates - 380
 -	03:34:23 AM 31 07 --> total users unfollowed from kriti.sanon143 - 380
@@ -218,7 +229,7 @@
 -	01:17:48 PM 30 07 --> some error with posting having username tamannaah.143
 -	01:17:45 PM 30 07 --> posted with username tamannaah.143
 -	01:17:27 PM 30 07 --> posted with username disha.patani.updates
--	01:17:26 PM 30 07 --> posted with username angelinajolie143
+-	0-	01:17:26 PM 30 07 --> posted with username angelinajolie143
 -	01:16:58 PM 30 07 --> some error with posting having username urvashirautela26
 -	01:16:56 PM 30 07 --> posted with username urvashirautela26
 -	01:16:45 PM 30 07 --> posted with username priyanka.chopra143
@@ -327,8 +338,7 @@
 -	06:15:23 PM 29 07 --> total users followed from manushi.chillar.insta - 225
 -	06:14:55 PM 29 07 --> total users followed from shraddha.kapoor.sweet - 225
 -	06:14:50 PM 29 07 --> total users followed from kriti.sanon143 - 225
--	06:14:27 PM 29 07 --> total users followed from priyanka.chopra143 - 225
--	06:10:32 PM 29 07 --> total users followed from angelinajolie143 - 150
+-	06:14:27 PM 29 07 --> total users followed from priyanka.chopra143 - 2-	0-	06:10:32 PM 29 07 --> total users followed from angelinajolie143 - 150
 -	06:09:04 PM 29 07 --> total users followed from disha.patani.updates - 225
 -	05:13:58 PM 29 07 --> total users followed from disha.patani.updates - 150
 -	05:13:37 PM 29 07 --> total users followed from manushi.chillar.insta - 150
@@ -441,8 +451,7 @@
 -	08:28:56 PM 28 07 --> total users followed from disha.patani.updates - 450
 -	08:28:35 PM 28 07 --> total users followed from tamannaah.143 - 450
 -	08:27:20 PM 28 07 --> total users followed from priyanka.chopra143 - 450
--	08:26:14 PM 28 07 --> total users followed from manushi.chillar.insta - 450
--	08:26:08 PM 28 07 --> total users followed from kriti.sanon143 - 450
+-	08:26:14 PM 28 07 --> total users followed from manushi.chillar.insta - 4-	0-	08:26:08 PM 28 07 --> total users followed from kriti.sanon143 - 450
 -	08:25:38 PM 28 07 --> total users followed from shraddha.kapoor.sweet - 450
 -	07:56:45 PM 28 07 --> total users followed from kriti.sanon143 - 375
 -	07:56:28 PM 28 07 --> total users followed from shraddha.kapoor.sweet - 375
@@ -557,8 +566,7 @@
 -	02:23:53 AM 28 07 --> total users unfollowed from disha.patani.updates - 95
 -	02:23:34 AM 28 07 --> total users unfollowed from realshrutihaasan - 95
 -	02:23:31 AM 28 07 --> total users unfollowed from manushi.chillar.insta - 95
--	02:23:31 AM 28 07 --> total users unfollowed from kriti.sanon143 - 95
--	02:23:19 AM 28 07 --> total users unfollowed from shraddha.kapoor.sweet - 95
+-	02:23:31 AM 28 07 --> total users unfollowed from kriti.sanon143 - -	02:23:19 AM 28 07 --> total users unfollowed from shraddha.kapoor.sweet - 95
 -	02:21:53 AM 28 07 --> More following detected for priyanka.chopra143. Starting unfollow process
 -	02:21:53 AM 28 07 --> More following detected for disha.patani.updates. Starting unfollow process
 -	02:21:51 AM 28 07 --> More following detected for tamannaah.143. Starting unfollow process
@@ -673,7 +681,7 @@
 -	10:46:28 AM 27 07 --> posted with username urvashirautela26
 -	08:20:02 AM 27 07 --> posted with username manushi.chillar.insta
 -	08:19:39 AM 27 07 --> posted with username tamannaah.143
--	08:19:27 AM 27 07 --> posted with username disha.patani.updates
+-	0-	08:19:27 AM 27 07 --> posted with username disha.patani.updates
 -	08:17:57 AM 27 07 --> posted with username shraddha.kapoor.sweet
 -	08:17:36 AM 27 07 --> posted with username priyanka.chopra143
 -	08:17:13 AM 27 07 --> posted with username realshrutihaasan
@@ -785,8 +793,7 @@
 -	10:49:08 AM 26 07 --> posted with username kriti.sanon143
 -	10:48:50 AM 26 07 --> posted with username disha.patani.updates
 -	10:48:29 AM 26 07 --> posted with username angelinajolie143
--	10:48:22 AM 26 07 --> posted with username shraddha.kapoor.sweet
--	10:47:33 AM 26 07 --> some error with posting having username urvashirautela26
+-	10:48:22 AM 26 07 --> posted with username shraddha.kapoor.swe-	10:47:33 AM 26 07 --> some error with posting having username urvashirautela26
 -	10:47:30 AM 26 07 --> posted with username urvashirautela26
 -	10:47:28 AM 26 07 --> posted with username tamannaah.143
 -	10:47:07 AM 26 07 --> posted with username priyanka.chopra143
@@ -899,7 +906,7 @@
 -	05:51:33 PM 25 07 --> total users followed from disha.patani.updates - 150
 -	05:06:30 PM 25 07 --> total users followed from realshrutihaasan - 75
 -	05:06:16 PM 25 07 --> total users followed from tamannaah.143 - 75
--	05:06:02 PM 25 07 --> total users followed from disha.patani.updates - 75
+-	0-	05:06:02 PM 25 07 --> total users followed from disha.patani.updates - 75
 -	05:06:00 PM 25 07 --> total users followed from manushi.chillar.insta - 75
 -	05:05:51 PM 25 07 --> total users followed from shraddha.kapoor.sweet - 75
 -	05:05:39 PM 25 07 --> total users followed from kriti.sanon143 - 75
@@ -1011,8 +1018,7 @@
 -	07:06:25 PM 24 07 --> total users followed from shraddha.kapoor.sweet - 449
 -	07:05:56 PM 24 07 --> total users followed from realshrutihaasan - 450
 -	07:05:40 PM 24 07 --> total users followed from priyanka.chopra143 - 450
--	06:39:55 PM 24 07 --> total users followed from angelinajolie143 - 300
--	06:25:18 PM 24 07 --> total users followed from tamannaah.143 - 375
+-	06:39:55 PM 24 07 --> total users followed from angelinajolie143 - 3-	06:25:18 PM 24 07 --> total users followed from tamannaah.143 - 375
 -	06:24:40 PM 24 07 --> total users followed from disha.patani.updates - 375
 -	06:24:29 PM 24 07 --> total users followed from manushi.chillar.insta - 375
 -	06:24:28 PM 24 07 --> total users followed from kriti.sanon143 - 375
@@ -1125,7 +1131,7 @@
 -	01:12:30 AM 24 07 --> More following detected for tamannaah.143. Starting unfollow process
 -	01:12:28 AM 24 07 --> More following detected for disha.patani.updates. Starting unfollow process
 -	01:12:22 AM 24 07 --> More following detected for shraddha.kapoor.sweet. Starting unfollow process
--	01:12:16 AM 24 07 --> some error with unfollowing having username urvashirautela26
+-	0-	01:12:16 AM 24 07 --> some error with unfollowing having username urvashirautela26
 -	10:29:56 PM 23 07 --> posted with username priyanka.chopra143
 -	10:29:41 PM 23 07 --> some error with posting having username disha.patani.updates
 -	10:28:58 PM 23 07 --> posted with username kriti.sanon143
@@ -1240,8 +1246,7 @@
 -	08:17:49 AM 23 07 --> posted with username priyanka.chopra143
 -	08:17:44 AM 23 07 --> posted with username realshrutihaasan
 -	08:17:09 AM 23 07 --> posted with username angelinajolie143
--	08:17:03 AM 23 07 --> posted with username shraddha.kapoor.sweet
--	03:37:31 AM 23 07 --> total users unfollowed from disha.patani.updates - 380
+-	08:17:03 AM 23 07 --> posted with username shraddha.kapoor.swe-	03:37:31 AM 23 07 --> total users unfollowed from disha.patani.updates - 380
 -	03:36:02 AM 23 07 --> total users unfollowed from manushi.chillar.insta - 380
 -	03:35:40 AM 23 07 --> total users unfollowed from tamannaah.143 - 380
 -	03:35:04 AM 23 07 --> total users unfollowed from shraddha.kapoor.sweet - 380
@@ -1352,7 +1357,7 @@
 -	01:19:27 PM 22 07 --> some error with posting having username tamannaah.143
 -	01:19:24 PM 22 07 --> posted with username tamannaah.143
 -	01:18:42 PM 22 07 --> posted with username priyanka.chopra143
--	01:18:00 PM 22 07 --> some error with posting having username urvashirautela26
+-	0-	01:18:00 PM 22 07 --> some error with posting having username urvashirautela26
 -	01:17:57 PM 22 07 --> posted with username urvashirautela26
 -	01:17:45 PM 22 07 --> posted with username manushi.chillar.insta
 -	01:17:33 PM 22 07 --> posted with username realshrutihaasan
@@ -1461,8 +1466,7 @@
 -	07:11:03 PM 21 07 --> total users followed from realshrutihaasan - 225
 -	07:10:05 PM 21 07 --> total users followed from shraddha.kapoor.sweet - 225
 -	07:10:00 PM 21 07 --> total users followed from angelinajolie143 - 225
--	07:09:48 PM 21 07 --> total users followed from priyanka.chopra143 - 225
--	07:08:58 PM 21 07 --> total users followed from disha.patani.updates - 225
+-	07:09:48 PM 21 07 --> total users followed from priyanka.chopra143 - 2-	07:08:58 PM 21 07 --> total users followed from disha.patani.updates - 225
 -	07:08:11 PM 21 07 --> total users followed from kriti.sanon143 - 225
 -	06:16:59 PM 21 07 --> total users followed from kriti.sanon143 - 150
 -	06:16:51 PM 21 07 --> total users followed from disha.patani.updates - 150
@@ -1576,7 +1580,7 @@
 -	09:39:03 PM 20 07 --> total users followed from realshrutihaasan - 450
 -	09:38:15 PM 20 07 --> total users followed from priyanka.chopra143 - 450
 -	09:38:12 PM 20 07 --> total users followed from manushi.chillar.insta - 450
--	08:54:27 PM 20 07 --> total users followed from angelinajolie143 - 216
+-	0-	08:54:27 PM 20 07 --> total users followed from angelinajolie143 - 216
 -	08:53:51 PM 20 07 --> total users followed from kriti.sanon143 - 375
 -	08:53:40 PM 20 07 --> total users followed from disha.patani.updates - 375
 -	08:52:53 PM 20 07 --> total users followed from realshrutihaasan - 375
@@ -1689,8 +1693,7 @@
 -	10:27:20 PM 19 07 --> posted with username disha.patani.updates
 -	10:27:18 PM 19 07 --> some error with posting having username urvashirautela26
 -	10:27:15 PM 19 07 --> posted with username urvashirautela26
--	10:27:09 PM 19 07 --> posted with username shraddha.kapoor.sweet
--	10:27:03 PM 19 07 --> posted with username manushi.chillar.insta
+-	10:27:09 PM 19 07 --> posted with username shraddha.kapoor.swe-	10:27:03 PM 19 07 --> posted with username manushi.chillar.insta
 -	10:26:28 PM 19 07 --> total users followed from kriti.sanon143 - 189
 -	09:34:27 PM 19 07 --> total users followed from disha.patani.updates - 171
 -	09:33:38 PM 19 07 --> total users followed from manushi.chillar.insta - 169
@@ -1806,7 +1809,7 @@
 -	02:48:25 AM 19 07 --> total users unfollowed from manushi.chillar.insta - 285
 -	02:48:19 AM 19 07 --> total users unfollowed from realshrutihaasan - 285
 -	02:48:00 AM 19 07 --> total users unfollowed from kriti.sanon143 - 285
--	02:47:45 AM 19 07 --> total users unfollowed from disha.patani.updates - 285
+-	0-	02:47:45 AM 19 07 --> total users unfollowed from disha.patani.updates - 285
 -	02:01:26 AM 19 07 --> total users unfollowed from realshrutihaasan - 190
 -	02:01:22 AM 19 07 --> total users unfollowed from manushi.chillar.insta - 190
 -	02:01:12 AM 19 07 --> total users unfollowed from kriti.sanon143 - 190
@@ -1915,8 +1918,7 @@
 -	04:46:24 PM 18 07 --> posted with username priyanka.chopra143
 -	04:46:24 PM 18 07 --> posted with username realshrutihaasan
 -	04:45:54 PM 18 07 --> posted with username manushi.chillar.insta
--	01:20:13 PM 18 07 --> posted with username priyanka.chopra143
--	01:19:14 PM 18 07 --> posted with username manushi.chillar.insta
+-	01:20:13 PM 18 07 --> posted with username priyanka.chopra1-	01:19:14 PM 18 07 --> posted with username manushi.chillar.insta
 -	01:18:49 PM 18 07 --> posted with username shraddha.kapoor.sweet
 -	01:17:54 PM 18 07 --> some error with posting having username tamannaah.143
 -	01:17:51 PM 18 07 --> posted with username tamannaah.143
@@ -3968,7 +3970,7 @@
 -	04:48:43 PM 13 06 --> posted with username tamannaah.143
 -	04:48:17 PM 13 06 --> posted with username manushi.chillar.insta
 -	04:48:16 PM 13 06 --> posted with username kriti.sanon143
--	04:48:15 PM 13 06 --> posted with username realshrutihaasan
+-	04:48:18:15 PM 13 06 --> posted with username realshrutihaasan
 -	04:47:50 PM 13 06 --> posted with username urvashirautela26
 -	04:47:41 PM 13 06 --> posted with username shraddha.kapoor.sweet
 -	04:47:35 PM 13 06 --> posted with username disha.patani.updates
