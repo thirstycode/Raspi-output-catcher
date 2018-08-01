@@ -1,5 +1,14 @@
 # Raspi-output-catcher
 ## Followings are the outputs of raspi :
+-	01:14:30 AM 02 08 --> total users unfollowed from disha.patani.updates - 95
+-	01:14:28 AM 02 08 --> total users unfollowed from kriti.sanon143 - 95
+-	01:14:18 AM 02 08 --> total users unfollowed from shraddha.kapoor.sweet - 95
+-	01:13:38 AM 02 08 --> No need to unfollow for realshrutihaasan
+-	01:12:44 AM 02 08 --> some error with unfollowing having username tamannaah.143
+-	01:12:40 AM 02 08 --> No need to unfollow for manushi.chillar.insta
+-	01:12:36 AM 02 08 --> No need to unfollow for priyanka.chopra143
+-	01:12:28 AM 02 08 --> some error with unfollowing having username urvashirautela26
+-	01:12:20 AM 02 08 --> More following detected for disha.patani.updates. Starting unfollow process
 -	10:30:34 PM 01 08 --> posted with username shraddha.kapoor.sweet
 -	10:29:37 PM 01 08 --> posted with username disha.patani.updates
 -	10:29:27 PM 01 08 --> posted with username realshrutihaasan
@@ -778,7 +787,7 @@
 -	01:17:15 PM 27 07 --> posted with username manushi.chillar.insta
 -	10:49:30 AM 27 07 --> posted with username shraddha.kapoor.sweet
 -	10:49:28 AM 27 07 --> posted with username realshrutihaasan
--	10:48:42 AM 27 07 --> posted with username tamannaah.143
+-	10:48:42 AM 27 07 --> posted with usernameith username tamannaah.143
 -	10:48:34 AM 27 07 --> posted with username priyanka.chopra143
 -	10:48:16 AM 27 07 --> posted with username kriti.sanon143
 -	10:47:27 AM 27 07 --> posted with username angelinajolie143
@@ -2574,7 +2583,7 @@
 -	07:01:18 PM 01 07 --> some error with following having username priyanka.chopra143
 -	07:01:08 PM 01 07 --> total users followed from shraddha.kapoor.sweet - 225
 -	06:59:47 PM 01 07 --> total users followed from tamannaah.143 - 57
--	06:42:07 PM 01 07 --> some error with following having username realshrutihaasan
+-	06:42:07 PM 01 07 --> some error with followiror with following having username realshrutihaasan
 -	06:32:31 PM 01 07 --> some error with following having username manushi.chillar.insta
 -	06:18:47 PM 01 07 --> total users followed from angelinajolie143 - 225
 -	05:57:02 PM 01 07 --> total users followed from priyanka.chopra143 - 150
