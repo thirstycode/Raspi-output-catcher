@@ -1,5 +1,13 @@
 # Raspi-output-catcher
 ## Followings are the outputs of raspi :
+-	07:19:47 PM 01 08 --> posted with username manushi.chillar.insta
+-	07:19:42 PM 01 08 --> posted with username angelinajolie143
+-	07:19:23 PM 01 08 --> some error with posting having username kriti.sanon143
+-	07:18:54 PM 01 08 --> some error with posting having username urvashirautela26
+-	07:18:51 PM 01 08 --> posted with username urvashirautela26
+-	07:18:39 PM 01 08 --> posted with username shraddha.kapoor.sweet
+-	07:18:32 PM 01 08 --> posted with username priyanka.chopra143
+-	07:18:28 PM 01 08 --> posted with username realshrutihaasan
 -	07:04:01 PM 01 08 --> total users followed from manushi.chillar.insta - 300
 -	06:59:00 PM 01 08 --> total users followed from priyanka.chopra143 - 225
 -	06:58:55 PM 01 08 --> total users followed from disha.patani.updates - 300
