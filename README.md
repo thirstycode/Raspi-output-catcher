@@ -1,5 +1,15 @@
 # Raspi-output-catcher
 ## Followings are the outputs of raspi :
+-	04:47:46 PM 02 08 --> posted with username shraddha.kapoor.sweet
+-	04:47:17 PM 02 08 --> posted with username disha.patani.updates
+-	04:47:15 PM 02 08 --> some error with posting having username urvashirautela26
+-	04:47:13 PM 02 08 --> posted with username urvashirautela26
+-	04:46:56 PM 02 08 --> posted with username angelinajolie143
+-	04:46:50 PM 02 08 --> posted with username realshrutihaasan
+-	04:46:39 PM 02 08 --> posted with username kriti.sanon143
+-	04:46:08 PM 02 08 --> posted with username priyanka.chopra143
+-	04:46:07 PM 02 08 --> some error with posting having username tamannaah.143
+-	04:46:05 PM 02 08 --> posted with username tamannaah.143
 -	01:18:48 PM 02 08 --> posted with username priyanka.chopra143
 -	01:18:31 PM 02 08 --> some error with posting having username tamannaah.143
 -	01:18:23 PM 02 08 --> some error with posting having username realshrutihaasan
@@ -109,8 +119,7 @@
 -	01:19:14 PM 01 08 --> some error with posting having username urvashirautela26
 -	01:19:11 PM 01 08 --> posted with username urvashirautela26
 -	01:18:50 PM 01 08 --> some error with posting having username tamannaah.143
--	01:18:49 PM 01 08 --> posted with username disha.patani.updates
--	01:18:36 PM 01 08 --> posted with username priyanka.chopra143
+-	0-	01:18:49 PM 01 08 --> posted with username disha.patani.updat-	01:18:36 PM 01 08 --> posted with username priyanka.chopra143
 -	01:18:24 PM 01 08 --> posted with username manushi.chillar.insta
 -	01:18:00 PM 01 08 --> posted with username angelinajolie143
 -	01:17:01 PM 01 08 --> posted with username shraddha.kapoor.sweet
@@ -1120,7 +1129,7 @@
 -	02:04:21 AM 25 07 --> total users unfollowed from realshrutihaasan - 190
 -	02:01:31 AM 25 07 --> total users unfollowed from tamannaah.143 - 190
 -	02:01:28 AM 25 07 --> total users unfollowed from manushi.chillar.insta - 190
--	02:01:21 AM 25 07 --> total users unfollowed from priyanka.chopra143 - 190
+-	02:01:21 AM 25 07 --> total users unfollowed from priyaiyanka.chopra143 - 190
 -	02:01:09 AM 25 07 --> total users unfollowed from disha.patani.updates - 190
 -	02:00:58 AM 25 07 --> total users unfollowed from kriti.sanon143 - 190
 -	01:14:31 AM 25 07 --> total users unfollowed from priyanka.chopra143 - 95
