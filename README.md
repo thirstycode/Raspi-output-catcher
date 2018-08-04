@@ -1,5 +1,19 @@
 # Raspi-output-catcher
 ## Followings are the outputs of raspi :
+-	07:19:53 PM 04 08 --> total users followed from kriti.sanon143 - 150
+-	07:19:53 PM 04 08 --> posted with username kriti.sanon143
+-	07:19:51 PM 04 08 --> posted with username shraddha.kapoor.sweet
+-	07:19:47 PM 04 08 --> posted with username realshrutihaasan
+-	07:19:34 PM 04 08 --> some error with posting having username urvashirautela26
+-	07:19:32 PM 04 08 --> posted with username urvashirautela26
+-	07:19:25 PM 04 08 --> total users followed from manushi.chillar.insta - 150
+-	07:19:08 PM 04 08 --> total users followed from realshrutihaasan - 150
+-	07:18:59 PM 04 08 --> posted with username angelinajolie143
+-	07:18:52 PM 04 08 --> posted with username priyanka.chopra143
+-	07:18:52 PM 04 08 --> total users followed from shraddha.kapoor.sweet - 150
+-	07:18:49 PM 04 08 --> posted with username manushi.chillar.insta
+-	07:18:45 PM 04 08 --> posted with username disha.patani.updates
+-	07:18:43 PM 04 08 --> total users followed from priyanka.chopra143 - 150
 -	05:34:45 PM 04 08 --> total users followed from manushi.chillar.insta - 75
 -	05:34:23 PM 04 08 --> total users followed from realshrutihaasan - 75
 -	05:34:11 PM 04 08 --> total users followed from shraddha.kapoor.sweet - 75
@@ -1461,7 +1475,7 @@
 -	07:05:40 PM 24 07 --> total users followed from priyanka.chopra143 - 450
 -	06:39:55 PM 24 07 --> total users followed from angelinajolie143 - 3-	06:25:18 PM 24 07 --> total users followed from tamannaah.143 - 375
 -	06:24:40 PM 24 07 --> total users followed from disha.patani.updates - 375
--	06:24:29 PM 24 07 --> total users followed from manushi.chillar.insta - 375
+r.insta - 375
 -	06:24:28 PM 24 07 --> total users followed from kriti.sanon143 - 375
 -	06:24:10 PM 24 07 --> total users followed from shraddha.kapoor.sweet - 374
 -	06:23:45 PM 24 07 --> total users followed from realshrutihaasan - 375
