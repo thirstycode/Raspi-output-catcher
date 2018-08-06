@@ -1,5 +1,17 @@
 # Raspi-output-catcher
 ## Followings are the outputs of raspi :
+-	01:17:10 AM 07 08 --> total users unfollowed from realshrutihaasan - 95
+-	01:14:34 AM 07 08 --> total users unfollowed from disha.patani.updates - 95
+-	01:14:17 AM 07 08 --> total users unfollowed from priyanka.chopra143 - 95
+-	01:14:03 AM 07 08 --> total users unfollowed from kriti.sanon143 - 95
+-	01:13:59 AM 07 08 --> More following detected for realshrutihaasan. Starting unfollow process
+-	01:12:46 AM 07 08 --> No need to unfollow for shraddha.kapoor.sweet
+-	01:12:39 AM 07 08 --> some error with unfollowing having username urvashirautela26
+-	01:12:38 AM 07 08 --> More following detected for disha.patani.updates. Starting unfollow process
+-	01:12:31 AM 07 08 --> some error with unfollowing having username tamannaah.143
+-	01:12:26 AM 07 08 --> No need to unfollow for manushi.chillar.insta
+-	01:12:23 AM 07 08 --> More following detected for priyanka.chopra143. Starting unfollow process
+-	01:12:18 AM 07 08 --> More following detected for kriti.sanon143. Starting unfollow process
 -	10:49:52 PM 06 08 --> total users followed from disha.patani.updates - 525
 -	10:30:26 PM 06 08 --> posted with username realshrutihaasan
 -	10:30:20 PM 06 08 --> some error with posting having username tamannaah.143
