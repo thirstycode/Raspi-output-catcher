@@ -1,5 +1,8 @@
 # Raspi-output-catcher
 ## Followings are the outputs of raspi :
+-	04:55:24 PM 06 08 --> some error with following having username manushi.chillar.insta
+-	04:52:03 PM 06 08 --> total users followed from kriti.sanon143 - 75
+-	04:51:57 PM 06 08 --> total users followed from priyanka.chopra143 - 75
 -	04:49:10 PM 06 08 --> posted with username realshrutihaasan
 -	04:48:44 PM 06 08 --> some error with posting having username urvashirautela26
 -	04:48:41 PM 06 08 --> posted with username urvashirautela26
