@@ -1,5 +1,7 @@
 # Raspi-output-catcher
 ## Followings are the outputs of raspi :
+-	11:14:02 AM 25 08 --> total users unfollowed from angelinajolie143 - 100
+-	11:12:33 AM 25 08 --> More following detected for angelinajolie143. Starting unfollow process
 -	10:49:06 AM 25 08 --> some error with posting having username urvashirautela26
 -	10:48:19 AM 25 08 --> posted with username disha.patani.updates
 -	10:48:15 AM 25 08 --> posted with username angelinajolie143
