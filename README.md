@@ -1,5 +1,7 @@
 # Raspi-output-catcher
 ## Followings are the outputs of raspi :
+-	01:01:15 PM 27 08 --> total users unfollowed from kriti.sanon143 - 200
+-	01:01:10 PM 27 08 --> total users unfollowed from disha.patani.updates - 200
 -	12:14:42 PM 27 08 --> total users unfollowed from kriti.sanon143 - 100
 -	12:14:40 PM 27 08 --> total users unfollowed from disha.patani.updates - 100
 -	12:14:00 PM 27 08 --> No need to unfollow for realshrutihaasan
