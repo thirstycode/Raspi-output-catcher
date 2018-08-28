@@ -1,5 +1,29 @@
 # Raspi-output-catcher
 ## Followings are the outputs of raspi :
+-	01:18:53 PM 28 08 --> posted with username realshrutihaasan
+-	01:18:39 PM 28 08 --> total users unfollowed from kriti.sanon143 - 100
+-	01:18:37 PM 28 08 --> some error with posting having username disha.patani.updates
+-	01:18:31 PM 28 08 --> posted with username angelinajolie143
+-	01:18:15 PM 28 08 --> posted with username priyanka.chopra143
+-	01:18:08 PM 28 08 --> total users unfollowed from tamannaah.143 - 100
+-	01:18:08 PM 28 08 --> posted with username manushi.chillar.insta
+-	01:17:57 PM 28 08 --> total users unfollowed from priyanka.chopra143 - 100
+-	01:17:46 PM 28 08 --> posted with username shraddha.kapoor.sweet
+-	01:17:00 PM 28 08 --> total users unfollowed from realshrutihaasan - 100
+-	01:16:52 PM 28 08 --> some error with posting having username urvashirautela26
+-	01:16:41 PM 28 08 --> posted with username kriti.sanon143
+-	01:16:40 PM 28 08 --> posted with username tamannaah.143
+-	01:15:25 PM 28 08 --> total users unfollowed from shraddha.kapoor.sweet - 100
+-	01:15:24 PM 28 08 --> total users unfollowed from manushi.chillar.insta - 100
+-	01:15:21 PM 28 08 --> total users unfollowed from disha.patani.updates - 100
+-	01:14:07 PM 28 08 --> More following detected for realshrutihaasan. Starting unfollow process
+-	01:12:58 PM 28 08 --> More following detected for kriti.sanon143. Starting unfollow process
+-	01:12:51 PM 28 08 --> More following detected for disha.patani.updates. Starting unfollow process
+-	01:12:49 PM 28 08 --> More following detected for shraddha.kapoor.sweet. Starting unfollow process
+-	01:12:47 PM 28 08 --> More following detected for manushi.chillar.insta. Starting unfollow process
+-	01:12:46 PM 28 08 --> More following detected for tamannaah.143. Starting unfollow process
+-	01:12:23 PM 28 08 --> some error with unfollowing having username urvashirautela26
+-	01:12:22 PM 28 08 --> More following detected for priyanka.chopra143. Starting unfollow process
 -	11:12:34 AM 28 08 --> No need to unfollow for angelinajolie143
 -	10:49:36 AM 28 08 --> posted with username angelinajolie143
 -	10:49:15 AM 28 08 --> some error with posting having username urvashirautela26
