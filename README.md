@@ -1,5 +1,29 @@
 # Raspi-output-catcher
 ## Followings are the outputs of raspi :
+-	01:19:16 PM 31 08 --> some error with posting having username shraddha.kapoor.sweet
+-	01:19:11 PM 31 08 --> posted with username realshrutihaasan
+-	01:19:10 PM 31 08 --> posted with username shraddha.kapoor.sweet
+-	01:17:50 PM 31 08 --> total users unfollowed from realshrutihaasan - 100
+-	01:17:44 PM 31 08 --> total users unfollowed from priyanka.chopra143 - 100
+-	01:17:28 PM 31 08 --> posted with username priyanka.chopra143
+-	01:17:24 PM 31 08 --> some error with posting having username kriti.sanon143
+-	01:17:21 PM 31 08 --> posted with username kriti.sanon143
+-	01:17:03 PM 31 08 --> some error with posting having username disha.patani.updates
+-	01:17:01 PM 31 08 --> posted with username disha.patani.updates
+-	01:16:49 PM 31 08 --> posted with username angelinajolie143
+-	01:16:34 PM 31 08 --> some error with posting having username urvashirautela26
+-	01:16:34 PM 31 08 --> some error with posting having username manushi.chillar.insta
+-	01:16:31 PM 31 08 --> posted with username manushi.chillar.insta
+-	01:16:16 PM 31 08 --> some error with posting having username tamannaah.143
+-	01:16:13 PM 31 08 --> posted with username tamannaah.143
+-	01:13:04 PM 31 08 --> some error with unfollowing having username manushi.chillar.insta
+-	01:13:01 PM 31 08 --> More following detected for realshrutihaasan. Starting unfollow process
+-	01:12:57 PM 31 08 --> some error with unfollowing having username disha.patani.updates
+-	01:12:54 PM 31 08 --> More following detected for priyanka.chopra143. Starting unfollow process
+-	01:12:49 PM 31 08 --> some error with unfollowing having username tamannaah.143
+-	01:12:45 PM 31 08 --> some error with unfollowing having username kriti.sanon143
+-	01:12:41 PM 31 08 --> some error with unfollowing having username urvashirautela26
+-	01:12:37 PM 31 08 --> some error with unfollowing having username shraddha.kapoor.sweet
 -	10:49:45 AM 31 08 --> posted with username angelinajolie143
 -	10:49:05 AM 31 08 --> some error with posting having username kriti.sanon143
 -	10:49:02 AM 31 08 --> posted with username kriti.sanon143
