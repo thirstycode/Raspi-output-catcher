@@ -1,5 +1,29 @@
 # Raspi-output-catcher
 ## Followings are the outputs of raspi :
+-	01:19:08 PM 01 09 --> some error with posting having username shraddha.kapoor.sweet
+-	01:19:05 PM 01 09 --> posted with username shraddha.kapoor.sweet
+-	01:18:48 PM 01 09 --> some error with posting having username manushi.chillar.insta
+-	01:18:45 PM 01 09 --> posted with username manushi.chillar.insta
+-	01:18:33 PM 01 09 --> some error with posting having username kriti.sanon143
+-	01:18:30 PM 01 09 --> posted with username kriti.sanon143
+-	01:18:19 PM 01 09 --> posted with username angelinajolie143
+-	01:18:12 PM 01 09 --> posted with username priyanka.chopra143
+-	01:17:11 PM 01 09 --> some error with posting having username disha.patani.updates
+-	01:17:08 PM 01 09 --> posted with username disha.patani.updates
+-	01:17:08 PM 01 09 --> some error with posting having username tamannaah.143
+-	01:17:06 PM 01 09 --> posted with username tamannaah.143
+-	01:16:29 PM 01 09 --> some error with posting having username realshrutihaasan
+-	01:16:26 PM 01 09 --> posted with username realshrutihaasan
+-	01:16:13 PM 01 09 --> some error with posting having username urvashirautela26
+-	01:14:14 PM 01 09 --> total users unfollowed from priyanka.chopra143 - 100
+-	01:13:05 PM 01 09 --> More following detected for priyanka.chopra143. Starting unfollow process
+-	01:13:00 PM 01 09 --> some error with unfollowing having username shraddha.kapoor.sweet
+-	01:12:56 PM 01 09 --> some error with unfollowing having username kriti.sanon143
+-	01:12:52 PM 01 09 --> some error with unfollowing having username disha.patani.updates
+-	01:12:48 PM 01 09 --> some error with unfollowing having username tamannaah.143
+-	01:12:44 PM 01 09 --> some error with unfollowing having username manushi.chillar.insta
+-	01:12:40 PM 01 09 --> some error with unfollowing having username realshrutihaasan
+-	01:12:37 PM 01 09 --> some error with unfollowing having username urvashirautela26
 -	10:48:48 AM 01 09 --> some error with posting having username disha.patani.updates
 -	10:48:46 AM 01 09 --> posted with username disha.patani.updates
 -	10:48:40 AM 01 09 --> some error with posting having username urvashirautela26
