@@ -1,5 +1,29 @@
 # Raspi-output-catcher
 ## Followings are the outputs of raspi :
+-	01:18:42 PM 02 09 --> some error with posting having username realshrutihaasan
+-	01:18:40 PM 02 09 --> posted with username angelinajolie143
+-	01:18:40 PM 02 09 --> posted with username realshrutihaasan
+-	01:18:20 PM 02 09 --> some error with posting having username kriti.sanon143
+-	01:18:17 PM 02 09 --> posted with username kriti.sanon143
+-	01:18:14 PM 02 09 --> some error with posting having username urvashirautela26
+-	01:18:01 PM 02 09 --> some error with posting having username tamannaah.143
+-	01:17:58 PM 02 09 --> posted with username tamannaah.143
+-	01:17:26 PM 02 09 --> some error with posting having username shraddha.kapoor.sweet
+-	01:17:23 PM 02 09 --> posted with username shraddha.kapoor.sweet
+-	01:16:37 PM 02 09 --> some error with posting having username disha.patani.updates
+-	01:16:34 PM 02 09 --> posted with username disha.patani.updates
+-	01:16:26 PM 02 09 --> posted with username priyanka.chopra143
+-	01:16:16 PM 02 09 --> some error with posting having username manushi.chillar.insta
+-	01:16:13 PM 02 09 --> posted with username manushi.chillar.insta
+-	01:14:05 PM 02 09 --> total users unfollowed from priyanka.chopra143 - 100
+-	01:13:05 PM 02 09 --> some error with unfollowing having username manushi.chillar.insta
+-	01:13:01 PM 02 09 --> some error with unfollowing having username realshrutihaasan
+-	01:12:57 PM 02 09 --> some error with unfollowing having username tamannaah.143
+-	01:12:53 PM 02 09 --> More following detected for priyanka.chopra143. Starting unfollow process
+-	01:12:50 PM 02 09 --> some error with unfollowing having username kriti.sanon143
+-	01:12:45 PM 02 09 --> some error with unfollowing having username urvashirautela26
+-	01:12:41 PM 02 09 --> some error with unfollowing having username disha.patani.updates
+-	01:12:37 PM 02 09 --> some error with unfollowing having username shraddha.kapoor.sweet
 -	10:49:49 AM 02 09 --> posted with username angelinajolie143
 -	10:48:52 AM 02 09 --> some error with posting having username realshrutihaasan
 -	10:48:50 AM 02 09 --> posted with username realshrutihaasan
