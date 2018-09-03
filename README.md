@@ -1,5 +1,28 @@
 # Raspi-output-catcher
 ## Followings are the outputs of raspi :
+-	01:19:20 PM 03 09 --> posted with username tamannaah.143
+-	01:18:30 PM 03 09 --> posted with username manushi.chillar.insta
+-	01:17:46 PM 03 09 --> posted with username kriti.sanon143
+-	01:17:30 PM 03 09 --> posted with username disha.patani.updates
+-	01:16:25 PM 03 09 --> some error with posting having username urvashirautela26
+-	01:16:20 PM 03 09 --> posted with username shraddha.kapoor.sweet
+-	01:16:19 PM 03 09 --> posted with username angelinajolie143
+-	01:16:17 PM 03 09 --> posted with username realshrutihaasan
+-	01:16:01 PM 03 09 --> posted with username priyanka.chopra143
+-	01:14:40 PM 03 09 --> total users unfollowed from manushi.chillar.insta - 100
+-	01:14:37 PM 03 09 --> total users unfollowed from tamannaah.143 - 100
+-	01:14:34 PM 03 09 --> total users unfollowed from realshrutihaasan - 100
+-	01:14:22 PM 03 09 --> total users unfollowed from shraddha.kapoor.sweet - 100
+-	01:14:18 PM 03 09 --> total users unfollowed from disha.patani.updates - 100
+-	01:14:14 PM 03 09 --> total users unfollowed from kriti.sanon143 - 100
+-	01:13:06 PM 03 09 --> More following detected for realshrutihaasan. Starting unfollow process
+-	01:13:03 PM 03 09 --> More following detected for manushi.chillar.insta. Starting unfollow process
+-	01:12:59 PM 03 09 --> More following detected for tamannaah.143. Starting unfollow process
+-	01:12:54 PM 03 09 --> No need to unfollow for priyanka.chopra143
+-	01:12:50 PM 03 09 --> More following detected for shraddha.kapoor.sweet. Starting unfollow process
+-	01:12:47 PM 03 09 --> More following detected for kriti.sanon143. Starting unfollow process
+-	01:12:41 PM 03 09 --> some error with unfollowing having username urvashirautela26
+-	01:12:40 PM 03 09 --> More following detected for disha.patani.updates. Starting unfollow process
 -	10:49:27 AM 03 09 --> posted with username priyanka.chopra143
 -	10:49:10 AM 03 09 --> posted with username manushi.chillar.insta
 -	10:48:49 AM 03 09 --> posted with username disha.patani.updates
