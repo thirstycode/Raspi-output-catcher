@@ -1,5 +1,28 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	01:19:00 PM 04 09 --> posted with username priyanka.chopra143
+-	01:18:49 PM 04 09 --> some error with posting having username urvashirautela26
+-	01:17:45 PM 04 09 --> posted with username kriti.sanon143
+-	01:17:36 PM 04 09 --> posted with username shraddha.kapoor.sweet
+-	01:17:30 PM 04 09 --> posted with username disha.patani.updates
+-	01:17:13 PM 04 09 --> total users unfollowed from disha.patani.updates - 100
+-	01:16:52 PM 04 09 --> posted with username realshrutihaasan
+-	01:16:47 PM 04 09 --> posted with username tamannaah.143
+-	01:16:46 PM 04 09 --> posted with username manushi.chillar.insta
+-	01:16:23 PM 04 09 --> posted with username angelinajolie143
+-	01:14:40 PM 04 09 --> total users unfollowed from manushi.chillar.insta - 100
+-	01:14:33 PM 04 09 --> total users unfollowed from tamannaah.143 - 100
+-	01:14:29 PM 04 09 --> total users unfollowed from kriti.sanon143 - 100
+-	01:14:16 PM 04 09 --> total users unfollowed from shraddha.kapoor.sweet - 100
+-	01:13:51 PM 04 09 --> total users unfollowed from realshrutihaasan - 100
+-	01:13:07 PM 04 09 --> More following detected for kriti.sanon143. Starting unfollow process
+-	01:13:03 PM 04 09 --> More following detected for tamannaah.143. Starting unfollow process
+-	01:12:59 PM 04 09 --> More following detected for shraddha.kapoor.sweet. Starting unfollow process
+-	01:12:54 PM 04 09 --> No need to unfollow for priyanka.chopra143
+-	01:12:51 PM 04 09 --> More following detected for manushi.chillar.insta. Starting unfollow process
+-	01:12:45 PM 04 09 --> some error with unfollowing having username urvashirautela26
+-	01:12:43 PM 04 09 --> More following detected for disha.patani.updates. Starting unfollow process
+-	01:12:38 PM 04 09 --> More following detected for realshrutihaasan. Starting unfollow process
 -	10:49:52 AM 04 09 --> posted with username angelinajolie143
 -	10:49:45 AM 04 09 --> posted with username kriti.sanon143
 -	10:49:01 AM 04 09 --> posted with username realshrutihaasan
