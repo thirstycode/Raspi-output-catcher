@@ -1,5 +1,11 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	02:03:33 PM 04 09 --> total users unfollowed from disha.patani.updates - 200
+-	02:01:00 PM 04 09 --> total users unfollowed from tamannaah.143 - 200
+-	02:00:56 PM 04 09 --> total users unfollowed from manushi.chillar.insta - 200
+-	02:00:47 PM 04 09 --> total users unfollowed from kriti.sanon143 - 200
+-	02:00:30 PM 04 09 --> total users unfollowed from shraddha.kapoor.sweet - 200
+-	02:00:03 PM 04 09 --> total users unfollowed from realshrutihaasan - 200
 -	01:22:36 PM 04 09 --> No need to unfollow for angelinajolie143
 -	01:19:00 PM 04 09 --> posted with username priyanka.chopra143
 -	01:18:49 PM 04 09 --> some error with posting having username urvashirautela26
