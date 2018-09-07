@@ -1,5 +1,6 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	05:11:32 PM 07 09 --> total users followed from angelinajolie143 - 75
 -	04:51:15 PM 07 09 --> some error with posting having username priyanka.chopra143
 -	04:51:11 PM 07 09 --> posted with username realshrutihaasan
 -	04:51:08 PM 07 09 --> posted with username priyanka.chopra143
