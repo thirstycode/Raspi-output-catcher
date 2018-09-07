@@ -1,5 +1,18 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	01:18:33 PM 07 09 --> posted with username kriti.sanon143
+-	01:18:20 PM 07 09 --> posted with username manushi.chillar.insta
+-	01:18:00 PM 07 09 --> posted with username realshrutihaasan
+-	01:17:56 PM 07 09 --> posted with username disha.patani.updates
+-	01:17:24 PM 07 09 --> posted with username priyanka.chopra143
+-	01:16:53 PM 07 09 --> some error with posting having username urvashirautela26
+-	01:16:39 PM 07 09 --> posted with username shraddha.kapoor.sweet
+-	01:16:36 PM 07 09 --> posted with username tamannaah.143
+-	01:15:18 PM 07 09 --> posted with username angelinajolie143
+-	01:12:49 PM 07 09 --> No need to unfollow for tamannaah.143
+-	01:12:45 PM 07 09 --> some error with unfollowing having username urvashirautela26
+-	01:12:42 PM 07 09 --> More following detected for kriti.sanon143. Starting unfollow process
+-	01:12:37 PM 07 09 --> No need to unfollow for realshrutihaasan
 -	10:49:03 AM 07 09 --> posted with username tamannaah.143
 -	10:48:24 AM 07 09 --> posted with username kriti.sanon143
 -	10:47:51 AM 07 09 --> posted with username manushi.chillar.insta
