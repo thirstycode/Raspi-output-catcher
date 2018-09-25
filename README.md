@@ -1,5 +1,14 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	08:20:20 AM 25 09 --> some error with posting having username shraddha.kapoor.sweet
+-	08:19:35 AM 25 09 --> some error with posting having username realshrutihaasan
+-	08:19:01 AM 25 09 --> some error with posting having username kriti.sanon143
+-	08:18:56 AM 25 09 --> some error with posting having username tamannaah.143
+-	08:18:52 AM 25 09 --> some error with posting having username disha.patani.updates
+-	08:18:37 AM 25 09 --> some error with posting having username priyanka.chopra143
+-	08:18:20 AM 25 09 --> some error with posting having username manushi.chillar.insta
+-	08:17:50 AM 25 09 --> some error with posting having username urvashirautela26
+-	08:17:47 AM 25 09 --> some error with posting having username angelinajolie143
 -	10:56:23 PM 24 09 --> total users followed from tamannaah.143 - 600
 -	10:55:57 PM 24 09 --> total users followed from angelinajolie143 - 600
 -	10:54:24 PM 24 09 --> total users followed from disha.patani.updates - 600
