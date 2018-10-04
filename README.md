@@ -1,5 +1,8 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	05:19:55 PM 04 10 --> total users followed from kriti.sanon143 - 0
+-	05:19:54 PM 04 10 --> some error with following having username shraddha.kapoor.sweet
+-	05:19:19 PM 04 10 --> total users followed from tamannaah.143 - 0
 -	04:50:30 PM 04 10 --> some error with following having username urvashirautela26
 -	04:49:10 PM 04 10 --> posted with username realshrutihaasan
 -	04:48:58 PM 04 10 --> posted with username disha.patani.updates
