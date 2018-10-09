@@ -1,5 +1,30 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	01:19:10 PM 09 10 --> some error with posting having username manushi.chillar.insta
+-	01:18:55 PM 09 10 --> posted with username priyanka.chopra143
+-	01:18:34 PM 09 10 --> posted with username kriti.sanon143
+-	01:18:23 PM 09 10 --> posted with username realshrutihaasan
+-	01:17:37 PM 09 10 --> total users unfollowed from manushi.chillar.insta - 100
+-	01:16:45 PM 09 10 --> some error with posting having username angelinajolie143
+-	01:16:43 PM 09 10 --> posted with username angelinajolie143
+-	01:16:39 PM 09 10 --> posted with username shraddha.kapoor.sweet
+-	01:16:29 PM 09 10 --> some error with posting having username urvashirautela26
+-	01:16:27 PM 09 10 --> posted with username tamannaah.143
+-	01:16:22 PM 09 10 --> some error with posting having username disha.patani.updates
+-	01:14:40 PM 09 10 --> total users unfollowed from disha.patani.updates - 100
+-	01:14:39 PM 09 10 --> total users unfollowed from priyanka.chopra143 - 100
+-	01:14:32 PM 09 10 --> total users unfollowed from tamannaah.143 - 100
+-	01:14:16 PM 09 10 --> total users unfollowed from kriti.sanon143 - 100
+-	01:14:10 PM 09 10 --> total users unfollowed from realshrutihaasan - 100
+-	01:14:00 PM 09 10 --> total users unfollowed from shraddha.kapoor.sweet - 100
+-	01:13:05 PM 09 10 --> More following detected for tamannaah.143. Starting unfollow process
+-	01:13:04 PM 09 10 --> some error with unfollowing having username urvashirautela26
+-	01:13:01 PM 09 10 --> More following detected for priyanka.chopra143. Starting unfollow process
+-	01:12:57 PM 09 10 --> More following detected for disha.patani.updates. Starting unfollow process
+-	01:12:53 PM 09 10 --> More following detected for realshrutihaasan. Starting unfollow process
+-	01:12:48 PM 09 10 --> More following detected for manushi.chillar.insta. Starting unfollow process
+-	01:12:44 PM 09 10 --> More following detected for shraddha.kapoor.sweet. Starting unfollow process
+-	01:12:40 PM 09 10 --> More following detected for kriti.sanon143. Starting unfollow process
 -	10:49:51 AM 09 10 --> posted with username priyanka.chopra143
 -	10:49:13 AM 09 10 --> posted with username realshrutihaasan
 -	10:49:11 AM 09 10 --> posted with username shraddha.kapoor.sweet
