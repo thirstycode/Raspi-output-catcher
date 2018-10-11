@@ -1,5 +1,11 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	02:47:51 PM 11 10 --> total users unfollowed from kriti.sanon143 - 300
+-	02:47:46 PM 11 10 --> total users unfollowed from disha.patani.updates - 300
+-	02:47:42 PM 11 10 --> total users unfollowed from tamannaah.143 - 300
+-	02:47:41 PM 11 10 --> total users unfollowed from priyanka.chopra143 - 300
+-	02:47:04 PM 11 10 --> total users unfollowed from realshrutihaasan - 300
+-	02:46:58 PM 11 10 --> total users unfollowed from shraddha.kapoor.sweet - 300
 -	02:04:33 PM 11 10 --> total users unfollowed from manushi.chillar.insta - 200
 -	02:01:14 PM 11 10 --> total users unfollowed from disha.patani.updates - 200
 -	02:01:13 PM 11 10 --> total users unfollowed from tamannaah.143 - 200
