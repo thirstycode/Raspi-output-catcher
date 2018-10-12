@@ -1,5 +1,7 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	07:19:13 PM 12 10 --> some error with posting having username manushi.chillar.insta
+-	07:19:06 PM 12 10 --> posted with username kriti.sanon143
 -	05:07:33 PM 12 10 --> total users unfollowed from kriti.sanon143 - 600
 -	05:07:32 PM 12 10 --> total users unfollowed from disha.patani.updates - 600
 -	05:06:42 PM 12 10 --> total users unfollowed from tamannaah.143 - 600
