@@ -1,5 +1,30 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	01:18:37 PM 13 10 --> posted with username realshrutihaasan
+-	01:18:26 PM 13 10 --> posted with username tamannaah.143
+-	01:18:05 PM 13 10 --> some error with posting having username disha.patani.updates
+-	01:17:35 PM 13 10 --> total users unfollowed from kriti.sanon143 - 100
+-	01:17:05 PM 13 10 --> posted with username shraddha.kapoor.sweet
+-	01:17:01 PM 13 10 --> some error with posting having username manushi.chillar.insta
+-	01:16:49 PM 13 10 --> some error with posting having username urvashirautela26
+-	01:16:19 PM 13 10 --> some error with posting having username angelinajolie143
+-	01:16:16 PM 13 10 --> posted with username angelinajolie143
+-	01:16:13 PM 13 10 --> posted with username priyanka.chopra143
+-	01:16:01 PM 13 10 --> posted with username kriti.sanon143
+-	01:14:44 PM 13 10 --> total users unfollowed from disha.patani.updates - 100
+-	01:14:33 PM 13 10 --> total users unfollowed from realshrutihaasan - 100
+-	01:14:30 PM 13 10 --> total users unfollowed from manushi.chillar.insta - 100
+-	01:14:24 PM 13 10 --> total users unfollowed from tamannaah.143 - 100
+-	01:14:20 PM 13 10 --> total users unfollowed from shraddha.kapoor.sweet - 100
+-	01:14:19 PM 13 10 --> total users unfollowed from priyanka.chopra143 - 100
+-	01:13:09 PM 13 10 --> More following detected for disha.patani.updates. Starting unfollow process
+-	01:13:05 PM 13 10 --> More following detected for realshrutihaasan. Starting unfollow process
+-	01:13:00 PM 13 10 --> More following detected for shraddha.kapoor.sweet. Starting unfollow process
+-	01:12:57 PM 13 10 --> More following detected for manushi.chillar.insta. Starting unfollow process
+-	01:12:52 PM 13 10 --> More following detected for tamannaah.143. Starting unfollow process
+-	01:12:49 PM 13 10 --> More following detected for kriti.sanon143. Starting unfollow process
+-	01:12:44 PM 13 10 --> More following detected for priyanka.chopra143. Starting unfollow process
+-	01:12:37 PM 13 10 --> some error with unfollowing having username urvashirautela26
 -	10:49:35 AM 13 10 --> posted with username shraddha.kapoor.sweet
 -	10:49:04 AM 13 10 --> posted with username tamannaah.143
 -	10:48:18 AM 13 10 --> some error with posting having username angelinajolie143
