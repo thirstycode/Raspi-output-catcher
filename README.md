@@ -1,5 +1,15 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	04:48:26 PM 14 10 --> posted with username priyanka.chopra143
+-	04:47:55 PM 14 10 --> posted with username shraddha.kapoor.sweet
+-	04:47:48 PM 14 10 --> some error with posting having username angelinajolie143
+-	04:47:46 PM 14 10 --> posted with username angelinajolie143
+-	04:47:31 PM 14 10 --> some error with posting having username disha.patani.updates
+-	04:47:27 PM 14 10 --> some error with posting having username urvashirautela26
+-	04:47:13 PM 14 10 --> posted with username realshrutihaasan
+-	04:47:06 PM 14 10 --> some error with posting having username manushi.chillar.insta
+-	04:46:44 PM 14 10 --> posted with username kriti.sanon143
+-	04:45:58 PM 14 10 --> posted with username tamannaah.143
 -	04:25:04 PM 14 10 --> total users unfollowed from disha.patani.updates - 500
 -	04:24:58 PM 14 10 --> total users unfollowed from kriti.sanon143 - 500
 -	04:23:44 PM 14 10 --> total users unfollowed from priyanka.chopra143 - 500
