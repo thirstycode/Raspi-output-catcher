@@ -1,5 +1,30 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	01:19:05 PM 16 10 --> some error with posting having username disha.patani.updates
+-	01:19:01 PM 16 10 --> posted with username realshrutihaasan
+-	01:18:38 PM 16 10 --> some error with posting having username angelinajolie143
+-	01:18:36 PM 16 10 --> posted with username angelinajolie143
+-	01:18:28 PM 16 10 --> posted with username kriti.sanon143
+-	01:18:06 PM 16 10 --> posted with username tamannaah.143
+-	01:18:06 PM 16 10 --> posted with username shraddha.kapoor.sweet
+-	01:16:55 PM 16 10 --> some error with posting having username urvashirautela26
+-	01:16:24 PM 16 10 --> some error with posting having username manushi.chillar.insta
+-	01:16:10 PM 16 10 --> posted with username priyanka.chopra143
+-	01:14:35 PM 16 10 --> total users unfollowed from kriti.sanon143 - 100
+-	01:14:20 PM 16 10 --> total users unfollowed from disha.patani.updates - 100
+-	01:14:18 PM 16 10 --> total users unfollowed from realshrutihaasan - 100
+-	01:14:15 PM 16 10 --> total users unfollowed from tamannaah.143 - 100
+-	01:14:12 PM 16 10 --> total users unfollowed from shraddha.kapoor.sweet - 100
+-	01:14:10 PM 16 10 --> total users unfollowed from priyanka.chopra143 - 100
+-	01:13:07 PM 16 10 --> More following detected for kriti.sanon143. Starting unfollow process
+-	01:13:02 PM 16 10 --> More following detected for realshrutihaasan. Starting unfollow process
+-	01:12:58 PM 16 10 --> More following detected for shraddha.kapoor.sweet. Starting unfollow process
+-	01:12:52 PM 16 10 --> some error with unfollowing having username urvashirautela26
+-	01:12:50 PM 16 10 --> More following detected for disha.patani.updates. Starting unfollow process
+-	01:12:46 PM 16 10 --> More following detected for tamannaah.143. Starting unfollow process
+-	01:12:42 PM 16 10 --> More following detected for priyanka.chopra143. Starting unfollow process
+-	01:12:41 PM 16 10 --> some error with unfollowing having username manushi.chillar.insta
+-	01:12:39 PM 16 10 --> More following detected for manushi.chillar.insta. Starting unfollow process
 -	10:48:59 AM 16 10 --> posted with username priyanka.chopra143
 -	10:48:48 AM 16 10 --> some error with posting having username disha.patani.updates
 -	10:48:28 AM 16 10 --> posted with username tamannaah.143
