@@ -1,5 +1,11 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	02:00:50 PM 17 10 --> total users unfollowed from manushi.chillar.insta - 200
+-	02:00:45 PM 17 10 --> total users unfollowed from kriti.sanon143 - 200
+-	02:00:36 PM 17 10 --> total users unfollowed from disha.patani.updates - 200
+-	02:00:34 PM 17 10 --> total users unfollowed from priyanka.chopra143 - 200
+-	02:00:28 PM 17 10 --> total users unfollowed from tamannaah.143 - 200
+-	02:00:24 PM 17 10 --> total users unfollowed from realshrutihaasan - 200
 -	01:24:02 PM 17 10 --> total users unfollowed from angelinajolie143 - 100
 -	01:22:38 PM 17 10 --> More following detected for angelinajolie143. Starting unfollow process
 -	01:19:16 PM 17 10 --> posted with username disha.patani.updates
