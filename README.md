@@ -1,5 +1,29 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	01:19:16 PM 17 10 --> posted with username disha.patani.updates
+-	01:19:05 PM 17 10 --> posted with username manushi.chillar.insta
+-	01:19:02 PM 17 10 --> posted with username tamannaah.143
+-	01:18:56 PM 17 10 --> some error with posting having username urvashirautela26
+-	01:18:20 PM 17 10 --> posted with username priyanka.chopra143
+-	01:18:16 PM 17 10 --> posted with username shraddha.kapoor.sweet
+-	01:18:13 PM 17 10 --> posted with username kriti.sanon143
+-	01:17:57 PM 17 10 --> posted with username realshrutihaasan
+-	01:16:10 PM 17 10 --> posted with username angelinajolie143
+-	01:14:23 PM 17 10 --> total users unfollowed from manushi.chillar.insta - 100
+-	01:14:21 PM 17 10 --> total users unfollowed from kriti.sanon143 - 100
+-	01:14:09 PM 17 10 --> total users unfollowed from priyanka.chopra143 - 100
+-	01:14:09 PM 17 10 --> total users unfollowed from disha.patani.updates - 100
+-	01:14:08 PM 17 10 --> total users unfollowed from realshrutihaasan - 100
+-	01:14:04 PM 17 10 --> total users unfollowed from tamannaah.143 - 100
+-	01:13:07 PM 17 10 --> some error with unfollowing having username shraddha.kapoor.sweet
+-	01:13:06 PM 17 10 --> More following detected for shraddha.kapoor.sweet. Starting unfollow process
+-	01:13:04 PM 17 10 --> More following detected for manushi.chillar.insta. Starting unfollow process
+-	01:12:59 PM 17 10 --> More following detected for kriti.sanon143. Starting unfollow process
+-	01:12:55 PM 17 10 --> More following detected for realshrutihaasan. Starting unfollow process
+-	01:12:49 PM 17 10 --> some error with unfollowing having username urvashirautela26
+-	01:12:47 PM 17 10 --> More following detected for disha.patani.updates. Starting unfollow process
+-	01:12:44 PM 17 10 --> More following detected for priyanka.chopra143. Starting unfollow process
+-	01:12:39 PM 17 10 --> More following detected for tamannaah.143. Starting unfollow process
 -	10:49:17 AM 17 10 --> posted with username manushi.chillar.insta
 -	10:48:25 AM 17 10 --> posted with username disha.patani.updates
 -	10:48:14 AM 17 10 --> posted with username tamannaah.143
