@@ -1,5 +1,9 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	07:21:49 PM 20 10 --> posted with username realshrutihaasan
+-	07:20:57 PM 20 10 --> posted with username kriti.sanon143
+-	07:20:36 PM 20 10 --> posted with username tamannaah.143
+-	07:20:08 PM 20 10 --> posted with username shraddha.kapoor.sweet
 -	07:19:30 PM 20 10 --> some error with posting having username urvashirautela26
 -	07:19:29 PM 20 10 --> posted with username manushi.chillar.insta
 -	07:19:14 PM 20 10 --> posted with username priyanka.chopra143
@@ -11180,7 +11184,7 @@ r.insta - 375
 -	10:47:56 AM 13 06 --> posted with username urvashirautela26
 -	08:22:12 AM 13 06 --> some error with posting having username manushi.chillar.insta
 -	08:21:52 AM 13 06 --> some error with posting having username shraddha.kapoor.sweet
--	08:21:46 AM 13 06 --> some error with posting having username urvashirautela26
+-	08:21:46 AM 13 06 --> --> some error with posting having username urvashirautela26
 -	08:21:06 AM 13 06 --> some error with posting having username kriti.sanon143
 -	08:21:00 AM 13 06 --> some error with posting having username tamannaah.143
 -	08:20:09 AM 13 06 --> some error with posting having username realshrutihaasan
