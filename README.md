@@ -1,5 +1,7 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	04:29:46 PM 21 10 --> total users unfollowed from disha.patani.updates - 500
+-	04:22:09 PM 21 10 --> some error with unfollowing having username tamannaah.143
 -	04:19:55 PM 21 10 --> total users unfollowed from kriti.sanon143 - 500
 -	04:19:50 PM 21 10 --> total users unfollowed from shraddha.kapoor.sweet - 500
 -	04:19:46 PM 21 10 --> total users unfollowed from manushi.chillar.insta - 500
