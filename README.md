@@ -1,5 +1,29 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	01:17:51 PM 21 10 --> posted with username angelinajolie143
+-	01:17:39 PM 21 10 --> posted with username shraddha.kapoor.sweet
+-	01:17:32 PM 21 10 --> posted with username tamannaah.143
+-	01:17:15 PM 21 10 --> posted with username manushi.chillar.insta
+-	01:17:15 PM 21 10 --> posted with username priyanka.chopra143
+-	01:16:51 PM 21 10 --> posted with username disha.patani.updates
+-	01:16:19 PM 21 10 --> some error with posting having username urvashirautela26
+-	01:16:15 PM 21 10 --> posted with username kriti.sanon143
+-	01:15:54 PM 21 10 --> posted with username realshrutihaasan
+-	01:14:42 PM 21 10 --> total users unfollowed from tamannaah.143 - 100
+-	01:14:30 PM 21 10 --> total users unfollowed from disha.patani.updates - 100
+-	01:14:30 PM 21 10 --> total users unfollowed from shraddha.kapoor.sweet - 100
+-	01:14:22 PM 21 10 --> total users unfollowed from priyanka.chopra143 - 100
+-	01:14:19 PM 21 10 --> total users unfollowed from realshrutihaasan - 100
+-	01:14:18 PM 21 10 --> total users unfollowed from kriti.sanon143 - 100
+-	01:14:13 PM 21 10 --> total users unfollowed from manushi.chillar.insta - 100
+-	01:13:05 PM 21 10 --> More following detected for realshrutihaasan. Starting unfollow process
+-	01:13:01 PM 21 10 --> More following detected for tamannaah.143. Starting unfollow process
+-	01:12:57 PM 21 10 --> More following detected for shraddha.kapoor.sweet. Starting unfollow process
+-	01:12:51 PM 21 10 --> some error with unfollowing having username urvashirautela26
+-	01:12:48 PM 21 10 --> More following detected for disha.patani.updates. Starting unfollow process
+-	01:12:45 PM 21 10 --> More following detected for kriti.sanon143. Starting unfollow process
+-	01:12:41 PM 21 10 --> More following detected for priyanka.chopra143. Starting unfollow process
+-	01:12:37 PM 21 10 --> More following detected for manushi.chillar.insta. Starting unfollow process
 -	10:49:02 AM 21 10 --> posted with username angelinajolie143
 -	10:48:43 AM 21 10 --> posted with username realshrutihaasan
 -	10:48:05 AM 21 10 --> posted with username priyanka.chopra143
