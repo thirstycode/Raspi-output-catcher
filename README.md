@@ -1,5 +1,29 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	01:18:51 PM 22 10 --> posted with username disha.patani.updates
+-	01:17:32 PM 22 10 --> posted with username shraddha.kapoor.sweet
+-	01:17:26 PM 22 10 --> posted with username priyanka.chopra143
+-	01:17:20 PM 22 10 --> posted with username tamannaah.143
+-	01:17:17 PM 22 10 --> total users unfollowed from manushi.chillar.insta - 100
+-	01:17:15 PM 22 10 --> posted with username angelinajolie143
+-	01:17:12 PM 22 10 --> posted with username realshrutihaasan
+-	01:16:50 PM 22 10 --> posted with username kriti.sanon143
+-	01:16:31 PM 22 10 --> posted with username manushi.chillar.insta
+-	01:16:06 PM 22 10 --> some error with posting having username urvashirautela26
+-	01:14:55 PM 22 10 --> total users unfollowed from priyanka.chopra143 - 100
+-	01:14:31 PM 22 10 --> total users unfollowed from tamannaah.143 - 100
+-	01:14:24 PM 22 10 --> total users unfollowed from disha.patani.updates - 100
+-	01:14:06 PM 22 10 --> total users unfollowed from realshrutihaasan - 100
+-	01:14:00 PM 22 10 --> total users unfollowed from kriti.sanon143 - 100
+-	01:13:57 PM 22 10 --> total users unfollowed from shraddha.kapoor.sweet - 100
+-	01:13:07 PM 22 10 --> More following detected for tamannaah.143. Starting unfollow process
+-	01:13:02 PM 22 10 --> More following detected for disha.patani.updates. Starting unfollow process
+-	01:12:59 PM 22 10 --> More following detected for realshrutihaasan. Starting unfollow process
+-	01:12:54 PM 22 10 --> More following detected for priyanka.chopra143. Starting unfollow process
+-	01:12:49 PM 22 10 --> some error with unfollowing having username urvashirautela26
+-	01:12:46 PM 22 10 --> More following detected for shraddha.kapoor.sweet. Starting unfollow process
+-	01:12:43 PM 22 10 --> More following detected for manushi.chillar.insta. Starting unfollow process
+-	01:12:38 PM 22 10 --> More following detected for kriti.sanon143. Starting unfollow process
 -	10:49:29 AM 22 10 --> posted with username angelinajolie143
 -	10:48:54 AM 22 10 --> posted with username manushi.chillar.insta
 -	10:48:10 AM 22 10 --> posted with username realshrutihaasan
