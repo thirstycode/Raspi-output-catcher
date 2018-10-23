@@ -1,5 +1,6 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	06:00:39 PM 23 10 --> total users unfollowed from realshrutihaasan - 693
 -	05:54:34 PM 23 10 --> total users unfollowed from priyanka.chopra143 - 645
 -	05:53:25 PM 23 10 --> total users unfollowed from disha.patani.updates - 551
 -	05:51:31 PM 23 10 --> total users unfollowed from tamannaah.143 - 616
