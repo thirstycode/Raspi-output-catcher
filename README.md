@@ -1,5 +1,29 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	01:19:03 PM 23 10 --> posted with username shraddha.kapoor.sweet
+-	01:18:47 PM 23 10 --> some error with posting having username urvashirautela26
+-	01:18:34 PM 23 10 --> posted with username kriti.sanon143
+-	01:18:00 PM 23 10 --> posted with username priyanka.chopra143
+-	01:16:49 PM 23 10 --> posted with username realshrutihaasan
+-	01:16:45 PM 23 10 --> posted with username tamannaah.143
+-	01:16:32 PM 23 10 --> posted with username angelinajolie143
+-	01:16:24 PM 23 10 --> posted with username manushi.chillar.insta
+-	01:16:14 PM 23 10 --> posted with username disha.patani.updates
+-	01:14:33 PM 23 10 --> total users unfollowed from kriti.sanon143 - 100
+-	01:14:22 PM 23 10 --> total users unfollowed from tamannaah.143 - 100
+-	01:14:19 PM 23 10 --> total users unfollowed from manushi.chillar.insta - 100
+-	01:14:16 PM 23 10 --> total users unfollowed from shraddha.kapoor.sweet - 100
+-	01:14:07 PM 23 10 --> total users unfollowed from disha.patani.updates - 100
+-	01:14:06 PM 23 10 --> total users unfollowed from priyanka.chopra143 - 100
+-	01:13:44 PM 23 10 --> total users unfollowed from realshrutihaasan - 100
+-	01:13:07 PM 23 10 --> More following detected for kriti.sanon143. Starting unfollow process
+-	01:13:02 PM 23 10 --> More following detected for shraddha.kapoor.sweet. Starting unfollow process
+-	01:12:58 PM 23 10 --> More following detected for tamannaah.143. Starting unfollow process
+-	01:12:54 PM 23 10 --> some error with unfollowing having username urvashirautela26
+-	01:12:51 PM 23 10 --> More following detected for manushi.chillar.insta. Starting unfollow process
+-	01:12:46 PM 23 10 --> More following detected for disha.patani.updates. Starting unfollow process
+-	01:12:43 PM 23 10 --> More following detected for priyanka.chopra143. Starting unfollow process
+-	01:12:38 PM 23 10 --> More following detected for realshrutihaasan. Starting unfollow process
 -	10:49:24 AM 23 10 --> posted with username priyanka.chopra143
 -	10:48:43 AM 23 10 --> posted with username manushi.chillar.insta
 -	10:48:33 AM 23 10 --> posted with username tamannaah.143
