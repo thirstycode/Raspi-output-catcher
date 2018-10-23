@@ -1,5 +1,7 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	01:59:47 PM 23 10 --> total users unfollowed from realshrutihaasan - 193
+-	01:59:16 PM 23 10 --> some error with unfollowing having username shraddha.kapoor.sweet
 -	01:24:05 PM 23 10 --> total users unfollowed from angelinajolie143 - 100
 -	01:22:41 PM 23 10 --> More following detected for angelinajolie143. Starting unfollow process
 -	01:19:03 PM 23 10 --> posted with username shraddha.kapoor.sweet
