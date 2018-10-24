@@ -1,5 +1,7 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	01:24:04 PM 24 10 --> total users unfollowed from angelinajolie143 - 100
+-	01:22:48 PM 24 10 --> More following detected for angelinajolie143. Starting unfollow process
 -	01:18:55 PM 24 10 --> posted with username priyanka.chopra143
 -	01:18:54 PM 24 10 --> posted with username kriti.sanon143
 -	01:18:44 PM 24 10 --> posted with username angelinajolie143
