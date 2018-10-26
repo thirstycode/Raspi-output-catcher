@@ -1,5 +1,17 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	10:28:57 PM 26 10 --> posted with username tamannaah.143
+-	10:28:56 PM 26 10 --> posted with username realshrutihaasan
+-	10:28:54 PM 26 10 --> total users followed from disha.patani.updates - 600
+-	10:28:21 PM 26 10 --> posted with username angelinajolie143
+-	10:28:01 PM 26 10 --> total users followed from angelinajolie143 - 600
+-	10:27:48 PM 26 10 --> posted with username manushi.chillar.insta
+-	10:27:46 PM 26 10 --> posted with username priyanka.chopra143
+-	10:27:46 PM 26 10 --> posted with username disha.patani.updates
+-	10:27:39 PM 26 10 --> total users followed from realshrutihaasan - 600
+-	10:27:24 PM 26 10 --> total users followed from priyanka.chopra143 - 525
+-	10:27:14 PM 26 10 --> posted with username kriti.sanon143
+-	10:27:10 PM 26 10 --> some error with posting having username urvashirautela26
 -	09:19:26 PM 26 10 --> total users followed from realshrutihaasan - 525
 -	09:19:20 PM 26 10 --> total users followed from angelinajolie143 - 525
 -	09:18:53 PM 26 10 --> total users followed from kriti.sanon143 - 525
@@ -113,8 +125,7 @@
 -	10:27:00 PM 25 10 --> posted with username shraddha.kapoor.sweet
 -	09:40:36 PM 25 10 --> total users followed from disha.patani.updates - 525
 -	09:40:13 PM 25 10 --> total users followed from angelinajolie143 - 525
--	09:39:07 PM 25 10 --> total users followed from kriti.sanon143 - 525
--	09:37:43 PM 25 10 --> total users followed from tamannaah.143 - 523
+-	09:39:07 PM 25 10 --> total users followed from kriti.sanon14-	09:37:-	09:37:43 PM 25 10 --> total users followed from tamannaah.143 - 523
 -	09:37:42 PM 25 10 --> total users followed from manushi.chillar.insta - 525
 -	09:37:39 PM 25 10 --> total users followed from realshrutihaasan - 525
 -	09:11:02 PM 25 10 --> total users followed from kriti.sanon143 - 450
@@ -231,8 +242,7 @@
 -	04:48:31 PM 24 10 --> posted with username manushi.chillar.insta
 -	04:48:23 PM 24 10 --> posted with username priyanka.chopra143
 -	04:48:19 PM 24 10 --> some error with posting having username urvashirautela26
--	04:48:10 PM 24 10 --> posted with username tamannaah.143
--	04:48:08 PM 24 10 --> posted with username angelinajolie143
+-	04:48:10 PM 24 10 --> posted with username tamann-	04:48:08 PM 24 10 --> posted with username angelinajolie143
 -	04:47:10 PM 24 10 --> posted with username realshrutihaasan
 -	04:46:46 PM 24 10 --> posted with username disha.patani.updates
 -	04:46:38 PM 24 10 --> posted with username shraddha.kapoor.sweet
