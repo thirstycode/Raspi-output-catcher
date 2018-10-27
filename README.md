@@ -1,5 +1,8 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	07:21:38 PM 27 10 --> total users followed from manushi.chillar.insta - 301
+-	07:21:30 PM 27 10 --> some error with posting having username urvashirautela26
+-	07:20:16 PM 27 10 --> posted with username kriti.sanon143
 -	07:20:01 PM 27 10 --> posted with username manushi.chillar.insta
 -	07:19:54 PM 27 10 --> total users followed from disha.patani.updates - 300
 -	07:19:52 PM 27 10 --> posted with username disha.patani.updates
