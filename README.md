@@ -1,5 +1,10 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	05:18:10 PM 28 10 --> total users followed from realshrutihaasan - 75
+-	05:18:07 PM 28 10 --> total users followed from angelinajolie143 - 75
+-	05:17:39 PM 28 10 --> total users followed from disha.patani.updates - 75
+-	05:16:59 PM 28 10 --> total users followed from manushi.chillar.insta - 0
+-	05:16:51 PM 28 10 --> total users followed from kriti.sanon143 - 0
 -	05:07:50 PM 28 10 --> some error with following having username tamannaah.143
 -	04:50:30 PM 28 10 --> some error with following having username urvashirautela26
 -	04:48:34 PM 28 10 --> posted with username priyanka.chopra143
