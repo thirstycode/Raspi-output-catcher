@@ -1,5 +1,12 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	06:52:41 PM 31 10 --> total users followed from angelinajolie143 - 225
+-	06:52:02 PM 31 10 --> total users followed from kriti.sanon143 - 225
+-	06:51:36 PM 31 10 --> total users followed from manushi.chillar.insta - 225
+-	06:51:26 PM 31 10 --> total users followed from tamannaah.143 - 225
+-	06:51:19 PM 31 10 --> total users followed from shraddha.kapoor.sweet - 225
+-	06:51:06 PM 31 10 --> total users followed from priyanka.chopra143 - 225
+-	06:50:23 PM 31 10 --> total users followed from disha.patani.updates - 225
 -	06:49:20 PM 31 10 --> total users followed from realshrutihaasan - 225
 -	05:55:59 PM 31 10 --> total users followed from angelinajolie143 - 150
 -	05:53:11 PM 31 10 --> total users followed from manushi.chillar.insta - 150
