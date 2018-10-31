@@ -1,5 +1,10 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	11:25:00 PM 31 10 --> total users followed from kriti.sanon143 - 450
+-	11:24:51 PM 31 10 --> total users followed from shraddha.kapoor.sweet - 450
+-	11:24:40 PM 31 10 --> total users followed from angelinajolie143 - 450
+-	11:22:54 PM 31 10 --> total users followed from manushi.chillar.insta - 450
+-	11:22:47 PM 31 10 --> total users followed from realshrutihaasan - 525
 -	10:29:16 PM 31 10 --> some error with posting having username urvashirautela26
 -	10:29:08 PM 31 10 --> posted with username tamannaah.143
 -	10:28:18 PM 31 10 --> posted with username angelinajolie143
