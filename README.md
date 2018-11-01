@@ -1,5 +1,7 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	06:39:59 PM 01 11 --> some error with following having username priyanka.chopra143
+-	06:34:56 PM 01 11 --> some error with following having username tamannaah.143
 -	04:50:29 PM 01 11 --> some error with following having username urvashirautela26
 -	04:48:40 PM 01 11 --> some error with posting having username priyanka.chopra143
 -	04:48:38 PM 01 11 --> some error with posting having username urvashirautela26
