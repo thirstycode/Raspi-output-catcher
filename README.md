@@ -1,5 +1,15 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	11:19:36 PM 02 11 --> total users followed from kriti.sanon143 - 450
+-	10:30:25 PM 02 11 --> some error with posting having username manushi.chillar.insta
+-	10:30:18 PM 02 11 --> some error with posting having username realshrutihaasan
+-	10:30:14 PM 02 11 --> some error with posting having username tamannaah.143
+-	10:29:41 PM 02 11 --> some error with posting having username shraddha.kapoor.sweet
+-	10:29:22 PM 02 11 --> some error with posting having username kriti.sanon143
+-	10:29:19 PM 02 11 --> some error with posting having username disha.patani.updates
+-	10:29:04 PM 02 11 --> some error with posting having username priyanka.chopra143
+-	10:29:00 PM 02 11 --> some error with posting having username urvashirautela26
+-	10:26:46 PM 02 11 --> some error with posting having username angelinajolie143
 -	08:35:53 PM 02 11 --> total users followed from disha.patani.updates - 375
 -	08:35:41 PM 02 11 --> total users followed from manushi.chillar.insta - 375
 -	08:34:56 PM 02 11 --> total users followed from realshrutihaasan - 374
