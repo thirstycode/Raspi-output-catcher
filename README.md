@@ -1,5 +1,7 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	09:39:06 PM 03 11 --> total users followed from kriti.sanon143 - 450
+-	09:37:55 PM 03 11 --> some error with following having username manushi.chillar.insta
 -	09:14:50 PM 03 11 --> total users followed from kriti.sanon143 - 375
 -	09:14:43 PM 03 11 --> total users followed from manushi.chillar.insta - 375
 -	09:13:53 PM 03 11 --> total users followed from shraddha.kapoor.sweet - 375
