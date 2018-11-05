@@ -1,5 +1,13 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	08:19:51 AM 05 11 --> posted with username manushi.chillar.insta
+-	08:19:41 AM 05 11 --> posted with username priyanka.chopra143
+-	08:19:32 AM 05 11 --> posted with username shraddha.kapoor.sweet
+-	08:19:11 AM 05 11 --> some error with posting having username kriti.sanon143
+-	08:18:40 AM 05 11 --> posted with username angelinajolie143
+-	08:18:22 AM 05 11 --> some error with posting having username urvashirautela26
+-	08:17:33 AM 05 11 --> posted with username disha.patani.updates
+-	08:16:41 AM 05 11 --> posted with username realshrutihaasan
 -	12:13:47 AM 05 11 --> some error with following having username realshrutihaasan
 -	10:30:09 PM 04 11 --> posted with username realshrutihaasan
 -	10:29:39 PM 04 11 --> posted with username shraddha.kapoor.sweet
@@ -112,8 +120,7 @@
 -	07:20:34 PM 03 11 --> posted with username kriti.sanon143
 -	07:20:07 PM 03 11 --> posted with username disha.patani.updates
 -	07:20:05 PM 03 11 --> some error with posting having username urvashirautela26
--	07:19:37 PM 03 11 --> posted with username angelinajolie143
--	07:19:30 PM 03 11 --> posted with username shraddha.kapoor.sweet
+-	07:19:37 PM 03 11 --> posted with username angelinajolie1-	0-	07:19:30 PM 03 11 --> posted with username shraddha.kapoor.sweet
 -	07:05:02 PM 03 11 --> total users followed from disha.patani.updates - 300
 -	07:02:19 PM 03 11 --> total users followed from angelinajolie143 - 300
 -	07:01:56 PM 03 11 --> total users followed from manushi.chillar.insta - 300
@@ -227,8 +234,7 @@
 -	07:01:18 PM 02 11 --> some error with following having username tamannaah.143
 -	06:29:42 PM 02 11 --> total users followed from realshrutihaasan - 149
 -	06:26:16 PM 02 11 --> total users followed from tamannaah.143 - 150
--	06:26:14 PM 02 11 --> total users followed from disha.patani.updates - 150
--	06:25:38 PM 02 11 --> total users followed from manushi.chillar.insta - 150
+-	06:26:14 PM 02 11 --> total users followed from disha.patani.updates - 1-	0-	06:25:38 PM 02 11 --> total users followed from manushi.chillar.insta - 150
 -	06:24:51 PM 02 11 --> total users followed from priyanka.chopra143 - 150
 -	06:24:03 PM 02 11 --> total users followed from kriti.sanon143 - 150
 -	06:23:28 PM 02 11 --> total users followed from angelinajolie143 - 150
@@ -345,8 +351,7 @@
 -	01:17:34 PM 01 11 --> posted with username kriti.sanon143
 -	01:17:03 PM 01 11 --> posted with username manushi.chillar.insta
 -	01:16:36 PM 01 11 --> posted with username realshrutihaasan
--	01:16:19 PM 01 11 --> posted with username disha.patani.updates
--	10:49:08 AM 01 11 --> posted with username disha.patani.updates
+-	01:16:19 PM 01 11 --> posted with username disha.patani.updat-	1-	10:49:08 AM 01 11 --> posted with username disha.patani.updates
 -	10:48:38 AM 01 11 --> posted with username shraddha.kapoor.sweet
 -	10:48:27 AM 01 11 --> posted with username manushi.chillar.insta
 -	10:48:03 AM 01 11 --> posted with username priyanka.chopra143
@@ -464,8 +469,7 @@
 -	08:18:05 AM 31 10 --> posted with username priyanka.chopra143
 -	08:18:05 AM 31 10 --> posted with username angelinajolie143
 -	08:17:50 AM 31 10 --> posted with username tamannaah.143
--	08:17:31 AM 31 10 --> posted with username shraddha.kapoor.sweet
--	08:17:24 AM 31 10 --> posted with username disha.patani.updates
+-	08:17:31 AM 31 10 --> posted with username shraddha.kapoor.swe-	0-	08:17:24 AM 31 10 --> posted with username disha.patani.updates
 -	08:17:05 AM 31 10 --> some error with posting having username urvashirautela26
 -	10:30:07 PM 30 10 --> some error with posting having username urvashirautela26
 -	10:29:41 PM 30 10 --> posted with username kriti.sanon143
@@ -581,8 +585,7 @@
 -	08:16:58 AM 30 10 --> posted with username priyanka.chopra143
 -	11:49:23 PM 29 10 --> total users followed from realshrutihaasan - 600
 -	11:47:43 PM 29 10 --> total users followed from angelinajolie143 - 600
--	10:55:29 PM 29 10 --> total users followed from realshrutihaasan - 525
--	10:54:17 PM 29 10 --> total users followed from angelinajolie143 - 525
+-	10:55:29 PM 29 10 --> total users followed from realshrutihaasan - 5-	1-	10:54:17 PM 29 10 --> total users followed from angelinajolie143 - 525
 -	10:51:14 PM 29 10 --> total users followed from manushi.chillar.insta - 600
 -	10:38:33 PM 29 10 --> some error with following having username shraddha.kapoor.sweet
 -	10:33:49 PM 29 10 --> some error with following having username disha.patani.updates
@@ -696,8 +699,7 @@
 -	10:29:12 PM 28 10 --> posted with username kriti.sanon143
 -	10:29:04 PM 28 10 --> posted with username angelinajolie143
 -	10:28:58 PM 28 10 --> posted with username shraddha.kapoor.sweet
--	10:28:10 PM 28 10 --> posted with username tamannaah.143
--	10:28:04 PM 28 10 --> total users followed from kriti.sanon143 - 525
+-	10:28:10 PM 28 10 --> posted with username tamannaah.1-	1-	10:28:04 PM 28 10 --> total users followed from kriti.sanon143 - 525
 -	10:27:33 PM 28 10 --> posted with username disha.patani.updates
 -	10:27:20 PM 28 10 --> posted with username manushi.chillar.insta
 -	10:24:56 PM 28 10 --> total users followed from manushi.chillar.insta - 525
@@ -811,8 +813,7 @@
 -	02:57:06 AM 28 10 --> total users followed from manushi.chillar.insta - 526
 -	02:56:14 AM 28 10 --> total users followed from realshrutihaasan - 525
 -	12:28:16 AM 28 10 --> some error with following having username priyanka.chopra143
--	10:30:15 PM 27 10 --> posted with username realshrutihaasan
--	10:30:03 PM 27 10 --> posted with username manushi.chillar.insta
+-	10:30:15 PM 27 10 --> posted with username realshrutihaas-	1-	10:30:03 PM 27 10 --> posted with username manushi.chillar.insta
 -	10:29:06 PM 27 10 --> some error with posting having username urvashirautela26
 -	10:28:44 PM 27 10 --> posted with username disha.patani.updates
 -	10:28:38 PM 27 10 --> posted with username priyanka.chopra143
@@ -928,8 +929,7 @@
 -	10:27:48 PM 26 10 --> posted with username manushi.chillar.insta
 -	10:27:46 PM 26 10 --> posted with username priyanka.chopra143
 -	10:27:46 PM 26 10 --> posted with username disha.patani.updates
--	10:27:39 PM 26 10 --> total users followed from realshrutihaasan - 600
--	10:27:24 PM 26 10 --> total users followed from priyanka.chopra143 - 525
+-	10:27:39 PM 26 10 --> total users followed from realshrutihaasan - 6-	1-	10:27:24 PM 26 10 --> total users followed from priyanka.chopra143 - 525
 -	10:27:14 PM 26 10 --> posted with username kriti.sanon143
 -	10:27:10 PM 26 10 --> some error with posting having username urvashirautela26
 -	09:19:26 PM 26 10 --> total users followed from realshrutihaasan - 525
@@ -1044,8 +1044,7 @@
 -	10:27:00 PM 25 10 --> posted with username shraddha.kapoor.sweet
 -	09:40:36 PM 25 10 --> total users followed from disha.patani.updates - 525
 -	09:40:13 PM 25 10 --> total users followed from angelinajolie143 - 525
--	09:39:07 PM 25 10 --> total users followed from kriti.sanon14-	09:37:-	09:37:43 PM 25 10 --> total users followed from tamannaah.143 - 523
--	09:37:42 PM 25 10 --> total users followed from manushi.chillar.insta - 525
+-	09:39:07 PM 25 10 --> total users followed from kriti.sanon14-	09:37:-	09:37:43 PM 25 10 --> total users followed from tamannaah.143 - 5-	0-	09:37:42 PM 25 10 --> total users followed from manushi.chillar.insta - 525
 -	09:37:39 PM 25 10 --> total users followed from realshrutihaasan - 525
 -	09:11:02 PM 25 10 --> total users followed from kriti.sanon143 - 450
 -	09:09:51 PM 25 10 --> total users followed from realshrutihaasan - 450
@@ -1161,8 +1160,7 @@
 -	04:48:23 PM 24 10 --> posted with username priyanka.chopra143
 -	04:48:19 PM 24 10 --> some error with posting having username urvashirautela26
 -	04:48:10 PM 24 10 --> posted with username tamann-	04:48:08 PM 24 10 --> posted with username angelinajolie143
--	04:47:10 PM 24 10 --> posted with username realshrutihaasan
--	04:46:46 PM 24 10 --> posted with username disha.patani.updates
+-	04:47:10 PM 24 10 --> posted with username realshrutihaas-	0-	04:46:46 PM 24 10 --> posted with username disha.patani.updates
 -	04:46:38 PM 24 10 --> posted with username shraddha.kapoor.sweet
 -	04:46:28 PM 24 10 --> posted with username kriti.sanon143
 -	04:29:30 PM 24 10 --> total users unfollowed from angelinajolie143 - 500
@@ -1275,8 +1273,7 @@
 -	03:32:44 PM 23 10 --> total users unfollowed from kriti.sanon143 - 346
 -	03:32:32 PM 23 10 --> total users unfollowed from realshrutihaasan - 393
 -	03:32:30 PM 23 10 --> total users unfollowed from disha.patani.updates - 350
--	02:56:53 PM 23 10 --> total users unfollowed from angelinajolie143 - 300
--	02:47:14 PM 23 10 --> total users unfollowed from tamannaah.143 - 300
+-	02:56:53 PM 23 10 --> total users unfollowed from angelinajolie143 - 3-	0-	02:47:14 PM 23 10 --> total users unfollowed from tamannaah.143 - 300
 -	02:47:11 PM 23 10 --> total users unfollowed from kriti.sanon143 - 300
 -	02:47:02 PM 23 10 --> total users unfollowed from manushi.chillar.insta - 300
 -	02:46:51 PM 23 10 --> total users unfollowed from priyanka.chopra143 - 300
@@ -1387,8 +1384,7 @@
 -	02:50:08 PM 22 10 --> total users unfollowed from manushi.chillar.insta - 300
 -	02:50:04 PM 22 10 --> total users unfollowed from kriti.sanon143 - 300
 -	02:48:38 PM 22 10 --> total users unfollowed from priyanka.chopra143 - 300
--	02:47:20 PM 22 10 --> total users unfollowed from tamannaah.143 - 300
--	02:47:11 PM 22 10 --> total users unfollowed from disha.patani.updates - 300
+-	02:47:20 PM 22 10 --> total users unfollowed from tamannaah.143 - 3-	02:47:11 PM 22 10 --> total users unfollowed from disha.patani.updates - 300
 -	02:46:28 PM 22 10 --> total users unfollowed from shraddha.kapoor.sweet - 300
 -	02:46:21 PM 22 10 --> total users unfollowed from realshrutihaasan - 300
 -	02:10:27 PM 22 10 --> total users unfollowed from angelinajolie143 - 200
@@ -1499,7 +1495,7 @@
 -	02:47:24 PM 21 10 --> total users unfollowed from kriti.sanon143 - 300
 -	02:47:17 PM 21 10 --> total users unfollowed from manushi.chillar.insta - 300
 -	02:47:08 PM 21 10 --> total users unfollowed from realshrutihaasan - 300
--	02:13:42 PM 21 10 --> total users unfollowed from angelinajolie143 - 200
+-	0-	02:13:42 PM 21 10 --> total users unfollowed from angelinajolie143 - 200
 -	02:10:35 PM 21 10 --> total users unfollowed from disha.patani.updates - 200
 -	02:10:28 PM 21 10 --> total users unfollowed from priyanka.chopra143 - 200
 -	02:04:24 PM 21 10 --> total users unfollowed from tamannaah.143 - 200
@@ -1614,8 +1610,7 @@
 -	07:18:33 PM 17 10 --> posted with username manushi.chillar.insta
 -	07:18:13 PM 17 10 --> some error with posting having username urvashirautela26
 -	05:19:35 PM 17 10 --> total users unfollowed from angelinajolie143 - 600
--	05:09:27 PM 17 10 --> total users unfollowed from priyanka.chopra143 - 600
--	05:09:25 PM 17 10 --> total users unfollowed from tamannaah.143 - 600
+-	05:09:27 PM 17 10 --> total users unfollowed from priyanka.chopra143 - 6-	0-	05:09:25 PM 17 10 --> total users unfollowed from tamannaah.143 - 600
 -	05:07:27 PM 17 10 --> total users unfollowed from manushi.chillar.insta - 600
 -	05:06:25 PM 17 10 --> total users unfollowed from disha.patani.updates - 600
 -	05:06:14 PM 17 10 --> total users unfollowed from kriti.sanon143 - 600
@@ -1724,8 +1719,7 @@
 -	05:09:42 PM 16 10 --> total users unfollowed from tamannaah.143 - 600
 -	05:08:47 PM 16 10 --> total users unfollowed from realshrutihaasan - 600
 -	05:08:28 PM 16 10 --> total users unfollowed from shraddha.kapoor.sweet - 600
--	04:49:03 PM 16 10 --> posted with username kriti.sanon143
--	04:48:32 PM 16 10 --> posted with username priyanka.chopra143
+-	04:49:03 PM 16 10 --> posted with username kriti.sanon1-	0-	04:48:32 PM 16 10 --> posted with username priyanka.chopra143
 -	04:48:00 PM 16 10 --> some error with posting having username manushi.chillar.insta
 -	04:47:53 PM 16 10 --> some error with posting having username angelinajolie143
 -	04:47:52 PM 16 10 --> posted with username realshrutihaasan
@@ -1831,8 +1825,7 @@
 -	04:49:02 PM 15 10 --> some error with posting having username angelinajolie143
 -	04:49:00 PM 15 10 --> posted with username angelinajolie143
 -	04:48:51 PM 15 10 --> some error with posting having username urvashirautela26
--	04:48:29 PM 15 10 --> posted with username kriti.sanon143
--	04:48:28 PM 15 10 --> posted with username priyanka.chopra143
+-	04:48:29 PM 15 10 --> posted with username kriti.sanon1-	0-	04:48:28 PM 15 10 --> posted with username priyanka.chopra143
 -	04:47:13 PM 15 10 --> some error with posting having username manushi.chillar.insta
 -	04:46:43 PM 15 10 --> some error with posting having username disha.patani.updates
 -	04:46:38 PM 15 10 --> posted with username tamannaah.143
@@ -1935,8 +1928,7 @@
 -	05:05:47 PM 14 10 --> total users unfollowed from shraddha.kapoor.sweet - 600
 -	04:48:26 PM 14 10 --> posted with username priyanka.chopra143
 -	04:47:55 PM 14 10 --> posted with username shraddha.kapoor.sweet
--	04:47:48 PM 14 10 --> some error with posting having username angelinajolie143
--	04:47:46 PM 14 10 --> posted with username angelinajolie143
+-	04:47:48 PM 14 10 --> some error with posting having username angelinajolie1-	0-	04:47:46 PM 14 10 --> posted with username angelinajolie143
 -	04:47:31 PM 14 10 --> some error with posting having username disha.patani.updates
 -	04:47:27 PM 14 10 --> some error with posting having username urvashirautela26
 -	04:47:13 PM 14 10 --> posted with username realshrutihaasan
@@ -2041,8 +2033,7 @@
 -	05:06:19 PM 13 10 --> total users unfollowed from realshrutihaasan - 600
 -	05:05:47 PM 13 10 --> total users unfollowed from shraddha.kapoor.sweet - 600
 -	04:48:30 PM 13 10 --> posted with username kriti.sanon143
--	04:47:26 PM 13 10 --> some error with posting having username urvashirautela26
--	04:47:16 PM 13 10 --> some error with posting having username angelinajolie143
+-	04:47:26 PM 13 10 --> some error with posting having username urvashirautela-	0-	04:47:16 PM 13 10 --> some error with posting having username angelinajolie143
 -	04:47:16 PM 13 10 --> posted with username priyanka.chopra143
 -	04:47:14 PM 13 10 --> posted with username angelinajolie143
 -	04:46:56 PM 13 10 --> some error with posting having username manushi.chillar.insta
@@ -2146,8 +2137,7 @@
 -	05:05:41 PM 12 10 --> total users unfollowed from realshrutihaasan - 600
 -	04:48:50 PM 12 10 --> posted with username tamannaah.143
 -	04:48:46 PM 12 10 --> some error with posting having username manushi.chillar.insta
--	04:47:57 PM 12 10 --> some error with posting having username angelinajolie143
--	04:47:54 PM 12 10 --> posted with username priyanka.chopra143
+-	04:47:57 PM 12 10 --> some error with posting having username angelinajolie1-	0-	04:47:54 PM 12 10 --> posted with username priyanka.chopra143
 -	04:47:53 PM 12 10 --> posted with username angelinajolie143
 -	04:46:22 PM 12 10 --> posted with username kriti.sanon143
 -	04:46:11 PM 12 10 --> posted with username shraddha.kapoor.sweet
@@ -2252,8 +2242,7 @@
 -	04:48:47 PM 11 10 --> some error with posting having username disha.patani.updates
 -	04:48:01 PM 11 10 --> posted with username shraddha.kapoor.sweet
 -	04:47:55 PM 11 10 --> some error with posting having username urvashirautela26
--	04:47:13 PM 11 10 --> posted with username realshrutihaasan
--	04:47:04 PM 11 10 --> posted with username kriti.sanon143
+-	04:47:13 PM 11 10 --> posted with username realshrutihaas-	0-	04:47:04 PM 11 10 --> posted with username kriti.sanon143
 -	04:46:28 PM 11 10 --> some error with posting having username angelinajolie143
 -	04:46:25 PM 11 10 --> posted with username angelinajolie143
 -	04:45:52 PM 11 10 --> posted with username tamannaah.143
@@ -2358,8 +2347,7 @@
 -	04:47:51 PM 10 10 --> some error with posting having username urvashirautela26
 -	04:47:43 PM 10 10 --> some error with posting having username manushi.chillar.insta
 -	04:47:15 PM 10 10 --> posted with username tamannaah.143
--	04:47:11 PM 10 10 --> some error with posting having username disha.patani.updates
--	04:47:03 PM 10 10 --> posted with username priyanka.chopra143
+-	04:47:11 PM 10 10 --> some error with posting having username disha.patani.updat-	0-	04:47:03 PM 10 10 --> posted with username priyanka.chopra143
 -	04:46:38 PM 10 10 --> posted with username kriti.sanon143
 -	04:46:35 PM 10 10 --> posted with username shraddha.kapoor.sweet
 -	04:45:22 PM 10 10 --> some error with posting having username angelinajolie143
@@ -2465,8 +2453,7 @@
 -	04:47:59 PM 09 10 --> posted with username angelinajolie143
 -	04:47:36 PM 09 10 --> posted with username priyanka.chopra143
 -	04:47:34 PM 09 10 --> some error with posting having username disha.patani.updates
--	04:46:34 PM 09 10 --> posted with username realshrutihaasan
--	04:46:12 PM 09 10 --> some error with posting having username manushi.chillar.insta
+-	04:46:34 PM 09 10 --> posted with username realshrutihaas-	0-	04:46:12 PM 09 10 --> some error with posting having username manushi.chillar.insta
 -	04:46:10 PM 09 10 --> posted with username shraddha.kapoor.sweet
 -	04:46:02 PM 09 10 --> posted with username tamannaah.143
 -	04:46:00 PM 09 10 --> some error with posting having username urvashirautela26
@@ -2571,8 +2558,7 @@
 -	04:48:21 PM 08 10 --> posted with username kriti.sanon143
 -	04:47:38 PM 08 10 --> posted with username shraddha.kapoor.sweet
 -	04:47:37 PM 08 10 --> posted with username realshrutihaasan
--	04:47:36 PM 08 10 --> some error with posting having username angelinajolie143
--	04:47:33 PM 08 10 --> posted with username angelinajolie143
+-	04:47:36 PM 08 10 --> some error with posting having username angelinajolie1-	0-	04:47:33 PM 08 10 --> posted with username angelinajolie143
 -	04:47:17 PM 08 10 --> some error with posting having username disha.patani.updates
 -	04:46:33 PM 08 10 --> some error with posting having username manushi.chillar.insta
 -	04:46:28 PM 08 10 --> posted with username tamannaah.143
@@ -2676,8 +2662,7 @@
 -	09:34:40 PM 07 10 --> total users followed from shraddha.kapoor.sweet - 375
 -	09:32:53 PM 07 10 --> total users followed from disha.patani.updates - 0
 -	09:32:51 PM 07 10 --> total users followed from manushi.chillar.insta - 280
--	09:32:17 PM 07 10 --> total users followed from priyanka.chopra143 - 0
--	09:31:42 PM 07 10 --> total users followed from kriti.sanon143 - 0
+-	09:32:17 PM 07 10 --> total users followed from priyanka.chopra143 --	0-	09:31:42 PM 07 10 --> total users followed from kriti.sanon143 - 0
 -	09:31:39 PM 07 10 --> total users followed from tamannaah.143 - 1
 -	09:31:16 PM 07 10 --> total users followed from realshrutihaasan - 152
 -	08:47:52 PM 07 10 --> total users followed from manushi.chillar.insta - 279
@@ -2785,8 +2770,7 @@
 -	07:54:28 PM 06 10 --> total users followed from priyanka.chopra143 - 0
 -	07:38:06 PM 06 10 --> total users followed from disha.patani.updates - 0
 -	07:37:39 PM 06 10 --> total users followed from manushi.chillar.insta - 150
--	07:36:44 PM 06 10 --> total users followed from tamannaah.143 - 2
--	07:36:27 PM 06 10 --> total users followed from kriti.sanon143 - 0
+-	07:36:44 PM 06 10 --> total users followed from tamannaah.143 --	0-	07:36:27 PM 06 10 --> total users followed from kriti.sanon143 - 0
 -	07:35:48 PM 06 10 --> total users followed from realshrutihaasan - 150
 -	07:35:11 PM 06 10 --> total users followed from priyanka.chopra143 - 0
 -	07:21:25 PM 06 10 --> posted with username priyanka.chopra143
@@ -2894,8 +2878,7 @@
 -	04:50:30 PM 05 10 --> some error with following having username urvashirautela26
 -	04:48:48 PM 05 10 --> posted with username tamannaah.143
 -	04:48:32 PM 05 10 --> some error with posting having username angelinajolie143
--	04:48:29 PM 05 10 --> posted with username angelinajolie143
--	04:47:09 PM 05 10 --> some error with posting having username disha.patani.updates
+-	04:48:29 PM 05 10 --> posted with username angelinajolie1-	0-	04:47:09 PM 05 10 --> some error with posting having username disha.patani.updates
 -	04:46:39 PM 05 10 --> posted with username kriti.sanon143
 -	04:46:05 PM 05 10 --> some error with posting having username urvashirautela26
 -	04:45:55 PM 05 10 --> posted with username priyanka.chopra143
@@ -3004,8 +2987,7 @@
 -	01:17:45 PM 04 10 --> posted with username kriti.sanon143
 -	01:17:44 PM 04 10 --> posted with username angelinajolie143
 -	01:17:31 PM 04 10 --> some error with posting having username urvashirautela26
--	01:16:58 PM 04 10 --> posted with username disha.patani.updates
--	01:16:49 PM 04 10 --> some error with posting having username manushi.chillar.insta
+-	01:16:58 PM 04 10 --> posted with username disha.patani.updat-	0-	01:16:49 PM 04 10 --> some error with posting having username manushi.chillar.insta
 -	01:16:42 PM 04 10 --> posted with username shraddha.kapoor.sweet
 -	10:49:29 AM 04 10 --> posted with usern-	10:48:43 AM 04 10-	10:48:43 AM 04 10 --> posted with username disha.patani.updates
 -	10:48:42 AM 04 10 --> some error with posting having username urvashirautela26
@@ -3113,8 +3095,7 @@
 -	01:19:06 AM 03 10 --> total users followed from disha.patani.updates - 35
 -	01:18:50 AM 03 10 --> total users followed from priyanka.chopra143 - 525
 -	01:18:09 AM 03 10 --> total users followed from shraddha.kapoor.sweet - 450
--	01:18:05 AM 03 10 --> total users followed from tamannaah.143 - 218
--	01:17:38 AM 03 10 --> total users followed from kriti.sanon143 - 52
+-	01:18:05 AM 03 10 --> total users followed from tamannaah.143 - 2-	0-	01:17:38 AM 03 10 --> total users followed from kriti.sanon143 - 52
 -	10:30:15 PM 02 10 --> posted with username shraddha.kapoor.sweet
 -	10:28:38 PM 02 10 --> posted with user-	10:28:32 PM 02 10-	10:28:32 PM 02 10 --> some error with posting having username urvashirautela26
 -	10:28:26 PM 02 10 --> posted with username priyanka.chopra143
@@ -3223,8 +3204,7 @@
 -	09:52:29 PM 01 10 --> total users followed from realshrutihaasan - 525
 -	09:52:07 PM 01 10 --> total users followed from priyanka.chopra143 - 525
 -	09:51:07 PM 01 10 --> total users followed from kriti.sanon143 - 408
--	09:51:07 PM 01 10 --> total users followed from disha.patani.updates - 408
--	09:49:53 PM 01 10 --> total users followed from manushi.chillar.insta - 525
+-	09:51:07 PM 01 10 --> total users followed from disha.patani.updates - 4-	0-	09:49:53 PM 01 10 --> total users followed from manushi.chillar.insta - 525
 -	09:49:06 PM 01 10 --> total users followed from tamannaah.143 - 525
 -	07:32:22 PM 01 10 --> total users followed from disha.pa-	07:31:26 PM 01 10-	07:31:26 PM 01 10 --> total users followed from manushi.chillar.insta - 450
 -	07:31:05 PM 01 10 --> total users followed from kriti.sanon143 - 408
@@ -3331,8 +3311,7 @@
 -	10:29:41 PM 30 09 --> posted with username tamannaah.143
 -	10:29:32 PM 30 09 --> some error with posting having username angelinajolie143
 -	10:29:30 PM 30 09 --> posted with username angelinajolie143
--	10:29:25 PM 30 09 --> posted with username realshrutihaasan
--	10:29:24 PM 30 09 --> posted with username kriti.sanon143
+-	10:29:25 PM 30 09 --> posted with username realshrutihaas-	1-	10:29:24 PM 30 09 --> posted with username kriti.sanon143
 -	10:29:13 PM 30 09 --> some error with posting having username urvashirautela26
 -	10:28:55 PM 30 09 --> posted with username man-	10:27:55 PM 30 09-	10:27:55 PM 30 09 --> posted with username priyanka.chopra143
 -	08:20:07 PM 30 09 --> total users followed from priyanka.chopra143 - 300
@@ -3442,8 +3421,7 @@
 -	08:24:14 PM 29 09 --> total users followed from manushi.chillar.insta - 150
 -	07:21:50 PM 29 09 --> posted with username priyanka.chopra143
 -	07:21:43 PM 29 09 --> posted with username realshrutihaasan
--	07:21:22 PM 29 09 --> some error with posting having username angelinajolie143
--	07:21:19 PM 29 09 --> posted with username angelinajolie143
+-	07:21:22 PM 29 09 --> some error with posting having username angelinajolie1-	0-	07:21:19 PM 29 09 --> posted with username angelinajolie143
 -	07:21:17 PM 29 09 --> posted with username disha.patani.updates
 -	07:20:39 PM 29 09 --> some error with posting having usernam-	07:19:43 PM 29 09-	07:19:43 PM 29 09 --> posted with username tamannaah.143
 -	07:19:09 PM 29 09 --> posted with username manushi.chillar.insta
@@ -3555,8 +3533,7 @@
 -	01:18:57 PM 28 09 --> posted with username disha.patani.updates
 -	01:18:49 PM 28 09 --> some error with posting having username angelinajolie143
 -	01:18:46 PM 28 09 --> posted with username angelinajolie143
--	01:18:41 PM 28 09 --> posted with username tamannaah.143
--	01:18:27 PM 28 09 --> posted with username shraddha.kapoor.sweet
+-	01:18:41 PM 28 09 --> posted with username tamannaah.1-	0-	01:18:27 PM 28 09 --> posted with username shraddha.kapoor.sweet
 -	01:17:11 PM 28 09 --> posted with username priyanka.chopra143
 -	01:17:11 PM 28 09 --> some error with posting having usernam-	01:17:02 PM 28 09-	01:17:02 PM 28 09 --> posted with username manushi.chillar.insta
 -	01:16:34 PM 28 09 --> posted with username realshrutihaasan
@@ -3668,8 +3645,7 @@
 -	11:53:44 PM 26 09 --> total users followed from kriti.sanon143 - 300
 -	10:30:05 PM 26 09 --> some error with posting having username shraddha.kapoor.sweet
 -	10:29:01 PM 26 09 --> some error with posting having username urvashirautela26
--	10:28:54 PM 26 09 --> some error with posting having username kriti.sanon143
--	10:28:51 PM 26 09 --> some error with posting having username priyanka.chopra143
+-	10:28:54 PM 26 09 --> some error with posting having username kriti.sanon1-	1-	10:28:51 PM 26 09 --> some error with posting having username priyanka.chopra143
 -	10:28:46 PM 26 09 --> some error with posting having username man-	10:28:40 PM 26 09-	10:28:40 PM 26 09 --> some error with posting having username realshrutihaasan
 -	10:28:03 PM 26 09 --> some error with posting having username tamannaah.143
 -	10:27:31 PM 26 09 --> some error with posting having username disha.patani.updates
@@ -3777,8 +3753,7 @@
 -	06:35:44 PM 25 09 --> total users followed from tamannaah.143 - 75
 -	06:34:26 PM 25 09 --> total users followed from shraddha.kapoor.sweet - 75
 -	06:34:02 PM 25 09 --> total users followed from priyanka.chopra143 - 75
--	06:33:46 PM 25 09 --> total users followed from disha.patani.updates - 75
--	06:33:37 PM 25 09 --> total users followed from manushi.chillar.insta - 75
+-	06:33:46 PM 25 09 --> total users followed from disha.patani.updates - -	0-	06:33:37 PM 25 09 --> total users followed from manushi.chillar.insta - 75
 -	06:33:16 PM 25 09 --> total users followed from k-	06:33:06 PM 25 09-	06:33:06 PM 25 09 --> total users followed from angelinajolie143 - 75
 -	04:50:32 PM 25 09 --> some error with following having username urvashirautela26
 -	04:48:57 PM 25 09 --> posted with username kriti.sanon143
@@ -3885,8 +3860,7 @@
 -	05:08:15 PM 24 09 --> total users followed from tamannaah.143 - 75
 -	05:07:40 PM 24 09 --> total users followed from shraddha.kapoor.sweet - 75
 -	05:05:19 PM 24 09 --> total users followed from manushi.chillar.insta - 75
--	05:05:16 PM 24 09 --> total users followed from priyanka.chopra143 - 75
--	05:05:02 PM 24 09 --> total users followed from realshrutihaasan - 75
+-	05:05:16 PM 24 09 --> total users followed from priyanka.chopra143 - -	0-	05:05:02 PM 24 09 --> total users followed from realshrutihaasan - 75
 -	05:04:54 PM 24 09 --> total users followed from ang-	04:50:33 PM 24 09-	04:50:33 PM 24 09 --> some error with following having username urvashirautela26
 -	04:48:52 PM 24 09 --> posted with username disha.patani.updates
 -	04:48:22 PM 24 09 --> posted with username angelinajolie143
@@ -3998,8 +3972,7 @@
 -	10:28:16 PM 22 09 --> posted with username disha.patani.updates
 -	10:28:12 PM 22 09 --> posted with username realshrutihaasan
 -	10:27:52 PM 22 09 --> posted with username manushi.chillar.insta
--	10:27:09 PM 22 09 --> posted with username kriti.sanon143
--	10:18:22 PM 22 09 --> total users followed from disha.patani.updates - 375
+-	10:27:09 PM 22 09 --> posted with username kriti.sanon1-	1-	10:18:22 PM 22 09 --> total users followed from disha.patani.updates - 375
 -	10:18:18 PM 22 09 --> total users followed from real-	10:17:30 PM 22 09-	10:17:30 PM 22 09 --> total users followed from tamannaah.143 - 375
 -	10:16:40 PM 22 09 --> total users followed from kriti.sanon143 - 375
 -	10:16:30 PM 22 09 --> total users followed from angelinajolie143 - 375
@@ -4108,8 +4081,7 @@
 -	08:38:54 PM 21 09 --> total users followed from kriti.sanon143 - 150
 -	08:38:04 PM 21 09 --> total users followed from angelinajolie143 - 150
 -	07:21:43 PM 21 09 --> posted with username shraddha.kapoor.sweet
--	07:21:29 PM 21 09 --> posted with username tamannaah.143
--	07:21:08 PM 21 09 --> posted with username priyanka.chopra143
+-	07:21:29 PM 21 09 --> posted with username tamannaah.1-	0-	07:21:08 PM 21 09 --> posted with username priyanka.chopra143
 -	07:20:54 PM 21 09 --> posted with username kriti.sanon143
 -	07:19:37 PM 21 09 --> posted with usernam-	07:19:09 PM 21 09-	07:19:09 PM 21 09 --> posted with username angelinajolie143
 -	07:19:03 PM 21 09 --> posted with username disha.patani.updates
@@ -4220,8 +4192,7 @@
 -	01:16:52 PM 20 09 --> posted with username priyanka.chopra143
 -	01:16:43 PM 20 09 --> posted with username shraddha.kapoor.sweet
 -	01:16:32 PM 20 09 --> posted with username tamannaah.143
--	01:16:30 PM 20 09 --> posted with username disha.patani.updates
--	10:49:12 AM 20 09 --> posted with username kriti.sanon143
+-	01:16:30 PM 20 09 --> posted with username disha.patani.updat-	1-	10:49:12 AM 20 09 --> posted with username kriti.sanon143
 -	10:48:57 AM 20 09 --> posted with username shraddha.kapoor.sweet
 -	10:48:43 AM 20 09 --> posted with username -	10:48:42 AM 20 09-	10:48:42 AM 20 09 --> posted with username disha.patani.updates
 -	10:48:38 AM 20 09 --> posted with username realshrutihaasan
@@ -4327,8 +4298,7 @@
 -	02:03:25 AM 19 09 --> total users followed from priyanka.chopra143 - 450
 -	02:03:21 AM 19 09 --> total users followed from disha.patani.updates - 450
 -	10:59:42 PM 18 09 --> total users followed from angelinajolie143 - 375
--	10:59:21 PM 18 09 --> total users followed from tamannaah.143 - 375
--	10:59:17 PM 18 09 --> total users followed from disha.patani.updates - 375
+-	10:59:21 PM 18 09 --> total users followed from tamannaah.143 - 3-	1-	10:59:17 PM 18 09 --> total users followed from disha.patani.updates - 375
 -	10:59:15 PM 18 09 --> total users followed from priyanka.chopra143 - 375
 -	10:30:10 PM 18 09 --> posted with usernam-	10:29:55 PM 18 09-	10:29:55 PM 18 09 --> some error with posting having username realshrutihaasan
 -	10:29:53 PM 18 09 --> some error with posting having username manushi.chillar.insta
@@ -4427,8 +4397,7 @@
 -	07:20:52 PM 17 09 --> some error with posting having username kriti.sanon143
 -	07:20:36 PM 17 09 --> some error with posting having username shraddha.kapoor.sweet
 -	07:20:21 PM 17 09 --> some error with posting having username tamannaah.143
--	07:20:03 PM 17 09 --> posted with username angelinajolie143
--	07:19:53 PM 17 09 --> posted with username disha.patani.updates
+-	07:20:03 PM 17 09 --> posted with username angelinajolie1-	0-	07:19:53 PM 17 09 --> posted with username disha.patani.updates
 -	07:19:49 PM 17 09 --> some error with posting having username realshrutihaasan
 -	07:19:31 PM 17 09 --> some error with posting having username man-	06:57:10 PM 17 09-	06:57:10 PM 17 09 --> total users followed from disha.patani.updates - 225
 -	06:57:08 PM 17 09 --> total users followed from realshrutihaasan - 225
@@ -4456,8 +4425,7 @@
 -	04:48:50 PM 17 09 --> some error with posting having username -	04:48:17 PM 17 -	04:48:17 PM 17 09 --> posted with username disha.patani.updates
 -	04:47:02 PM 17 09 --> some error with posting having username kriti.sanon143
 -	04:46:49 PM 17 09 --> some error with posting having username shraddha.kapoor.sweet
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  -	03:17:59 AM 16 09 --> some error with following having username shrad-	01:00:48 AM 16 -	01:00:48 AM 16 09 --> some error with following having username man-	10:29:24 PM 15 09-	10:29:24 PM 15 09 --> posted with username pri-	10:29:15 PM 15-	10:29:15 PM 15 09 --> posted with username angelinajoli-	10:-	10:29:01 PM 15 09 --> some error with posting having username kriti.sanon1-	1-	10:28:52 PM 15 09 --> some error with posting having username manushi.chillar-	10:28-	10:28:42 PM 15 09 --> some error with posting having username realshrutiha-	10:-	10:28:15 PM 15 09 --> some error with posting having username urvashirautela26
--	10:28:02 PM 15 09 --> posted with username disha.patani.updates
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  -	03:17:59 AM 16 09 --> some error with following having username shrad-	01:00:48 AM 16 -	01:00:48 AM 16 09 --> some error with following having username man-	10:29:24 PM 15 09-	10:29:24 PM 15 09 --> posted with username pri-	10:29:15 PM 15-	10:29:15 PM 15 09 --> posted with username angelinajoli-	10:-	10:29:01 PM 15 09 --> some error with posting having username kriti.sanon1-	1-	10:28:52 PM 15 09 --> some error with posting having username manushi.chillar-	10:28-	10:28:42 PM 15 09 --> some error with posting having username realshrutiha-	10:-	10:28:15 PM 15 09 --> some error with posting having username urvashirautela-	1-	10:28:02 PM 15 09 --> posted with username disha.patani.updates
 -	10:27:20 PM 15 09 --> some error with posting having username tamannaah.143
 -	10:26:52 PM 15 09 --> posted with username shraddha.kapoor.sweet
 -	10:24:05 PM 15 09 --> total users followed from angelinajolie143 - 450
@@ -4558,8 +4526,7 @@
 -	10:30:07 PM 14 09 --> some error with posting having username realshrutihaasan
 -	10:29:25 PM 14 09 --> posted with username kriti.sanon143
 -	10:29:24 PM 14 09 --> some error with posting having username urvashirautela26
--	10:29:07 PM 14 09 --> posted with userna-	10:28:59 PM 14 -	10:28:59 PM 14 09 --> posted with username di-	10:28:12 PM 14 09-	10:28:12 PM 14 09 --> some error with posting having username manush-	10:27:56 PM 14-	10:27:56 PM 14 09 --> posted with username angelinajoli-	10:-	10:27:43 PM 14 09 --> posted with username priyanka.chopra1-	1-	10:27:39 PM 14 09 --> posted with username shraddha.kapoor-	10:17-	10:17:44 PM 14 09 --> total users followed from shraddha.kapoor.sweet --	10:-	10:17:36 PM 14 09 --> total users followed from realshrutihaasan - 375
--	10:17:19 PM 14 09 --> total users followed from tamannaah.143 - 375
+-	10:29:07 PM 14 09 --> posted with userna-	10:28:59 PM 14 -	10:28:59 PM 14 09 --> posted with username di-	10:28:12 PM 14 09-	10:28:12 PM 14 09 --> some error with posting having username manush-	10:27:56 PM 14-	10:27:56 PM 14 09 --> posted with username angelinajoli-	10:-	10:27:43 PM 14 09 --> posted with username priyanka.chopra1-	1-	10:27:39 PM 14 09 --> posted with username shraddha.kapoor-	10:17-	10:17:44 PM 14 09 --> total users followed from shraddha.kapoor.sweet --	10:-	10:17:36 PM 14 09 --> total users followed from realshrutihaasan - 3-	1-	10:17:19 PM 14 09 --> total users followed from tamannaah.143 - 375
 -	10:17:02 PM 14 09 --> total users followed from disha.patani.updates - 375
 -	10:16:47 PM 14 09 --> total users followed from kriti.sanon143 - 375
 -	10:16:14 PM 14 09 --> total users followed from angelinajolie143 - 375
@@ -4664,8 +4631,7 @@
 -	10:15:17 PM 13 09 --> total users followed from priyanka.chopra143 - 525
 -	09:58:23 PM 13 09 --> total users followed from disha.patani.updates - 450
 -	09:58:04 PM 13 09 --> total users followed from kriti.sanon143 - 450
--	09:57:42 PM 13 09 --> total users followed from tam-	09:55:01 PM 13 -	09:55:01 PM 13 09 --> total users followed from priyan-	09:51:58 PM 13 09-	09:51:58 PM 13 09 --> total users followed from angelin-	08:36:38 PM 13-	08:36:38 PM 13 09 --> total users followed from disha.patani.updates --	08:-	08:36:30 PM 13 09 --> total users followed from priyanka.chopra143 - 3-	0-	08:34:34 PM 13 09 --> total users followed from angelinajolie143-	08:34-	08:34:28 PM 13 09 --> total users followed from tamannaah.143 --	08:-	08:33:47 PM 13 09 --> total users followed from kriti.sanon143 - 375
--	07:40:20 PM 13 09 --> total users followed from disha.patani.updates - 300
+-	09:57:42 PM 13 09 --> total users followed from tam-	09:55:01 PM 13 -	09:55:01 PM 13 09 --> total users followed from priyan-	09:51:58 PM 13 09-	09:51:58 PM 13 09 --> total users followed from angelin-	08:36:38 PM 13-	08:36:38 PM 13 09 --> total users followed from disha.patani.updates --	08:-	08:36:30 PM 13 09 --> total users followed from priyanka.chopra143 - 3-	0-	08:34:34 PM 13 09 --> total users followed from angelinajolie143-	08:34-	08:34:28 PM 13 09 --> total users followed from tamannaah.143 --	08:-	08:33:47 PM 13 09 --> total users followed from kriti.sanon143 - 3-	0-	07:40:20 PM 13 09 --> total users followed from disha.patani.updates - 300
 -	07:40:09 PM 13 09 --> total users followed from priyanka.chopra143 - 300
 -	07:38:30 PM 13 09 --> total users followed from angelinajolie143 - 225
 -	07:37:50 PM 13 09 --> total users followed from tamannaah.143 - 225
@@ -4768,8 +4734,7 @@
 -	07:48:16 PM 12 09 --> total users followed from priyanka.chopra143 - 300
 -	07:47:51 PM 12 09 --> total users followed from shraddha.kapoor.sweet - 300
 -	07:45:19 PM 12 09 --> total users followed from kriti.sanon143 - 300
--	07:45:16 PM 12 09 --> total users followed from tam-	07:45:11 PM 12 -	07:45:11 PM 12 09 --> total users followed from disha.pa-	07:21:38 PM 12 09-	07:21:38 PM 12 09 --> posted with username pri-	07:21:19 PM 12-	07:21:19 PM 12 09 --> some error with posting having username manushi.chillar.i-	07:-	07:20:57 PM 12 09 --> some error with posting having username realshrutihaas-	0-	07:20:53 PM 12 09 --> posted with username shraddha.kapoor-	07:20-	07:20:49 PM 12 09 --> some error with posting having username urvashiraute-	07:-	07:20:36 PM 12 09 --> posted with username kriti.sanon143
--	07:20:31 PM 12 09 --> posted with username tamannaah.143
+-	07:45:16 PM 12 09 --> total users followed from tam-	07:45:11 PM 12 -	07:45:11 PM 12 09 --> total users followed from disha.pa-	07:21:38 PM 12 09-	07:21:38 PM 12 09 --> posted with username pri-	07:21:19 PM 12-	07:21:19 PM 12 09 --> some error with posting having username manushi.chillar.i-	07:-	07:20:57 PM 12 09 --> some error with posting having username realshrutihaas-	0-	07:20:53 PM 12 09 --> posted with username shraddha.kapoor-	07:20-	07:20:49 PM 12 09 --> some error with posting having username urvashiraute-	07:-	07:20:36 PM 12 09 --> posted with username kriti.sanon1-	0-	07:20:31 PM 12 09 --> posted with username tamannaah.143
 -	07:18:32 PM 12 09 --> posted with username angelinajolie143
 -	07:18:16 PM 12 09 --> posted with username disha.patani.updates
 -	07:11:00 PM 12 09 --> some error with following having username realshrutihaasan
@@ -4873,8 +4838,7 @@
 -	07:19:04 PM 11 09 --> posted with username priyanka.chopra143
 -	07:18:37 PM 11 09 --> posted with username shraddha.kapoor.sweet
 -	07:04:10 PM 11 09 --> total users followed from tamannaah.143 - 300
--	07:03:57 PM 11 09 --> total users followed from manushi.chi-	07:03:55 PM 11 -	07:03:55 PM 11 09 --> total users followed from kr-	07:03:47 PM 11 09-	07:03:47 PM 11 09 --> total users followed from shraddha.kap-	07:03:39 PM 11-	07:03:39 PM 11 09 --> total users followed from priyanka.chopra143 --	07:-	07:03:12 PM 11 09 --> total users followed from disha.patani.updates - 3-	0-	06:43:43 PM 11 09 --> total users followed from tamannaah.143-	06:43-	06:43:36 PM 11 09 --> total users followed from angelinajolie143 --	06:-	06:43:35 PM 11 09 --> total users followed from manushi.chillar.insta - 225
--	06:43:35 PM 11 09 --> total users followed from kriti.sanon143 - 225
+-	07:03:57 PM 11 09 --> total users followed from manushi.chi-	07:03:55 PM 11 -	07:03:55 PM 11 09 --> total users followed from kr-	07:03:47 PM 11 09-	07:03:47 PM 11 09 --> total users followed from shraddha.kap-	07:03:39 PM 11-	07:03:39 PM 11 09 --> total users followed from priyanka.chopra143 --	07:-	07:03:12 PM 11 09 --> total users followed from disha.patani.updates - 3-	0-	06:43:43 PM 11 09 --> total users followed from tamannaah.143-	06:43-	06:43:36 PM 11 09 --> total users followed from angelinajolie143 --	06:-	06:43:35 PM 11 09 --> total users followed from manushi.chillar.insta - 2-	0-	06:43:35 PM 11 09 --> total users followed from kriti.sanon143 - 225
 -	06:43:25 PM 11 09 --> total users followed from priyanka.chopra143 - 225
 -	06:42:56 PM 11 09 --> total users followed from disha.patani.updates - 225
 -	06:32:26 PM 11 09 --> some error with following having username realshrutihaasan
@@ -4977,8 +4941,7 @@
 -	07:36:06 PM 10 09 --> total users followed from manushi.chillar.insta - 300
 -	07:35:41 PM 10 09 --> total users followed from kriti.sanon143 - 300
 -	07:35:24 PM 10 09 --> total users followed from realsh-	07:34:44 PM 10 -	07:34:44 PM 10 09 --> total users followed from priyan-	07:33:01 PM 10 09-	07:33:01 PM 10 09 --> total users followed from disha.patan-	07:21:15 PM 10-	07:21:15 PM 10 09 --> posted with username kriti.sano-	07:-	07:20:32 PM 10 09 --> posted with username realshrutihaasan
--	07:20:26 PM 10 09 --> posted with username priyanka.chopra1-	0-	07:20:06 PM 10 09 --> posted with username disha.patani.u-	07:19-	07:19:51 PM 10 09 --> posted with username angelinajoli-	07:-	07:19:33 PM 10 09 --> some error with posting having username urvashirautela26
--	07:18:55 PM 10 09 --> posted with username shraddha.kapoor.sweet
+-	07:20:26 PM 10 09 --> posted with username priyanka.chopra1-	0-	07:20:06 PM 10 09 --> posted with username disha.patani.u-	07:19-	07:19:51 PM 10 09 --> posted with username angelinajoli-	07:-	07:19:33 PM 10 09 --> some error with posting having username urvashirautela-	0-	07:18:55 PM 10 09 --> posted with username shraddha.kapoor.sweet
 -	07:18:25 PM 10 09 --> some error with posting having username manushi.chillar.insta
 -	07:18:11 PM 10 09 --> posted with username tamannaah.143
 -	07:03:46 PM 10 09 --> total users followed from tamannaah.143 - 225
@@ -5083,9 +5046,7 @@
 -	04:51:04 PM 09 09 --> total users followed from priyanka.chopra143 - 75
 -	04:49:48 PM 09 09 --> some error with following having username urvashirautela26
 -	04:49:05 PM 09 09 --> some error with posting having username -	04:48:33 PM 09 -	04:48:33 PM 09 09 --> posted with usernam-	04:47:50 PM 09 09-	04:47:50 PM 09 09 --> posted with username shradd-	04:47:46 PM 09-	04:47:46 PM 09 09 --> posted with username priyanka.chopr-	04:-	04:47:38 PM 09 09 --> posted with username tamannaah.143
--	04:46:54 PM 09 09 --> some error with posting having username manushi.chillar.ins-	0-	04:46:45 PM 09 09 --> posted with username disha.patani.u-	04:46-	04:46:11 PM 09 09 --> posted with username kriti.sano-	04:-	04:45:31 PM 09 09 --> posted with username angelinajolie143
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              -	04:45:58 PM 06 09 --> posted with username kriti.sanon143
--	04:45:44 PM 06 09 --> posted with username manushi.chillar.insta
+-	04:46:54 PM 09 09 --> some error with posting having username manushi.chillar.ins-	0-	04:46:45 PM 09 09 --> posted with username disha.patani.u-	04:46-	04:46:11 PM 09 09 --> posted with username kriti.sano-	04:-	04:45:31 PM 09 09 --> posted with username angelinajolie1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 -	04:45:58 PM 06 09 --> posted with username kriti.sanon1-	0-	04:45:44 PM 06 09 --> posted with username manushi.chillar.insta
 -	04:22:37 PM 06 09 --> total users unfollowed from kriti.sanon143 - 500
 -	04:20:09 PM 06 09 --> total users unfollowed from disha.patani.updates - 500
 -	03:36:22 PM 06 09 --> total users unfollowed from kriti.sanon143 - 400
@@ -5190,8 +5151,7 @@
 -	01:16:36 PM 05 09 --> posted with username priyanka.chopra143
 -	01:16:23 PM 05 09 --> posted with username shraddha.kapoor.sweet
 -	01:14:15 PM 05 09 --> total users unfollowed from manushi.chi-	01:14:10 PM 05 -	01:14:10 PM 05 09 --> total users unfollowed from t-	01:13:49 PM 05 09-	01:13:49 PM 05 09 --> total users unfollowed from kriti-	01:12:47 PM 05-	01:12:47 PM 05 09 --> some error with unfollowing having username urvashiraute-	01:-	01:12:43 PM 05 09 --> More following detected for manushi.chillar.insta. Starting unfollow process
--	01:12:41 PM 05 09 --> More following detected for disha.patani.updates. Starting unfollow proce-	0-	01:12:35 PM 05 09 --> More following detected for tamannaah.143. Starting unfollow proce-	0-	01:12:31 PM 05 09 --> No need to unfollow for realshruti-	01:12-	01:12:29 PM 05 09 --> More following detected for kriti.sanon143. Starting unfollow process
--	01:12:23 PM 05 09 --> No need to unfollow for shraddha.kapoor.sweet
+-	01:12:41 PM 05 09 --> More following detected for disha.patani.updates. Starting unfollow proce-	0-	01:12:35 PM 05 09 --> More following detected for tamannaah.143. Starting unfollow proce-	0-	01:12:31 PM 05 09 --> No need to unfollow for realshruti-	01:12-	01:12:29 PM 05 09 --> More following detected for kriti.sanon143. Starting unfollow proce-	0-	01:12:23 PM 05 09 --> No need to unfollow for shraddha.kapoor.sweet
 -	01:12:19 PM 05 09 --> No need to unfollow for priyanka.chopra143
 -	10:49:29 AM 05 09 --> posted with username manushi.chillar.insta
 -	10:49:08 AM 05 09 --> posted with username kriti.sanon143
@@ -5296,8 +5256,7 @@
 -	10:49:01 AM 04 09 --> posted with usernam-	10:48:31 AM 04 09-	10:48:31 AM 04 09 --> posted with username manush-	10:48:04 AM 04-	10:48:04 AM 04 09 --> posted with username disha.patani.upd-	10:-	10:47:42 AM 04 09 --> posted with username tamannaah.143
 -	10:47:21 AM 04 09 --> posted with username shraddha.kapoor.sweet
 -	10:46:53 AM 04 09 --> some error with posting having username urvashirautela-	1-	10:46:46 AM 04 09 --> posted with username priyanka.chopra1-	0-	0-	08:19:51 AM 04 09 --> posted with username tamanna-	08:19-	08:19:44 AM 04 09 --> posted with username manushi.chillar.insta
--	08:19:28 AM 04 09 --> some error with posting having username urvashirautela26
--	08:19:24 AM 04 09 --> posted with username shraddha.kapoor.sweet
+-	08:19:28 AM 04 09 --> some error with posting having username urvashirautela-	0-	08:19:24 AM 04 09 --> posted with username shraddha.kapoor.sweet
 -	08:19:02 AM 04 09 --> posted with username priyanka.chopra143
 -	08:18:33 AM 04 09 --> posted with username angelinajolie143
 -	08:18:08 AM 04 09 --> posted with username realshrutihaasan
@@ -5401,8 +5360,7 @@
 -	10:29:32 PM 02 09 --> posted with username -	10:29:09 PM 02 -	10:29:09 PM 02 09 --> posted with username priyanka.chopra143
 -	10:28:56 PM 02 09 --> posted with username shr-	10:28:38 PM 02 09-	10:28:38 PM 02 09 --> posted with usernam-	10:28:33 PM 02-	10:28:33 PM 02 09 --> posted with username kriti.sano-	10:-	10:28:01 PM 02 09 --> posted with username realshrutihaasan
 -	10:27:50 PM 02 09 --> posted with username disha.patani.updates
--	10:27:26 PM 02 09 --> posted with username manushi.chillar.ins-	1-	10:26:58 PM 02 09 --> some error with posting having username urvashirautela-	0-	07:21:43 PM 02 09 --> posted with username tamannaah.1-	0-	07:20:55 PM 02 09 --> posted with username shraddha.kapoor-	07:20-	07:20:45 PM 02 09 --> posted with username angelinajolie143
--	07:20:30 PM 02 09 --> posted with username priyanka.chopra143
+-	10:27:26 PM 02 09 --> posted with username manushi.chillar.ins-	1-	10:26:58 PM 02 09 --> some error with posting having username urvashirautela-	0-	07:21:43 PM 02 09 --> posted with username tamannaah.1-	0-	07:20:55 PM 02 09 --> posted with username shraddha.kapoor-	07:20-	07:20:45 PM 02 09 --> posted with username angelinajolie1-	0-	07:20:30 PM 02 09 --> posted with username priyanka.chopra143
 -	07:20:18 PM 02 09 --> posted with username kriti.sanon143
 -	07:20:10 PM 02 09 --> posted with username manushi.chillar.insta
 -	07:19:54 PM 02 09 --> posted with username realshrutihaasan
@@ -5503,8 +5461,7 @@
 -	07:20:21 PM 01 09 --> posted with username shrad-	07:20:18 PM 01 -	07:20:18 PM 01 09 --> posted with username tamannaah.143
 -	07:19:51 PM 01 09 --> posted with username -	07:19:35 PM 01 09-	07:19:35 PM 01 09 --> some error with posting having username-	07:19:33 PM 01-	07:19:33 PM 01 09 --> posted with username kriti.sano-	07:-	07:19:29 PM 01 09 --> some error with posting having username realshrutihaasan
 -	07:19:26 PM 01 09 --> posted with username realshrutihaasan
--	07:19:13 PM 01 09 --> some error with posting having username manushi.chillar.ins-	0-	07:19:10 PM 01 09 --> posted with username manushi.chillar.ins-	0-	07:19:03 PM 01 09 --> some error with posting having username disha.patani.updat-	0-	07:19:00 PM 01 09 --> posted with username disha.patani.u-	05:15-	05:15:49 PM 01 09 --> total users unfollowed from angelinajolie143 - 600
--	05:08:08 PM 01 09 --> total users unfollowed from priyanka.chopra143 - 600
+-	07:19:13 PM 01 09 --> some error with posting having username manushi.chillar.ins-	0-	07:19:10 PM 01 09 --> posted with username manushi.chillar.ins-	0-	07:19:03 PM 01 09 --> some error with posting having username disha.patani.updat-	0-	07:19:00 PM 01 09 --> posted with username disha.patani.u-	05:15-	05:15:49 PM 01 09 --> total users unfollowed from angelinajolie143 - 6-	0-	05:08:08 PM 01 09 --> total users unfollowed from priyanka.chopra143 - 600
 -	04:48:30 PM 01 09 --> some error with posting having username shraddha.kapoor.sweet
 -	04:48:28 PM 01 09 --> posted with username shraddha.kapoor.sweet
 -	04:48:26 PM 01 09 --> posted with username angelinajolie143
@@ -5604,8 +5561,7 @@
 -	07:20:09 PM 31 08 --> posted with username shr-	07:20:02 PM 31 08-	07:20:02 PM 31 08 --> some error with posting having username-	07:20:02 PM 31-	07:20:02 PM 31 08 --> posted with username priyanka.chopr-	07:-	07:19:59 PM 31 08 --> posted with username kriti.sanon143
 -	07:36 PM 31 08 --> some error with posting having username tamannaah.143
 -	07:19:33 PM 31 08 --> posted with username tamannaah.1-	0-	07:19:23 PM 31 08 --> some error with posting having username urvashirautela26
--	07:19:00 PM 31 08 --> some error with posting having username realshrutihaas-	0-	07:18:57 PM 31 08 --> posted with username realshruti-	05:13-	05:13:47 PM 31 08 --> total users unfollowed from realshrutihaasan - 600
--	05:10:40 PM 31 08 --> total users unfollowed from priyanka.chopra143 - 600
+-	07:19:00 PM 31 08 --> some error with posting having username realshrutihaas-	0-	07:18:57 PM 31 08 --> posted with username realshruti-	05:13-	05:13:47 PM 31 08 --> total users unfollowed from realshrutihaasan - 6-	0-	05:10:40 PM 31 08 --> total users unfollowed from priyanka.chopra143 - 600
 -	04:49:22 PM 31 08 --> posted with username angelinajolie143
 -	04:48:25 PM 31 08 --> posted with username priyanka.chopra143
 -	04:47:53 PM 31 08 --> some error with posting having username shraddha.kapoor.sweet
@@ -5705,8 +5661,7 @@
 -	07:20:43 PM 30 08 --> posted with username realshrutihaasan
 -	07:20:09 PM 30 08 --> some error with posting having username shr-	07:20:06 PM 30 08-	07:20:06 PM 30 08 --> posted with username shradd-	07:19:56 PM 30-	07:19:56 PM 30 08 --> posted with username priyanka.chopr-	07:-	07:19:31 PM 30 08 --> posted with username angelinajolie143
 -	07:19:17 PM 30 08 --> some error with posting having username disha.patani.updat-	0-	07:19:14 PM 30 08 --> posted with username disha.patani.updates
--	07:18:37 PM 30 08 --> some error with posting having username manushi.chillar.ins-	0-	07:18:34 PM 30 08 --> posted with username manushi.chillar-	05:20-	05:20:15 PM 30 08 --> total users unfollowed from angelinajolie143 - 600
--	05:13:48 PM 30 08 --> total users unfollowed from shraddha.kapoor.sweet - 600
+-	07:18:37 PM 30 08 --> some error with posting having username manushi.chillar.ins-	0-	07:18:34 PM 30 08 --> posted with username manushi.chillar-	05:20-	05:20:15 PM 30 08 --> total users unfollowed from angelinajolie143 - 6-	0-	05:13:48 PM 30 08 --> total users unfollowed from shraddha.kapoor.sweet - 600
 -	05:13:46 PM 30 08 --> total users unfollowed from realshrutihaasan - 600
 -	05:12:15 PM 30 08 --> total users unfollowed from disha.patani.updates - 600
 -	05:11:50 PM 30 08 --> total users unfollowed from tamannaah.143 - 600
@@ -5807,8 +5762,7 @@
 -	07:20:53 PM 29 08 --> some error with posting having username disha.patani.updates
 -	07:20:51 PM 29 08 --> posted with usernam-	07:20:38 PM 29 08-	07:20:38 PM 29 08 --> posted with username shradd-	07:20:00 PM 29-	07:20:00 PM 29 08 --> posted with username tamannaah-	07:-	07:19:38 PM 29 08 --> posted with username manushi.chillar.insta
 -	07:19:20 PM 29 08 --> posted with username priyanka.chopra1-	0-	07:19:09 PM 29 08 --> posted with username kriti.sanon143
--	07:18:58 PM 29 08 --> some error with posting having username urvashirautela-	0-	05:18:30 PM 29 08 --> total users unfollowed from realshrutihaasan-	05:17-	05:17:21 PM 29 08 --> total users unfollowed from angelinajolie143 - 600
--	05:14:22 PM 29 08 --> total users unfollowed from manushi.chillar.insta - 600
+-	07:18:58 PM 29 08 --> some error with posting having username urvashirautela-	0-	05:18:30 PM 29 08 --> total users unfollowed from realshrutihaasan-	05:17-	05:17:21 PM 29 08 --> total users unfollowed from angelinajolie143 - 6-	0-	05:14:22 PM 29 08 --> total users unfollowed from manushi.chillar.insta - 600
 -	05:12:05 PM 29 08 --> total users unfollowed from tamannaah.143 - 600
 -	05:10:04 PM 29 08 --> total users unfollowed from priyanka.chopra143 - 600
 -	05:07:54 PM 29 08 --> total users unfollowed from kriti.sanon143 - 600
@@ -5909,8 +5863,7 @@
 -	07:20:50 PM 28 08 --> posted with username manushi.chillar.insta
 -	07:20:17 PM 28 08 --> posted with usern-	07:20:02 PM 28 08-	07:20:02 PM 28 08 --> posted with username r-	07:20:00 PM 28-	07:20:00 PM 28 08 --> posted with username shraddha.kapoor.s-	07:-	07:19:39 PM 28 08 --> posted with username tamannaah.143
 -	07:18:54 PM 28 08 --> posted with username angelinajolie1-	0-	05:25:32 PM 28 08 --> total users unfollowed from realshrutihaasan - 600
--	05:22:58 PM 28 08 --> total users unfollowed from tamannaah.143 - 6-	0-	05:21:25 PM 28 08 --> total users unfollowed from kriti.sanon143-	05:13-	05:13:52 PM 28 08 --> total users unfollowed from priyanka.chopra143 - 600
--	05:09:46 PM 28 08 --> total users unfollowed from disha.patani.updates - 600
+-	05:22:58 PM 28 08 --> total users unfollowed from tamannaah.143 - 6-	0-	05:21:25 PM 28 08 --> total users unfollowed from kriti.sanon143-	05:13-	05:13:52 PM 28 08 --> total users unfollowed from priyanka.chopra143 - 6-	0-	05:09:46 PM 28 08 --> total users unfollowed from disha.patani.updates - 600
 -	05:09:33 PM 28 08 --> total users unfollowed from shraddha.kapoor.sweet - 600
 -	05:08:12 PM 28 08 --> some error with unfollowing having username manushi.chillar.insta
 -	04:48:27 PM 28 08 --> posted with username tamannaah.143
@@ -6011,8 +5964,7 @@
 -	07:19:54 PM 27 08 --> posted with username man-	07:19:53 PM 27 08-	07:19:53 PM 27 08 --> posted with username pri-	07:19:34 PM 27-	07:19:34 PM 27 08 --> some error with posting having username urvashiraute-	04:-	04:48:02 PM 27 08 --> posted with username shraddha.kapoor.sweet
 -	04:47:55 PM 27 08 --> posted with username kriti.sanon1-	0-	04:47:46 PM 27 08 --> posted with username angelinajolie143
 -	04:47:35 PM 27 08 --> posted with username manushi.chillar.ins-	0-	04:47:25 PM 27 08 --> posted with username tamanna-	04:46-	04:46:52 PM 27 08 --> posted with username priyanka.chopra143
--	04:46:40 PM 27 08 --> posted with username realshrutihaasan
--	04:46:27 PM 27 08 --> some error with posting having username urvashirautela26
+-	04:46:40 PM 27 08 --> posted with username realshrutihaas-	0-	04:46:27 PM 27 08 --> some error with posting having username urvashirautela26
 -	04:45:59 PM 27 08 --> some error with posting having username disha.patani.updates
 -	02:34:14 PM 27 08 --> total users unfollowed from kriti.sanon143 - 400
 -	01:47:46 PM 27 08 --> total users unfollowed from kriti.sanon143 - 300
@@ -6116,8 +6068,7 @@
 -	01:00:55 PM 26 08 --> total users unfollowed from krit-	12:14:46 PM 26 -	12:14:46 PM 26 08 --> total users unfollowed from manushi.chillar.insta - 100
 -	12:14:42 PM 26 08 --> total users unfollowed from priyan-	12:14:25 PM 26 08-	12:14:25 PM 26 08 --> total users unfollowed from disha.patan-	12:14:25 PM 26-	12:14:25 PM 26 08 --> total users unfollowed from kriti.sanon143 --	12:-	12:14:22 PM 26 08 --> No need to unfollow for realshrutihaasan
 -	12:14:19 PM 26 08 --> total users unfollowed from shraddha.kapoor.sweet - 1-	1-	12:13:03 PM 26 08 --> some error with unfollowing having username urvashirautela26
--	12:13:02 PM 26 08 --> More following detected for priyanka.chopra143. Starting unfollow proce-	1-	12:12:53 PM 26 08 --> More following detected for manushi.chillar.insta. Starting unfollow p-	12:12-	12:12:50 PM 26 08 --> More following detected for kriti.sanon143. Starting unfollow process
--	12:12:45 PM 26 08 --> More following detected for disha.patani.updates. Starting unfollow process
+-	12:13:02 PM 26 08 --> More following detected for priyanka.chopra143. Starting unfollow proce-	1-	12:12:53 PM 26 08 --> More following detected for manushi.chillar.insta. Starting unfollow p-	12:12-	12:12:50 PM 26 08 --> More following detected for kriti.sanon143. Starting unfollow proce-	1-	12:12:45 PM 26 08 --> More following detected for disha.patani.updates. Starting unfollow process
 -	12:12:40 PM 26 08 --> More following detected for shraddha.kapoor.sweet. Starting unfollow process
 -	12:12:37 PM 26 08 --> No need to unfollow for tamannaah.143
 -	11:12:33 AM 26 08 --> No need to unfollow for angelinajolie143
@@ -6219,8 +6170,7 @@
 -	12:12:47 PM 25 08 --> some error with unfollowing having username -	12:12:47 PM 25 -	12:12:47 PM 25 08 --> More following detected for manushi.chillar.insta. Startin-	12:12:42 PM 25 08-	12:12:42 PM 25 08 --> More following detected for disha.patani.updates. Starting u-	12:12:37 PM 25-	12:12:37 PM 25 08 --> No need to unfollow for tamannaah-	12:-	12:03:50 PM 25 08 --> total users unfollowed from angelinajolie143 - 200
 -	11:14:02 AM 25 08 --> total users unfollowed from angelinajolie143 - 1-	1-	11:12:33 AM 25 08 --> More following detected for angelinajolie143. Starting unfollow process
 -	10:49:06 AM 25 08 --> some error with posting having username urvashirautela-	1-	10:48:19 AM 25 08 --> posted with username disha.patani.updates
--	10:48:15 AM 25 08 --> posted with username angelinajo-	10:48-	10:48:03 AM 25 08 --> posted with username shraddha.kapoor.sweet
--	10:47:27 AM 25 08 --> posted with username tamannaah.143
+-	10:48:15 AM 25 08 --> posted with username angelinajo-	10:48-	10:48:03 AM 25 08 --> posted with username shraddha.kapoor.swe-	1-	10:47:27 AM 25 08 --> posted with username tamannaah.143
 -	10:47:27 AM 25 08 --> posted with username manushi.chillar.insta
 -	10:46:49 AM 25 08 --> posted with username realshrutihaasan
 -	10:46:48 AM 25 08 --> posted with username kriti.sanon143
@@ -6325,8 +6275,7 @@
 -	04:47:11 PM 23 08 --> posted with username -	04:46:40 PM 23 -	04:46:40 PM 23 08 --> some error with posting having usernam-	04:46:24 PM 23 08-	04:46:24 PM 23 08 --> posted with username r-	04:45:43 PM 23-	04:45:43 PM 23 08 --> posted with username shraddha.kapoor.s-	04:-	04:18:48 PM 23 08 --> total users unfollowed from realshrutihaasan - 600
 -	04:12:58 PM 23 08 --> total users unfollowed from tamannaah.143 - 6-	0-	04:10:02 PM 23 08 --> total users unfollowed from shraddha.kapoor.sweet - 600
 -	04:09:16 PM 23 08 --> total users unfollowed from manushi.chillar.insta - 600
--	04:07:35 PM 23 08 --> total users unfollowed from priyanka.chopra143 - 6-	0-	04:07:18 PM 23 08 --> total users unfollowed from disha.patani.updates-	03:30-	03:30:43 PM 23 08 --> total users unfollowed from realshrutihaasan - 500
--	03:22:45 PM 23 08 --> total users unfollowed from tamannaah.143 - 500
+-	04:07:35 PM 23 08 --> total users unfollowed from priyanka.chopra143 - 6-	0-	04:07:18 PM 23 08 --> total users unfollowed from disha.patani.updates-	03:30-	03:30:43 PM 23 08 --> total users unfollowed from realshrutihaasan - 5-	0-	03:22:45 PM 23 08 --> total users unfollowed from tamannaah.143 - 500
 -	03:22:22 PM 23 08 --> total users unfollowed from manushi.chillar.insta - 500
 -	03:21:26 PM 23 08 --> total users unfollowed from shraddha.kapoor.sweet - 500
 -	03:20:54 PM 23 08 --> total users unfollowed from priyanka.chopra143 - 500
@@ -6423,8 +6372,7 @@
 -	02:01:52 AM 23 08 --> total users unfollowed from tam-	02:01:48 AM 23 -	02:01:48 AM 23 08 --> total users unfollowed from disha.pa-	02:01:42 AM 23 08-	02:01:42 AM 23 08 --> total users unfollowed from shraddha.kap-	02:01:38 AM 23-	02:01:38 AM 23 08 --> total users unfollowed from kriti.sanon143 --	01:-	01:18:22 AM 23 08 --> total users unfollowed from realshrutihaasan - 100
 -	01:14:44 AM 23 08 --> total users unfollowed from disha.patani.updates - 1-	0-	01:14:42 AM 23 08 --> total users unfollowed from priyanka.chopra143 - 100
 -	01:14:34 AM 23 08 --> More following detected for realshrutihaasan. Starting unfollow process
--	01:14:30 AM 23 08 --> total users unfollowed from tamannaah.143 - 1-	0-	01:14:26 AM 23 08 --> total users unfollowed from shraddha.kapoor.sweet-	01:12-	01:12:41 AM 23 08 --> More following detected for disha.patani.updates. Starting unfollow process
--	01:12:37 AM 23 08 --> More following detected for priyanka.chopra143. Starting unfollow process
+-	01:14:30 AM 23 08 --> total users unfollowed from tamannaah.143 - 1-	0-	01:14:26 AM 23 08 --> total users unfollowed from shraddha.kapoor.sweet-	01:12-	01:12:41 AM 23 08 --> More following detected for disha.patani.updates. Starting unfollow proce-	0-	01:12:37 AM 23 08 --> More following detected for priyanka.chopra143. Starting unfollow process
 -	01:12:29 AM 23 08 --> More following detected for kriti.sanon143. Starting unfollow process
 -	01:12:23 AM 23 08 --> More following detected for shraddha.kapoor.sweet. Starting unfollow process
 -	01:12:18 AM 23 08 --> More following detected for manushi.chillar.insta. Starting unfollow process
@@ -6522,8 +6470,7 @@
 -	01:12:24 AM 22 08 --> More following detected for shraddha.kapoor.sweet. Starting -	01:12:19 AM 22 -	01:12:19 AM 22 08 --> More following detected for priyanka.chopra143. Startin-	01:12:16 AM 22 08-	01:12:16 AM 22 08 --> More following detected for realshrutihaasan. Starting u-	01:12:08 AM 22-	01:12:08 AM 22 08 --> some error with unfollowing having username urvashiraute-	10:-	10:30:22 PM 21 08 --> posted with username manushi.chillar.ins-	1-	10:29:12 PM 21 08 --> posted with u-	10:28:58 PM 21 08 -->-	10:28:58 PM 21 08 --> posted with username angelinajolie143
 -	10:28:55 PM 21 08 --> posted with username shraddha.kapoor.sweet
 -	10:28:50 PM 21 08 --> some error with posting having username urvashirautela-	1-	10:28:49 PM 21 08 --> posted with username realshruti-	10:28-	10:28:49 PM 21 08 --> posted with username disha.patani.updates
--	10:27:46 PM 21 08 --> posted with username tamannaah.143
--	10:27:40 PM 21 08 --> posted with username priyanka.chopra143
+-	10:27:46 PM 21 08 --> posted with username tamannaah.1-	1-	10:27:40 PM 21 08 --> posted with username priyanka.chopra143
 -	07:20:48 PM 21 08 --> posted with username shraddha.kapoor.sweet
 -	07:20:15 PM 21 08 --> posted with username manushi.chillar.insta
 -	07:20:09 PM 21 08 --> some error with posting having username urvashirautela26
@@ -6628,8 +6575,7 @@
 -	04:47:24 PM 20 08 --> posted with -	04:46:57 PM 20 08 -->-	04:46:57 PM 20 08 --> posted with username disha.patani.updat-	0-	04:46:29 PM 20 08 --> posted with username manushi.chillar.insta
 -	04:46:11 PM 20 08 --> posted with username angelinajolie143
 -	04:46:02 PM 20 08 --> posted with username shraddha.kapoor.swe-	0-	04:45:57 PM 20 08 --> posted with username priyanka.cho-	04:45-	04:45:46 PM 20 08 --> posted with username realshrutihaasan
--	04:45:33 PM 20 08 --> some error with posting having username urvashirautela26
--	01:18:57 PM 20 08 --> posted with username priyanka.chopra143
+-	04:45:33 PM 20 08 --> some error with posting having username urvashirautela-	0-	01:18:57 PM 20 08 --> posted with username priyanka.chopra143
 -	01:18:49 PM 20 08 --> some error with posting having username urvashirautela26
 -	01:18:41 PM 20 08 --> posted with username shraddha.kapoor.sweet
 -	01:18:37 PM 20 08 --> posted with username manushi.chillar.insta
@@ -6736,8 +6682,7 @@
 -	10:47:27 AM 19 08 --> posted with username-	10:46:48 AM 19 08 -->-	10:46:48 AM 19 08 --> posted with username kriti.sanon1-	1-	10:46:34 AM 19 08 --> posted with username priyanka.chopra143
 -	08:19:17 AM 19 08 --> posted with username tamannaah.143
 -	08:19:00 AM 19 08 --> posted with username disha.patani.updat-	0-	08:18:21 AM 19 08 --> posted with username shraddha.kapoor-	08:18-	08:18:07 AM 19 08 --> posted with username realshrutihaasan
--	08:17:31 AM 19 08 --> posted with username priyanka.chopra143
--	08:16:58 AM 19 08 --> some error with posting having username urvashirautela26
+-	08:17:31 AM 19 08 --> posted with username priyanka.chopra1-	0-	08:16:58 AM 19 08 --> some error with posting having username urvashirautela26
 -	08:16:44 AM 19 08 --> posted with username angelinajolie143
 -	08:16:34 AM 19 08 --> posted with username kriti.sanon143
 -	08:16:31 AM 19 08 --> posted with username manushi.chillar.insta
@@ -12383,7 +12328,7 @@ r.insta - 375
 -	10:49:38 AM 12 06 --> posted with username tamannaah.143
 -	10:49:05 AM 12 06 --> posted with username disha.patani.updates
 -	10:48:33 AM 12 06 --> posted with username shraddha.kapoor.sweet
--	10:48:33 AM 12 06 --> posted with username kriti.sanon143
+-	10:48:33 AM 12 06  posted with username kriti.sanon143
 -	10:48:07 AM 12 06 --> posted with username realshrutihaasan
 -	10:47:37 AM 12 06 --> posted with username manushi.chillar.insta
 -	08:19:10 AM 12 06 --> posted with username realshrutihaasan
