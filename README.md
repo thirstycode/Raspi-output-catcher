@@ -1,5 +1,7 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	11:04:53 PM 08 11 --> total users followed from priyanka.chopra143 - 450
+-	11:04:37 PM 08 11 --> total users followed from disha.patani.updates - 450
 -	10:53:03 PM 08 11 --> Total followers count - 332.7k
 -	10:32:48 PM 08 11 --> some error with following having username realshrutihaasan
 -	10:29:59 PM 08 11 --> posted with username manushi.chillar.insta
