@@ -1,5 +1,7 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	11:56:25 PM 09 11 --> total users followed from angelinajolie143 - 5
+-	11:52:24 PM 09 11 --> some error with following having username shraddha.kapoor.sweet
 -	10:52:10 PM 09 11 --> Total followers count - 334.0k
 -	10:41:28 PM 09 11 --> total users followed from disha.patani.updates - 375
 -	10:41:25 PM 09 11 --> total users followed from shraddha.kapoor.sweet - 375
