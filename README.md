@@ -1,5 +1,6 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	10:52:12 PM 14 11 --> Total followers count - 340.0k
 -	10:29:37 PM 14 11 --> posted with username kriti.sanon143
 -	10:29:00 PM 14 11 --> posted with username disha.patani.updates
 -	10:28:35 PM 14 11 --> posted with username shraddha.kapoor.sweet
