@@ -1,5 +1,13 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	10:48:57 AM 14 11 --> posted with username disha.patani.updates
+-	10:48:51 AM 14 11 --> posted with username priyanka.chopra143
+-	10:48:22 AM 14 11 --> posted with username realshrutihaasan
+-	10:48:04 AM 14 11 --> some error with posting having username manushi.chillar.insta
+-	10:47:39 AM 14 11 --> some error with posting having username urvashirautela26
+-	10:47:17 AM 14 11 --> posted with username shraddha.kapoor.sweet
+-	10:47:10 AM 14 11 --> posted with username kriti.sanon143
+-	10:47:10 AM 14 11 --> posted with username angelinajolie143
 -	08:20:11 AM 14 11 --> posted with username shraddha.kapoor.sweet
 -	08:19:28 AM 14 11 --> some error with posting having username urvashirautela26
 -	08:19:18 AM 14 11 --> posted with username priyanka.chopra143
@@ -108,8 +116,7 @@
 -	10:28:15 PM 12 11 --> posted with username tamannaah.143
 -	10:27:41 PM 12 11 --> posted with username shraddha.kapoor.sweet
 -	10:27:31 PM 12 11 --> some error with posting having username manushi.chillar.insta
--	10:27:22 PM 12 11 --> posted with username priyanka.chopra143
--	10:27:02 PM 12 11 --> posted with username angelinajolie143
+-	10:27:22 PM 12 11 --> posted with username priyanka.chopr-	10:27:02 PM 12 11 --> posted with username angelinajolie143
 -	10:21:34 PM 12 11 --> total users followed from disha.patani.updates - 450
 -	10:19:11 PM 12 11 --> total users followed from angelinajolie143 - 0
 -	10:18:00 PM 12 11 --> some error with following having username kriti.sanon143
@@ -680,7 +687,7 @@
 -	10:29:02 PM 06 11 --> some error with posting having username realshrutihaasan
 -	10:28:49 PM 06 11 --> some error with posting having username tamannaah.143
 -	10:28:42 PM 06 11 --> posted with username shraddha.kapoor.sweet
--	10:28:38 PM 06 11 --> posted with username disha.patani.updates
+-	10:-	10:28:38 PM 06 11 --> posted with username disha.patani.updates
 -	10:27:34 PM 06 11 --> some error with posting having username urvashirautela26
 -	10:26:08 PM 06 11 --> total users followed from shraddha.kapoor.sweet - 450
 -	10:25:43 PM 06 11 --> total users followed from angelinajolie143 - 450
