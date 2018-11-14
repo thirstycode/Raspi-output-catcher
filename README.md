@@ -1,5 +1,29 @@
 -	07:21:56 PM 03 09 --> posted with username angelinajolie143
 :
+-	01:18:45 PM 14 11 --> posted with username shraddha.kapoor.sweet
+-	01:18:44 PM 14 11 --> some error with posting having username manushi.chillar.insta
+-	01:18:36 PM 14 11 --> some error with posting having username urvashirautela26
+-	01:18:18 PM 14 11 --> posted with username kriti.sanon143
+-	01:18:00 PM 14 11 --> posted with username realshrutihaasan
+-	01:17:36 PM 14 11 --> posted with username angelinajolie143
+-	01:17:28 PM 14 11 --> total users unfollowed from disha.patani.updates - 100
+-	01:17:13 PM 14 11 --> posted with username disha.patani.updates
+-	01:16:58 PM 14 11 --> posted with username priyanka.chopra143
+-	01:16:37 PM 14 11 --> posted with username tamannaah.143
+-	01:14:33 PM 14 11 --> total users unfollowed from tamannaah.143 - 100
+-	01:14:28 PM 14 11 --> total users unfollowed from priyanka.chopra143 - 100
+-	01:14:24 PM 14 11 --> total users unfollowed from shraddha.kapoor.sweet - 100
+-	01:14:19 PM 14 11 --> total users unfollowed from manushi.chillar.insta - 100
+-	01:14:16 PM 14 11 --> total users unfollowed from kriti.sanon143 - 100
+-	01:14:01 PM 14 11 --> total users unfollowed from realshrutihaasan - 100
+-	01:13:07 PM 14 11 --> some error with unfollowing having username urvashirautela26
+-	01:13:06 PM 14 11 --> More following detected for tamannaah.143. Starting unfollow process
+-	01:13:02 PM 14 11 --> More following detected for priyanka.chopra143. Starting unfollow process
+-	01:13:00 PM 14 11 --> More following detected for manushi.chillar.insta. Starting unfollow process
+-	01:12:59 PM 14 11 --> More following detected for disha.patani.updates. Starting unfollow process
+-	01:12:55 PM 14 11 --> More following detected for shraddha.kapoor.sweet. Starting unfollow process
+-	01:12:47 PM 14 11 --> More following detected for realshrutihaasan. Starting unfollow process
+-	01:12:43 PM 14 11 --> More following detected for kriti.sanon143. Starting unfollow process
 -	10:48:57 AM 14 11 --> posted with username disha.patani.updates
 -	10:48:51 AM 14 11 --> posted with username priyanka.chopra143
 -	10:48:22 AM 14 11 --> posted with username realshrutihaasan
