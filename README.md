@@ -1,5 +1,12 @@
 # Raspi-output-catcher
 :
+-	04:18:17 PM 16 11 --> total users unfollowed from disha.patani.updates - 300
+-	04:15:02 PM 16 11 --> total users unfollowed from shraddha.kapoor.sweet - 300
+-	04:14:55 PM 16 11 --> total users unfollowed from tamannaah.143 - 300
+-	04:14:55 PM 16 11 --> total users unfollowed from manushi.chillar.insta - 300
+-	04:14:42 PM 16 11 --> total users unfollowed from priyanka.chopra143 - 300
+-	04:14:35 PM 16 11 --> total users unfollowed from kriti.sanon143 - 300
+-	04:13:57 PM 16 11 --> total users unfollowed from realshrutihaasan - 300
 -	03:31:55 PM 16 11 --> total users unfollowed from disha.patani.updates - 200
 -	03:28:41 PM 16 11 --> total users unfollowed from shraddha.kapoor.sweet - 200
 -	03:28:40 PM 16 11 --> total users unfollowed from manushi.chillar.insta - 200
