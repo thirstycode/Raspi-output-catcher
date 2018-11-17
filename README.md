@@ -1,5 +1,14 @@
 # Raspi-output-catcher
 :
+-	08:19:37 AM 17 11 --> posted with username realshrutihaasan
+-	08:19:33 AM 17 11 --> posted with username priyanka.chopra143
+-	08:19:27 AM 17 11 --> posted with username kriti.sanon143
+-	08:19:23 AM 17 11 --> posted with username angelinajolie143
+-	08:18:44 AM 17 11 --> posted with username tamannaah.143
+-	08:17:57 AM 17 11 --> some error with posting having username urvashirautela26
+-	08:17:39 AM 17 11 --> some error with posting having username shraddha.kapoor.sweet
+-	08:17:17 AM 17 11 --> posted with username disha.patani.updates
+-	08:16:57 AM 17 11 --> some error with posting having username manushi.chillar.insta
 -	10:52:08 PM 16 11 --> Total followers count - 341.8k
 -	10:29:23 PM 16 11 --> posted with username priyanka.chopra143
 -	10:29:21 PM 16 11 --> posted with username disha.patani.updates
