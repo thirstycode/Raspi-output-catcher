@@ -1,5 +1,12 @@
 # Raspi-output-catcher
 :
+-	10:29:59 PM 17 11 --> posted with username disha.patani.updates
+-	10:29:53 PM 17 11 --> posted with username priyanka.chopra143
+-	10:29:18 PM 17 11 --> posted with username tamannaah.143
+-	10:29:04 PM 17 11 --> posted with username angelinajolie143
+-	10:27:24 PM 17 11 --> posted with username kriti.sanon143
+-	10:27:24 PM 17 11 --> some error with posting having username urvashirautela26
+-	10:27:22 PM 17 11 --> some error with posting having username manushi.chillar.insta
 -	08:09:15 PM 17 11 --> total users unfollowed from manushi.chillar.insta - 800
 -	08:09:07 PM 17 11 --> total users unfollowed from priyanka.chopra143 - 800
 -	08:09:06 PM 17 11 --> total users unfollowed from shraddha.kapoor.sweet - 800
