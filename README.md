@@ -1,5 +1,7 @@
 # Raspi-output-catcher
 :
+-	10:30:22 PM 17 11 --> some error with posting having username shraddha.kapoor.sweet
+-	10:30:04 PM 17 11 --> posted with username realshrutihaasan
 -	10:29:59 PM 17 11 --> posted with username disha.patani.updates
 -	10:29:53 PM 17 11 --> posted with username priyanka.chopra143
 -	10:29:18 PM 17 11 --> posted with username tamannaah.143
