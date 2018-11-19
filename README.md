@@ -1,5 +1,20 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	02:42:52 PM 19 11 --> total users unfollowed from tamannaah.143 - 100
+-	02:42:46 PM 19 11 --> total users unfollowed from manushi.chillar.insta - 100
+-	02:42:40 PM 19 11 --> total users unfollowed from kriti.sanon143 - 100
+-	02:42:40 PM 19 11 --> total users unfollowed from shraddha.kapoor.sweet - 100
+-	02:42:38 PM 19 11 --> total users unfollowed from realshrutihaasan - 100
+-	02:42:35 PM 19 11 --> total users unfollowed from disha.patani.updates - 100
+-	02:42:30 PM 19 11 --> total users unfollowed from priyanka.chopra143 - 100
+-	02:41:14 PM 19 11 --> More following detected for tamannaah.143. Starting unfollow process
+-	02:41:12 PM 19 11 --> More following detected for realshrutihaasan. Starting unfollow process
+-	02:41:07 PM 19 11 --> More following detected for manushi.chillar.insta. Starting unfollow process
+-	02:41:04 PM 19 11 --> More following detected for kriti.sanon143. Starting unfollow process
+-	02:40:58 PM 19 11 --> More following detected for shraddha.kapoor.sweet. Starting unfollow process
+-	02:40:54 PM 19 11 --> More following detected for priyanka.chopra143. Starting unfollow process
+-	02:40:53 PM 19 11 --> More following detected for disha.patani.updates. Starting unfollow process
+-	02:40:45 PM 19 11 --> some error with unfollowing having username urvashirautela26
 -	02:10:31 PM 19 11 --> total users unfollowed from angelinajolie143 - 200
 -	01:24:00 PM 19 11 --> total users unfollowed from angelinajolie143 - 100
 -	01:22:44 PM 19 11 --> More following detected for angelinajolie143. Starting unfollow process
