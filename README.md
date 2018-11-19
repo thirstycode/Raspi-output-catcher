@@ -1,5 +1,7 @@
 # Raspi-output-catcher
 :
+-	01:24:00 PM 19 11 --> total users unfollowed from angelinajolie143 - 100
+-	01:22:44 PM 19 11 --> More following detected for angelinajolie143. Starting unfollow process
 -	01:19:09 PM 19 11 --> some error with posting having username shraddha.kapoor.sweet
 -	01:18:20 PM 19 11 --> posted with username priyanka.chopra143
 -	01:18:18 PM 19 11 --> some error with posting having username manushi.chillar.insta
