@@ -1,5 +1,6 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	04:28:15 PM 20 11 --> some error with unfollowing having username angelinajolie143
 -	04:16:53 PM 20 11 --> total users unfollowed from shraddha.kapoor.sweet - 299
 -	04:15:25 PM 20 11 --> total users unfollowed from priyanka.chopra143 - 299
 -	04:15:19 PM 20 11 --> total users unfollowed from kriti.sanon143 - 297
