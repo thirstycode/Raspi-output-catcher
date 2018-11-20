@@ -1,5 +1,14 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	10:49:06 AM 20 11 --> posted with username tamannaah.143
+-	10:48:46 AM 20 11 --> posted with username realshrutihaasan
+-	10:48:38 AM 20 11 --> posted with username angelinajolie143
+-	10:48:36 AM 20 11 --> posted with username kriti.sanon143
+-	10:48:23 AM 20 11 --> posted with username disha.patani.updates
+-	10:47:40 AM 20 11 --> posted with username manushi.chillar.insta
+-	10:47:35 AM 20 11 --> posted with username shraddha.kapoor.sweet
+-	10:46:57 AM 20 11 --> posted with username priyanka.chopra143
+-	10:46:20 AM 20 11 --> some error with posting having username urvashirautela26
 -	08:19:25 AM 20 11 --> posted with username shraddha.kapoor.sweet
 -	08:18:55 AM 20 11 --> posted with username priyanka.chopra143
 -	08:18:27 AM 20 11 --> posted with username kriti.sanon143
