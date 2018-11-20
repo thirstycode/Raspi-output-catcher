@@ -1,5 +1,7 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	01:24:00 PM 20 11 --> total users unfollowed from angelinajolie143 - 100
+-	01:22:41 PM 20 11 --> More following detected for angelinajolie143. Starting unfollow process
 -	01:19:24 PM 20 11 --> posted with username disha.patani.updates
 -	01:19:12 PM 20 11 --> posted with username tamannaah.143
 -	01:18:56 PM 20 11 --> posted with username angelinajolie143
