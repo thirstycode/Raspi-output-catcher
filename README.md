@@ -1,5 +1,9 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	07:19:35 PM 20 11 --> posted with username tamannaah.143
+-	07:19:31 PM 20 11 --> some error with posting having username disha.patani.updates
+-	07:19:29 PM 20 11 --> posted with username disha.patani.updates
+-	07:18:52 PM 20 11 --> some error with posting having username urvashirautela26
 -	06:51:57 PM 20 11 --> total users unfollowed from disha.patani.updates - 573
 -	06:40:11 PM 20 11 --> some error with unfollowing having username priyanka.chopra143
 -	06:40:07 PM 20 11 --> total users unfollowed from shraddha.kapoor.sweet - 520
