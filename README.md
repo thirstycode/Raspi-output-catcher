@@ -1,5 +1,7 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	01:17:06 AM 22 11 --> total users unfollowed from shraddha.kapoor.sweet - 464
+-	01:13:33 AM 22 11 --> total users unfollowed from priyanka.chopra143 - 160
 -	12:32:05 AM 22 11 --> total users unfollowed from shraddha.kapoor.sweet - 464
 -	12:28:32 AM 22 11 --> total users unfollowed from priyanka.chopra143 - 160
 -	11:47:05 PM 21 11 --> total users unfollowed from shraddha.kapoor.sweet - 464
