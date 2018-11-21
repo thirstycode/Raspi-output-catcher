@@ -1,5 +1,7 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	10:58:31 PM 21 11 --> total users unfollowed from priyanka.chopra143 - 160
+-	10:52:11 PM 21 11 --> Total followers count - 345.0k
 -	10:29:32 PM 21 11 --> posted with username tamannaah.143
 -	10:28:37 PM 21 11 --> posted with username kriti.sanon143
 -	10:28:36 PM 21 11 --> posted with username manushi.chillar.insta
