@@ -1,5 +1,6 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	10:52:15 PM 22 11 --> Total followers count - 345.8k
 -	10:30:00 PM 22 11 --> some error with posting having username urvashirautela26
 -	10:29:47 PM 22 11 --> posted with username kriti.sanon143
 -	10:29:20 PM 22 11 --> posted with username realshrutihaasan
