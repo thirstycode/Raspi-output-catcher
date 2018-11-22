@@ -1,5 +1,13 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	10:49:42 AM 22 11 --> posted with username tamannaah.143
+-	10:49:22 AM 22 11 --> posted with username angelinajolie143
+-	10:49:18 AM 22 11 --> some error with posting having username urvashirautela26
+-	10:49:07 AM 22 11 --> posted with username realshrutihaasan
+-	10:48:25 AM 22 11 --> posted with username shraddha.kapoor.sweet
+-	10:47:41 AM 22 11 --> posted with username kriti.sanon143
+-	10:47:06 AM 22 11 --> posted with username manushi.chillar.insta
+-	10:46:46 AM 22 11 --> posted with username disha.patani.updates
 -	08:19:50 AM 22 11 --> posted with username shraddha.kapoor.sweet
 -	08:19:41 AM 22 11 --> posted with username priyanka.chopra143
 -	08:19:20 AM 22 11 --> posted with username angelinajolie143
@@ -109,8 +117,7 @@
 -	03:28:22 PM 21 11 --> total users unfollowed from priyanka.chopra143 - 160
 -	02:59:38 PM 21 11 --> total users unfollowed from angelinajolie143 - 300
 -	02:42:37 PM 21 11 --> total users unfollowed from kriti.sanon143 - 100
--	02:42:27 PM 21 11 --> total users unfollowed from shraddha.kapoor.sweet - 100
--	02:42:26 PM 21 11 --> total users unfollowed from disha.patani.updates - 100
+-	02:42:27 PM 21 11 --> total users unfollowed from shraddha.kapoor.sweet - 1-	0-	02:42:26 PM 21 11 --> total users unfollowed from disha.patani.updates - 100
 -	02:42:24 PM 21 11 --> total users unfollowed from manushi.chillar.insta - 100
 -	02:42:23 PM 21 11 --> total users unfollowed from priyanka.chopra143 - 100
 -	02:42:07 PM 21 11 --> total users unfollowed from realshrutihaasan - 100
@@ -221,8 +228,7 @@
 -	02:42:28 PM 20 11 --> total users unfollowed from shraddha.kapoor.sweet - 100
 -	02:42:23 PM 20 11 --> total users unfollowed from kriti.sanon143 - 100
 -	02:42:19 PM 20 11 --> total users unfollowed from disha.patani.updates - 100
--	02:42:02 PM 20 11 --> total users unfollowed from manushi.chillar.insta - 100
--	02:41:53 PM 20 11 --> total users unfollowed from realshrutihaasan - 100
+-	02:42:02 PM 20 11 --> total users unfollowed from manushi.chillar.insta - 1-	0-	02:41:53 PM 20 11 --> total users unfollowed from realshrutihaasan - 100
 -	02:41:10 PM 20 11 --> More following detected for priyanka.chopra143. Starting unfollow process
 -	02:41:06 PM 20 11 --> More following detected for shraddha.kapoor.sweet. Starting unfollow process
 -	02:41:03 PM 20 11 --> More following detected for kriti.sanon143. Starting unfollow process
@@ -335,8 +341,7 @@
 -	04:47:10 PM 19 11 --> posted with username manushi.chillar.insta
 -	04:46:40 PM 19 11 --> posted with username priyanka.chopra143
 -	04:46:37 PM 19 11 --> posted with username kriti.sanon143
--	04:46:30 PM 19 11 --> posted with username shraddha.kapoor.sweet
--	04:46:03 PM 19 11 --> posted with username angelinajolie143
+-	04:46:30 PM 19 11 --> posted with username shraddha.kapoor.swe-	0-	04:46:03 PM 19 11 --> posted with username angelinajolie143
 -	04:45:49 PM 19 11 --> posted with username tamannaah.143
 -	04:29:55 PM 19 11 --> total users unfollowed from angelinajolie143 - 500
 -	04:15:43 PM 19 11 --> total users unfollowed from manushi.chillar.insta - 300
@@ -445,8 +450,7 @@
 -	06:22:26 PM 18 11 --> total users unfollowed from kriti.sanon143 - 500
 -	06:22:04 PM 18 11 --> total users unfollowed from disha.patani.updates - 500
 -	06:19:14 PM 18 11 --> total users unfollowed from priyanka.chopra143 - 500
--	06:19:11 PM 18 11 --> total users unfollowed from shraddha.kapoor.sweet - 500
--	06:19:03 PM 18 11 --> total users unfollowed from tamannaah.143 - 500
+-	06:19:11 PM 18 11 --> total users unfollowed from shraddha.kapoor.sweet - 5-	0-	06:19:03 PM 18 11 --> total users unfollowed from tamannaah.143 - 500
 -	06:18:55 PM 18 11 --> total users unfollowed from angelinajolie143 - 700
 -	06:18:33 PM 18 11 --> total users unfollowed from realshrutihaasan - 500
 -	05:16:34 PM 18 11 --> total users unfollowed from angelinajolie143 - 600
@@ -555,8 +559,7 @@
 -	07:19:40 PM 17 11 --> some error with posting having username urvashirautela26
 -	07:19:27 PM 17 11 --> total users unfollowed from kriti.sanon143 - 700
 -	07:19:23 PM 17 11 --> posted with username priyanka.chopra143
--	07:19:00 PM 17 11 --> posted with username disha.patani.updates
--	07:18:52 PM 17 11 --> posted with username kriti.sanon143
+-	07:19:00 PM 17 11 --> posted with username disha.patani.updat-	07:18:52 PM 17 11 --> posted with username kriti.sanon143
 -	07:18:31 PM 17 11 --> posted with username tamannaah.143
 -	07:18:20 PM 17 11 --> total users unfollowed from realshrutihaasan - 700
 -	06:51:41 PM 17 11 --> total users unfollowed from angelinajolie143 - 800
@@ -791,4 +794,4 @@
 -	04:58:13 AM 16 11 --> More following detected for disha.patani.updates. Starting unfollow process
 -	04:58:12 AM 16 11 --> More following detected for angelinajolie143. Starting unfollow process
 -	04:58:11 AM 16 11 --> More following detected for realshrutihaasan. Starting unfollow process
--	04:57:51 AM 16 11 --> Total followers count - 341.0k
+-	04:57:51 AM 16 11 --> Total followers count - 341.0k.0k
