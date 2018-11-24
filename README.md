@@ -1,5 +1,14 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	10:29:51 PM 24 11 --> posted with username priyanka.chopra143
+-	10:29:27 PM 24 11 --> posted with username tamannaah.143
+-	10:29:08 PM 24 11 --> posted with username realshrutihaasan
+-	10:28:56 PM 24 11 --> posted with username shraddha.kapoor.sweet
+-	10:28:45 PM 24 11 --> posted with username kriti.sanon143
+-	10:28:04 PM 24 11 --> some error with posting having username disha.patani.updates
+-	10:27:50 PM 24 11 --> posted with username manushi.chillar.insta
+-	10:27:36 PM 24 11 --> posted with username angelinajolie143
+-	10:27:17 PM 24 11 --> some error with posting having username urvashirautela26
 -	10:14:24 PM 24 11 --> total users unfollowed from angelinajolie143 - 800
 -	10:11:31 PM 24 11 --> total users unfollowed from disha.patani.updates - 441
 -	10:10:26 PM 24 11 --> total users unfollowed from realshrutihaasan - 120
