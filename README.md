@@ -1,5 +1,6 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	03:43:21 PM 24 11 --> total users unfollowed from angelinajolie143 - 400
 -	03:28:28 PM 24 11 --> total users unfollowed from disha.patani.updates - 200
 -	03:27:23 PM 24 11 --> total users unfollowed from realshrutihaasan - 120
 -	02:56:59 PM 24 11 --> total users unfollowed from angelinajolie143 - 300
