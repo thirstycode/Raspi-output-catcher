@@ -1,5 +1,7 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	10:54:18 PM 25 11 --> Total followers count - 347.5k
+-	10:54:13 PM 25 11 --> total users unfollowed from angelinajolie143 - 532
 -	10:30:04 PM 25 11 --> posted with username manushi.chillar.insta
 -	10:29:45 PM 25 11 --> some error with posting having username urvashirautela26
 -	10:29:43 PM 25 11 --> some error with posting having username disha.patani.updates
