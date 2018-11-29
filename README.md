@@ -1,5 +1,6 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	10:52:12 PM 29 11 --> Total followers count - 352.3k
 -	10:33:04 PM 29 11 --> total users followed from disha.patani.updates - 450
 -	10:32:58 PM 29 11 --> total users followed from realshrutihaasan - 525
 -	10:32:56 PM 29 11 --> total users followed from kriti.sanon143 - 525
