@@ -1,5 +1,6 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	10:52:07 PM 01 12 --> some error with fetching total followers.
 -	10:30:03 PM 01 12 --> some error with posting having username tamannaah.143
 -	10:30:00 PM 01 12 --> posted with username tamannaah.143
 -	10:29:56 PM 01 12 --> some error with posting having username kriti.sanon143
