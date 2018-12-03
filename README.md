@@ -1,5 +1,19 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	10:49:06 AM 03 12 --> some error with posting having username shraddha.kapoor.sweet
+-	10:49:06 AM 03 12 --> some error with posting having username kriti.sanon143
+-	10:49:03 AM 03 12 --> posted with username shraddha.kapoor.sweet
+-	10:49:03 AM 03 12 --> posted with username kriti.sanon143
+-	10:47:49 AM 03 12 --> posted with username angelinajolie143
+-	10:47:42 AM 03 12 --> some error with posting having username realshrutihaasan
+-	10:47:42 AM 03 12 --> some error with posting having username urvashirautela26
+-	10:47:39 AM 03 12 --> posted with username realshrutihaasan
+-	10:47:34 AM 03 12 --> some error with posting having username disha.patani.updates
+-	10:47:33 AM 03 12 --> some error with posting having username priyanka.chopra143
+-	10:47:33 AM 03 12 --> some error with posting having username manushi.chillar.insta
+-	10:47:31 AM 03 12 --> posted with username priyanka.chopra143
+-	10:47:05 AM 03 12 --> some error with posting having username tamannaah.143
+-	10:47:02 AM 03 12 --> posted with username tamannaah.143
 -	08:19:51 AM 03 12 --> some error with posting having username urvashirautela26
 -	08:19:50 AM 03 12 --> some error with posting having username tamannaah.143
 -	08:19:47 AM 03 12 --> posted with username tamannaah.143
