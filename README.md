@@ -1,5 +1,6 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	10:52:11 PM 06 12 --> Total followers count - 357.8k
 -	10:32:58 PM 06 12 --> total users followed from shraddha.kapoor.sweet - 375
 -	10:32:39 PM 06 12 --> total users followed from manushi.chillar.insta - 375
 -	10:32:18 PM 06 12 --> total users followed from realshrutihaasan - 375
