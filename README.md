@@ -1,5 +1,6 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	10:52:12 PM 12 12 --> Total followers count - 363.5k
 -	10:29:45 PM 12 12 --> posted with username tamannaah.143
 -	10:29:20 PM 12 12 --> posted with username angelinajolie143
 -	10:29:16 PM 12 12 --> posted with username disha.patani.updates
