@@ -1,5 +1,10 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	10:56:54 PM 14 12 --> total users followed from tamannaah.143 - 450
+-	10:55:56 PM 14 12 --> total users followed from manushi.chillar.insta - 449
+-	10:55:17 PM 14 12 --> total users followed from angelinajolie143 - 450
+-	10:54:50 PM 14 12 --> total users followed from realshrutihaasan - 449
+-	10:52:13 PM 14 12 --> Total followers count - 253.6k
 -	10:32:34 PM 14 12 --> total users followed from tamannaah.143 - 375
 -	10:31:45 PM 14 12 --> total users followed from manushi.chillar.insta - 374
 -	10:31:01 PM 14 12 --> total users followed from angelinajolie143 - 375
