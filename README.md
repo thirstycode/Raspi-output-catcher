@@ -1,5 +1,31 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	06:30:00 PM 17 12 --> some error with posting having username disha.patani.updates
+-	06:29:58 PM 17 12 --> posted with username disha.patani.updates
+-	06:29:53 PM 17 12 --> posted with username realshrutihaasan
+-	06:29:50 PM 17 12 --> posted with username tamannaah.143
+-	06:29:49 PM 17 12 --> posted with username priyanka.chopra143
+-	06:29:40 PM 17 12 --> posted with username angelinajolie143
+-	06:29:39 PM 17 12 --> posted with username priyanka.chopra143
+-	06:29:10 PM 17 12 --> some error with posting having username disha.patani.updates
+-	06:29:08 PM 17 12 --> posted with username manushi.chillar.insta
+-	06:29:07 PM 17 12 --> posted with username disha.patani.updates
+-	06:29:00 PM 17 12 --> posted with username kriti.sanon143
+-	06:28:58 PM 17 12 --> posted with username angelinajolie143
+-	06:28:56 PM 17 12 --> posted with username kriti.sanon143
+-	06:28:42 PM 17 12 --> posted with username priyanka.chopra143
+-	06:28:37 PM 17 12 --> some error with posting having username urvashirautela26
+-	06:28:34 PM 17 12 --> posted with username manushi.chillar.insta
+-	06:28:23 PM 17 12 --> posted with username kriti.sanon143
+-	06:28:15 PM 17 12 --> posted with username tamannaah.143
+-	06:28:06 PM 17 12 --> some error with posting having username urvashirautela26
+-	06:28:01 PM 17 12 --> some error with posting having username urvashirautela26
+-	06:27:52 PM 17 12 --> some error with posting having username disha.patani.updates
+-	06:27:50 PM 17 12 --> posted with username disha.patani.updates
+-	06:27:50 PM 17 12 --> some error with posting having username angelinajolie143
+-	06:27:50 PM 17 12 --> posted with username angelinajolie143
+-	06:27:49 PM 17 12 --> posted with username shraddha.kapoor.sweet
+-	06:27:46 PM 17 12 --> posted with username angelinajolie143
 -	01:37:51 AM 17 12 --> some error with following having username angelinajolie143
 -	12:37:04 AM 17 12 --> some error with following having username shraddha.kapoor.sweet
 -	11:38:14 PM 16 12 --> total users followed from manushi.chillar.insta - 225
