@@ -1,5 +1,6 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	11:10:15 PM 18 12 --> total users followed from shraddha.kapoor.sweet - 675
 -	11:08:53 PM 18 12 --> total users followed from disha.patani.updates - 675
 -	11:08:49 PM 18 12 --> total users followed from kriti.sanon143 - 675
 -	10:52:49 PM 18 12 --> Total followers count - 368.6k
