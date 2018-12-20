@@ -1,5 +1,8 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	08:07:21 PM 20 12 --> total users followed from disha.patani.updates - 449
+-	08:07:06 PM 20 12 --> total users followed from shraddha.kapoor.sweet - 450
+-	08:06:46 PM 20 12 --> total users followed from realshrutihaasan - 375
 -	07:50:48 PM 20 12 --> total users followed from kriti.sanon143 - 300
 -	07:50:37 PM 20 12 --> total users followed from manushi.chillar.insta - 374
 -	07:47:20 PM 20 12 --> total users followed from disha.patani.updates - 374
