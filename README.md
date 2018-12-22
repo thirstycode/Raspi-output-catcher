@@ -1,5 +1,6 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	09:31:58 PM 22 12 --> total users followed from pure.python - 474
 -	09:12:13 PM 22 12 --> total users followed from pure.python - 399
 -	09:07:42 PM 22 12 --> total users followed from kriti.sanon143 - 375
 -	09:06:12 PM 22 12 --> total users followed from realshrutihaasan - 375
