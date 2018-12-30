@@ -1,5 +1,7 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	07:42:27 PM 30 12 --> total users followed from realshrutihaasan - 0
+-	07:41:26 PM 30 12 --> total users followed from shraddha.kapoor.sweet - 0
 -	07:38:47 PM 30 12 --> some error with following having username manushi.chillar.insta
 -	07:20:45 PM 30 12 --> posted with username tamannaah.143
 -	07:20:11 PM 30 12 --> some error with posting having username disha.patani.updates
