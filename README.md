@@ -1,5 +1,7 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	05:49:37 PM 31 12 --> total users followed from priyanka.chopra143 - 61
+-	05:49:28 PM 31 12 --> total users followed from realshrutihaasan - 0
 -	05:35:41 PM 31 12 --> total users followed from pure.python - 0
 -	05:16:08 PM 31 12 --> total users followed from pure.python - 0
 -	04:51:06 PM 31 12 --> some error with following having username tamannaah.143
@@ -114,8 +116,7 @@
 -	01:16:02 PM 30 12 --> some error with posting having username manushi.chillar.insta
 -	01:15:54 PM 30 12 --> posted with username realshrutihaasan
 -	10:49:45 AM 30 12 --> posted with username priyanka.chopra143
--	10:49:27 AM 30 12 --> posted with username tamannaah.143
--	10:47:55 AM 30 12 --> posted with username angelinajolie143
+-	10:-	10:49:27 AM 30 12 --> posted with username tamannaah-	10:47:55 AM 30 12 --> posted with username angelinajolie143
 -	10:47:38 AM 30 12 --> posted with username shraddha.kapoor.sweet
 -	10:47:24 AM 30 12 --> some error with posting having username manushi.chillar.insta
 -	10:47:18 AM 30 12 --> posted with username kriti.sanon143
@@ -231,7 +232,7 @@
 -	10:45:01 PM 28 12 --> total users followed from shraddha.kapoor.sweet - 300
 -	10:30:22 PM 28 12 --> some error with posting having username disha.patani.updates
 -	10:30:19 PM 28 12 --> posted with username disha.patani.updates
--	10:30:03 PM 28 12 --> posted with username shraddha.kapoor.sweet
+-	10:-	10:30:03 PM 28 12 --> posted with username shraddha.kapoor.sweet
 -	10:29:56 PM 28 12 --> some error with posting having username urvashirautela26
 -	10:29:38 PM 28 12 --> posted with username tamannaah.143
 -	10:29:18 PM 28 12 --> posted with username priyanka.chopra143
@@ -347,8 +348,7 @@
 -	06:12:19 PM 27 12 --> total users followed from realshrutihaasan - 0
 -	06:09:53 PM 27 12 --> total users followed from shraddha.kapoor.sweet - 150
 -	06:09:52 PM 27 12 --> total users followed from manushi.chillar.insta - 150
--	06:09:51 PM 27 12 --> total users followed from priyanka.chopra143 - 150
--	05:21:06 PM 27 12 --> total users followed from manushi.chillar.insta - 75
+-	06:09:51 PM 27 12 --> total users followed from priyanka.chopra143 --	05:-	05:21:06 PM 27 12 --> total users followed from manushi.chillar.insta - 75
 -	05:21:01 PM 27 12 --> total users followed from priyanka.chopra143 - 75
 -	05:20:55 PM 27 12 --> total users followed from shraddha.kapoor.sweet - 75
 -	05:20:07 PM 27 12 --> total users followed from realshrutihaasan - 0
@@ -464,8 +464,7 @@
 -	01:17:45 PM 26 12 --> posted with username realshrutihaasan
 -	01:17:24 PM 26 12 --> posted with username manushi.chillar.insta
 -	01:16:47 PM 26 12 --> posted with username shraddha.kapoor.sweet
--	01:16:34 PM 26 12 --> posted with username kriti.sanon143
--	01:16:29 PM 26 12 --> posted with username tamannaah.143
+-	01:16:34 PM 26 12 --> posted with username kriti.sano-	01:-	01:16:29 PM 26 12 --> posted with username tamannaah.143
 -	01:16:14 PM 26 12 --> some error with posting having username urvashirautela26
 -	10:48:51 AM 26 12 --> posted with username realshrutihaasan
 -	10:48:38 AM 26 12 --> posted with username kriti.sanon143
@@ -583,8 +582,7 @@
 -	08:18:44 AM 25 12 --> posted with username shraddha.kapoor.sweet
 -	08:18:33 AM 25 12 --> posted with username realshrutihaasan
 -	08:18:25 AM 25 12 --> posted with username kriti.sanon143
--	08:17:57 AM 25 12 --> posted with username priyanka.chopra143
--	08:17:41 AM 25 12 --> some error with posting having username disha.patani.updates
+-	08:17:57 AM 25 12 --> posted with username priyanka.chopr-	08:-	08:17:41 AM 25 12 --> some error with posting having username disha.patani.updates
 -	08:17:38 AM 25 12 --> posted with username disha.patani.updates
 -	08:17:07 AM 25 12 --> posted with username tamannaah.143
 -	01:47:26 AM 25 12 --> total users followed from realshrutihaasan - 674
@@ -699,8 +697,7 @@
 -	12:08:08 AM 24 12 --> total users followed from kriti.sanon143 - 524
 -	12:04:39 AM 24 12 --> total users followed from realshrutihaasan - 525
 -	12:04:36 AM 24 12 --> total users followed from manushi.chillar.insta - 525
--	12:01:08 AM 24 12 --> total users followed from pure.python - 594
--	11:19:54 PM 23 12 --> total users followed from realshrutihaasan - 450
+-	12:01:08 AM 24 12 --> total users followed from pure.python --	11:-	11:19:54 PM 23 12 --> total users followed from realshrutihaasan - 450
 -	11:19:54 PM 23 12 --> total users followed from manushi.chillar.insta - 450
 -	11:19:15 PM 23 12 --> total users followed from kriti.sanon143 - 449
 -	11:16:38 PM 23 12 --> total users followed from pure.python - 519
@@ -818,8 +815,7 @@
 -	08:27:10 PM 22 12 --> total users followed from kriti.sanon143 - 300
 -	08:14:09 PM 22 12 --> total users followed from realshrutihaasan - 225
 -	08:07:14 PM 22 12 --> total users followed from kriti.sanon143 - 225
--	08:02:55 PM 22 12 --> some error with following having username shraddha.kapoor.sweet
--	07:45:53 PM 22 12 --> some error with following having username tamannaah.143
+-	08:02:55 PM 22 12 --> some error with following having username shraddha.kapoor.s-	07:-	07:45:53 PM 22 12 --> some error with following having username tamannaah.143
 -	07:27:06 PM 22 12 --> total users followed from tamannaah.143 - 150
 -	07:27:00 PM 22 12 --> total users followed from realshrutihaasan - 150
 -	07:26:49 PM 22 12 --> total users followed from kriti.sanon143 - 150
@@ -934,8 +930,7 @@
 -	07:19:20 PM 21 12 --> posted with username manushi.chillar.insta
 -	07:19:17 PM 21 12 --> posted with username kriti.sanon143
 -	07:19:13 PM 21 12 --> posted with username shraddha.kapoor.sweet
--	07:18:34 PM 21 12 --> posted with username angelinajolie143
--	07:18:25 PM 21 12 --> posted with username priyanka.chopra143
+-	07:18:34 PM 21 12 --> posted with username angelinajoli-	07:-	07:18:25 PM 21 12 --> posted with username priyanka.chopra143
 -	07:13:11 PM 21 12 --> some error with following having username tamannaah.143
 -	06:54:27 PM 21 12 --> total users followed from tamannaah.143 - 150
 -	06:54:10 PM 21 12 --> total users followed from realshrutihaasan - 150
@@ -1048,8 +1043,7 @@
 -	05:16:47 PM 20 12 --> total users followed from manushi.chillar.insta - 75
 -	05:16:47 PM 20 12 --> total users followed from shraddha.kapoor.sweet - 75
 -	05:16:37 PM 20 12 --> total users followed from realshrutihaasan - 75
--	05:16:26 PM 20 12 --> total users followed from kriti.sanon143 - 75
--	05:16:05 PM 20 12 --> total users followed from priyanka.chopra143 - 75
+-	05:16:26 PM 20 12 --> total users followed from kriti.sanon143 -	05:-	05:16:05 PM 20 12 --> total users followed from priyanka.chopra143 - 75
 -	05:15:12 PM 20 12 --> total users followed from pure.python - 40
 -	04:50:33 PM 20 12 --> some error with following having username urvashirautela26
 -	04:48:30 PM 20 12 --> some error with posting having username urvashirautela26
@@ -1167,8 +1161,7 @@
 -	08:18:12 AM 19 12 --> posted with username priyanka.chopra143
 -	08:17:59 AM 19 12 --> posted with username tamannaah.143
 -	08:17:43 AM 19 12 --> posted with username shraddha.kapoor.sweet
--	08:17:22 AM 19 12 --> posted with username realshrutihaasan
--	08:16:49 AM 19 12 --> posted with username manushi.chillar.insta
+-	08:17:22 AM 19 12 --> posted with username realshrutiha-	08:-	08:16:49 AM 19 12 --> posted with username manushi.chillar.insta
 -	03:47:58 AM 19 12 --> total users followed from shraddha.kapoor.sweet - 817
 -	03:46:42 AM 19 12 --> total users followed from kriti.sanon143 - 811
 -	02:54:12 AM 19 12 --> some error with following having username disha.patani.updates
@@ -1283,8 +1276,7 @@
 -	08:17:08 AM 18 12 --> posted with username tamannaah.143
 -	02:48:12 AM 18 12 --> some error with following having username kriti.sanon143
 -	02:05:13 AM 18 12 --> total users followed from tamannaah.143 - 221
--	02:05:12 AM 18 12 --> total users followed from manushi.chillar.insta - 220
--	02:05:00 AM 18 12 --> total users followed from angelinajolie143 - 217
+-	02:05:12 AM 18 12 --> total users followed from manushi.chillar.insta --	02:-	02:05:00 AM 18 12 --> total users followed from angelinajolie143 - 217
 -	02:04:50 AM 18 12 --> total users followed from kriti.sanon143 - 293
 -	02:04:37 AM 18 12 --> total users followed from shraddha.kapoor.sweet - 215
 -	02:03:47 AM 18 12 --> total users followed from priyanka.chopra143 - 280
@@ -1399,8 +1391,7 @@
 -	07:19:12 PM 16 12 --> some error with posting having username urvashirautela26
 -	07:19:00 PM 16 12 --> posted with username realshrutihaasan
 -	06:08:10 PM 16 12 --> some error with following having username priyanka.chopra143
--	04:50:56 PM 16 12 --> some error with following having username realshrutihaasan
--	04:50:35 PM 16 12 --> some error with following having username urvashirautela26
+-	04:50:56 PM 16 12 --> some error with following having username realshrutiha-	04:-	04:50:35 PM 16 12 --> some error with following having username urvashirautela26
 -	04:49:17 PM 16 12 --> some error with posting having username disha.patani.updates
 -	04:49:14 PM 16 12 --> posted with username disha.patani.updates
 -	04:48:49 PM 16 12 --> posted with username realshrutihaasan
@@ -1518,8 +1509,7 @@
 -	08:18:48 AM 15 12 --> some error with posting having username urvashirautela26
 -	08:18:36 AM 15 12 --> posted with username manushi.chillar.insta
 -	08:17:54 AM 15 12 --> posted with username tamannaah.143
--	08:16:59 AM 15 12 --> posted with username priyanka.chopra143
--	08:16:34 AM 15 12 --> posted with username angelinajolie143
+-	08:16:59 AM 15 12 --> posted with username priyanka.chopr-	08:-	08:16:34 AM 15 12 --> posted with username angelinajolie143
 -	02:43:38 AM 15 12 --> total users followed from tamannaah.143 - 525
 -	02:41:13 AM 15 12 --> total users followed from manushi.chillar.insta - 524
 -	02:40:49 AM 15 12 --> total users followed from angelinajolie143 - 525
@@ -1636,8 +1626,7 @@
 -	10:35:18 PM 13 12 --> total users followed from angelinajolie143 - 300
 -	10:34:40 PM 13 12 --> total users followed from priyanka.chopra143 - 300
 -	10:33:45 PM 13 12 --> total users followed from realshrutihaasan - 375
--	10:32:24 PM 13 12 --> total users followed from disha.patani.updates - 300
--	10:31:03 PM 13 12 --> total users followed from kriti.sanon143 - 225
+-	10:32:24 PM 13 12 --> total users followed from disha.patani.updates --	10:-	10:31:03 PM 13 12 --> total users followed from kriti.sanon143 - 225
 -	10:29:59 PM 13 12 --> posted with username shraddha.kapoor.sweet
 -	10:29:02 PM 13 12 --> posted with username manushi.chillar.insta
 -	10:28:36 PM 13 12 --> some error with posting having username urvashirautela26
@@ -1755,8 +1744,7 @@
 -	07:18:25 PM 12 12 --> posted with username angelinajolie143
 -	07:17:48 PM 12 12 --> total users followed from angelinajolie143 - 75
 -	07:16:50 PM 12 12 --> total users followed from kriti.sanon143 - 75
--	07:16:16 PM 12 12 --> some error with following having username disha.patani.updates
--	07:15:17 PM 12 12 --> total users followed from shraddha.kapoor.sweet - 75
+-	07:16:16 PM 12 12 --> some error with following having username disha.patani.upd-	07:-	07:15:17 PM 12 12 --> total users followed from shraddha.kapoor.sweet - 75
 -	07:15:09 PM 12 12 --> some error with following having username priyanka.chopra143
 -	06:28:16 PM 12 12 --> some error with following having username manushi.chillar.insta
 -	06:23:59 PM 12 12 --> some error with following having username realshrutihaasan
@@ -1873,8 +1861,7 @@
 -	01:20:30 PM 11 12 --> posted with username realshrutihaasan
 -	01:18:45 PM 11 12 --> posted with username shraddha.kapoor.sweet
 -	01:18:39 PM 11 12 --> posted with username kriti.sanon143
--	01:18:29 PM 11 12 --> posted with username priyanka.chopra143
--	01:18:20 PM 11 12 --> posted with username angelinajolie143
+-	01:18:29 PM 11 12 --> posted with username priyanka.chopr-	01:-	01:18:20 PM 11 12 --> posted with username angelinajolie143
 -	01:18:16 PM 11 12 --> posted with username tamannaah.143
 -	01:17:47 PM 11 12 --> posted with username manushi.chillar.insta
 -	01:16:29 PM 11 12 --> some error with posting having username urvashirautela26
@@ -1992,8 +1979,7 @@
 -	10:35:53 PM 09 12 --> total users followed from manushi.chillar.insta - 525
 -	10:30:21 PM 09 12 --> some error with posting having username urvashirautela26
 -	10:29:21 PM 09 12 --> posted with username angelinajolie143
--	10:29:18 PM 09 12 --> posted with username realshrutihaasan
--	10:29:04 PM 09 12 --> posted with username manushi.chillar.insta
+-	10:29:18 PM 09 12 --> posted with username realshrutiha-	10:-	10:29:04 PM 09 12 --> posted with username manushi.chillar.insta
 -	10:28:58 PM 09 12 --> posted with username kriti.sanon143
 -	10:28:49 PM 09 12 --> some error with posting having username disha.patani.updates
 -	10:28:46 PM 09 12 --> posted with username disha.patani.updates
@@ -2109,8 +2095,7 @@
 -	10:29:30 PM 08 12 --> posted with username realshrutihaasan
 -	10:28:23 PM 08 12 --> posted with username angelinajolie143
 -	10:28:07 PM 08 12 --> posted with username manushi.chillar.insta
--	10:27:57 PM 08 12 --> posted with username disha.patani.updates
--	10:27:55 PM 08 12 --> posted with username shraddha.kapoor.sweet
+-	10:27:57 PM 08 12 --> posted with username disha.patani.upd-	10:-	10:27:55 PM 08 12 --> posted with username shraddha.kapoor.sweet
 -	10:27:06 PM 08 12 --> posted with username priyanka.chopra143
 -	09:06:09 PM 08 12 --> total users followed from disha.patani.updates - 150
 -	09:05:13 PM 08 12 --> total users followed from tamannaah.143 - 150
@@ -2228,8 +2213,7 @@
 -	04:47:51 PM 07 12 --> posted with username kriti.sanon143
 -	04:47:33 PM 07 12 --> posted with username disha.patani.updates
 -	04:47:33 PM 07 12 --> posted with username tamannaah.143
--	04:46:50 PM 07 12 --> posted with username manushi.chillar.insta
--	04:46:44 PM 07 12 --> posted with username priyanka.chopra143
+-	04:46:50 PM 07 12 --> posted with username manushi.chillar.i-	04:-	04:46:44 PM 07 12 --> posted with username priyanka.chopra143
 -	04:46:28 PM 07 12 --> posted with username shraddha.kapoor.sweet
 -	01:18:58 PM 07 12 --> posted with username disha.patani.updates
 -	01:18:42 PM 07 12 --> some error with posting having username urvashirautela26
@@ -2348,8 +2332,7 @@
 -	08:18:34 AM 06 12 --> posted with username priyanka.chopra143
 -	08:18:18 AM 06 12 --> some error with posting having username urvashirautela26
 -	08:17:44 AM 06 12 --> posted with username angelinajolie143
--	04:48:32 AM 06 12 --> some error with following having username angelinajolie143
--	02:46:47 AM 06 12 --> some error with following having username shraddha.kapoor.sweet
+-	04:48:32 AM 06 12 --> some error with following having username angelinajoli-	02:-	02:46:47 AM 06 12 --> some error with following having username shraddha.kapoor.sweet
 -	01:16:25 AM 06 12 --> Total followers count - 356.8k
 -	10:30:49 PM 05 12 --> some error with posting having username disha.patani.updates
 -	10:30:39 PM 05 12 --> some error with posting having username manushi.chillar.insta
@@ -2465,8 +2448,7 @@
 -	01:17:14 PM 04 12 --> posted with username kriti.sanon143
 -	01:17:04 PM 04 12 --> some error with posting having username tamannaah.143
 -	01:17:02 PM 04 12 --> posted with username tamannaah.143
--	01:16:59 PM 04 12 --> some error with posting having username urvashirautela26
--	01:16:49 PM 04 12 --> some error with posting having username disha.patani.updates
+-	01:16:59 PM 04 12 --> some error with posting having username urvashiraute-	01:-	01:16:49 PM 04 12 --> some error with posting having username disha.patani.updates
 -	01:16:08 PM 04 12 --> some error with posting having username priyanka.chopra143
 -	01:16:05 PM 04 12 --> posted with username priyanka.chopra143
 -	10:49:02 AM 04 12 --> posted with username angelinajolie143
@@ -2576,8 +2558,7 @@
 -	08:19:19 AM 03 12 --> some error with posting having username kriti.sanon143
 -	08:19:17 AM 03 12 --> posted with username kriti.sanon143
 -	08:18:46 AM 03 12 --> some error with posting having username realshrutihaasan
--	08:18:44 AM 03 12 --> posted with username realshrutihaasan
--	08:18:12 AM 03 12 --> posted with username angelinajolie143
+-	08:18:44 AM 03 12 --> posted with username realshrutiha-	08:-	08:18:12 AM 03 12 --> posted with username angelinajolie143
 -	08:18:00 AM 03 12 --> some error with posting having username priyanka.chopra143
 -	08:17:57 AM 03 12 --> posted with username priyanka.chopra143
 -	08:17:22 AM 03 12 --> some error with posting having username disha.patani.updates
