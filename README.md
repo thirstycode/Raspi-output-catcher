@@ -1,5 +1,6 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	08:34:35 PM 01 01 --> some error with following having username pure.python
 -	08:09:35 PM 01 01 --> total users followed from realshrutihaasan - 0
 -	08:07:05 PM 01 01 --> total users followed from pure.python - 0
 -	08:06:44 PM 01 01 --> total users followed from shraddha.kapoor.sweet - 0
