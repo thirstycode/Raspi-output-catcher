@@ -1,5 +1,34 @@
 # Raspi-output-catcher - Instagram automation panel
 :
+-	12:05:40 AM 04 01 --> Total followers count - 265.9k
+-	10:30:42 PM 03 01 --> some error with posting having username priyanka.chopra143
+-	10:30:31 PM 03 01 --> some error with posting having username realshrutihaasan
+-	10:30:14 PM 03 01 --> some error with posting having username manushi.chillar.insta
+-	10:29:32 PM 03 01 --> some error with posting having username tamannaah.143
+-	10:29:24 PM 03 01 --> some error with posting having username angelinajolie143
+-	10:28:56 PM 03 01 --> some error with posting having username shraddha.kapoor.sweet
+-	10:28:40 PM 03 01 --> some error with posting having username kriti.sanon143
+-	10:28:33 PM 03 01 --> some error with posting having username urvashirautela26
+-	10:27:16 PM 03 01 --> some error with posting having username disha.patani.updates
+-	07:21:31 PM 03 01 --> some error with posting having username angelinajolie143
+-	07:21:29 PM 03 01 --> some error with posting having username priyanka.chopra143
+-	07:21:25 PM 03 01 --> some error with posting having username manushi.chillar.insta
+-	07:21:18 PM 03 01 --> some error with posting having username disha.patani.updates
+-	07:21:02 PM 03 01 --> some error with posting having username shraddha.kapoor.sweet
+-	07:20:35 PM 03 01 --> some error with posting having username tamannaah.143
+-	07:20:05 PM 03 01 --> some error with posting having username urvashirautela26
+-	07:19:19 PM 03 01 --> some error with posting having username kriti.sanon143
+-	07:19:06 PM 03 01 --> some error with posting having username realshrutihaasan
+-	04:50:33 PM 03 01 --> some error with following having username urvashirautela26
+-	04:48:21 PM 03 01 --> some error with posting having username manushi.chillar.insta
+-	04:48:18 PM 03 01 --> some error with posting having username priyanka.chopra143
+-	04:48:11 PM 03 01 --> some error with posting having username disha.patani.updates
+-	04:48:08 PM 03 01 --> some error with posting having username angelinajolie143
+-	04:47:51 PM 03 01 --> some error with posting having username realshrutihaasan
+-	04:47:34 PM 03 01 --> some error with posting having username urvashirautela26
+-	04:46:44 PM 03 01 --> some error with posting having username tamannaah.143
+-	04:46:39 PM 03 01 --> some error with posting having username kriti.sanon143
+-	04:46:20 PM 03 01 --> some error with posting having username shraddha.kapoor.sweet
 -	01:19:25 PM 03 01 --> some error with posting having username manushi.chillar.insta
 -	01:19:17 PM 03 01 --> posted with username shraddha.kapoor.sweet
 -	01:19:12 PM 03 01 --> posted with username kriti.sanon143
