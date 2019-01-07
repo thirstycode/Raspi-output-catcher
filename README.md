@@ -1,5 +1,6 @@
 -	10:47:54 AM 07 01 --> some error with posting having username tamannaah.143
 some error with posting having username manushi.chillar.insta
+-	10:52:12 PM 07 01 --> Total followers count - 267.2k
 -	10:49:26 PM 07 01 --> total users unfollowed from angelinajolie143 - 400
 -	10:49:21 PM 07 01 --> total users unfollowed from pure.python - 400
 -	10:49:08 PM 07 01 --> total users unfollowed from realshrutihaasan - 300
