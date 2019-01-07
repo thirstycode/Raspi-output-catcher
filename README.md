@@ -1,5 +1,9 @@
 -	10:47:54 AM 07 01 --> some error with posting having username tamannaah.143
 some error with posting having username manushi.chillar.insta
+-	01:25:03 PM 07 01 --> total users unfollowed from angelinajolie143 - 100
+-	01:24:06 PM 07 01 --> total users unfollowed from pure.python - 100
+-	01:22:47 PM 07 01 --> More following detected for pure.python. Starting unfollow process
+-	01:22:42 PM 07 01 --> More following detected for angelinajolie143. Starting unfollow process
 -	01:19:08 PM 07 01 --> some error with posting having username urvashirautela26
 -	01:19:02 PM 07 01 --> posted with username tamannaah.143
 -	01:18:50 PM 07 01 --> some error with posting having username disha.patani.updates
