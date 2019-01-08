@@ -1,5 +1,9 @@
 -	10:47:54 AM 07 01 --> some error with posting having username tamannaah.143
 some error with posting having username manushi.chillar.insta
+-	03:29:24 PM 08 01 --> total users unfollowed from shraddha.kapoor.sweet - 200
+-	03:28:36 PM 08 01 --> total users unfollowed from manushi.chillar.insta - 200
+-	03:28:23 PM 08 01 --> total users unfollowed from tamannaah.143 - 200
+-	03:28:15 PM 08 01 --> total users unfollowed from realshrutihaasan - 200
 -	03:06:24 PM 08 01 --> total users unfollowed from pure.python - 300
 -	02:58:13 PM 08 01 --> total users unfollowed from angelinajolie143 - 300
 -	02:45:42 PM 08 01 --> total users unfollowed from kriti.sanon143 - 100
