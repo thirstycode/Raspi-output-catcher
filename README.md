@@ -1,5 +1,19 @@
 -	10:47:54 AM 07 01 --> some error with posting having username tamannaah.143
 some error with posting having username manushi.chillar.insta
+-	02:42:25 PM 10 01 --> total users unfollowed from priyanka.chopra143 - 100
+-	02:42:20 PM 10 01 --> total users unfollowed from tamannaah.143 - 100
+-	02:42:15 PM 10 01 --> total users unfollowed from shraddha.kapoor.sweet - 100
+-	02:42:08 PM 10 01 --> total users unfollowed from manushi.chillar.insta - 100
+-	02:42:05 PM 10 01 --> total users unfollowed from realshrutihaasan - 100
+-	02:42:02 PM 10 01 --> total users unfollowed from kriti.sanon143 - 100
+-	02:41:11 PM 10 01 --> some error with unfollowing having username urvashirautela26
+-	02:41:10 PM 10 01 --> More following detected for priyanka.chopra143. Starting unfollow process
+-	02:41:05 PM 10 01 --> More following detected for tamannaah.143. Starting unfollow process
+-	02:41:02 PM 10 01 --> More following detected for realshrutihaasan. Starting unfollow process
+-	02:40:58 PM 10 01 --> More following detected for shraddha.kapoor.sweet. Starting unfollow process
+-	02:40:56 PM 10 01 --> More following detected for manushi.chillar.insta. Starting unfollow process
+-	02:40:50 PM 10 01 --> More following detected for kriti.sanon143. Starting unfollow process
+-	02:40:43 PM 10 01 --> some error with unfollowing having username disha.patani.updates
 -	02:10:27 PM 10 01 --> total users unfollowed from angelinajolie143 - 200
 -	02:10:15 PM 10 01 --> total users unfollowed from pure.python - 200
 -	01:24:03 PM 10 01 --> total users unfollowed from angelinajolie143 - 100
