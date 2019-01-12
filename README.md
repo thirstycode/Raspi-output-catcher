@@ -1,5 +1,14 @@
 -	10:47:54 AM 07 01 --> some error with posting having username tamannaah.143
 some error with posting having username manushi.chillar.insta
+-	08:19:18 AM 12 01 --> some error with posting having username urvashirautela26
+-	08:19:02 AM 12 01 --> posted with username tamannaah.143
+-	08:18:41 AM 12 01 --> some error with posting having username disha.patani.updates
+-	08:18:04 AM 12 01 --> some error with posting having username manushi.chillar.insta
+-	08:17:59 AM 12 01 --> posted with username shraddha.kapoor.sweet
+-	08:17:46 AM 12 01 --> posted with username realshrutihaasan
+-	08:17:44 AM 12 01 --> posted with username priyanka.chopra143
+-	08:17:18 AM 12 01 --> posted with username kriti.sanon143
+-	08:17:00 AM 12 01 --> posted with username angelinajolie143
 -	10:52:11 PM 11 01 --> Total followers count - 267.9k
 -	10:30:10 PM 11 01 --> posted with username shraddha.kapoor.sweet
 -	10:29:37 PM 11 01 --> some error with posting having username disha.patani.updates
