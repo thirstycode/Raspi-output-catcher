@@ -1,5 +1,11 @@
 # Instagram automation panel
 -	08:55:13 PM 06 01 --> some error with following having username priyanka.chopra143
+-	05:49:34 PM 14 01 --> total users followed from pure.python - 91
+-	05:47:25 PM 14 01 --> total users unfollowed from shraddha.kapoor.sweet - 500
+-	05:47:25 PM 14 01 --> total users unfollowed from disha.patani.updates - 500
+-	05:47:06 PM 14 01 --> total users unfollowed from tamannaah.143 - 499
+-	05:46:14 PM 14 01 --> total users unfollowed from priyanka.chopra143 - 500
+-	05:46:09 PM 14 01 --> total users unfollowed from realshrutihaasan - 499
 -	05:10:45 PM 14 01 --> total users followed from pure.python - 82
 -	05:04:32 PM 14 01 --> total users unfollowed from kriti.sanon143 - 398
 -	05:04:07 PM 14 01 --> total users unfollowed from manushi.chillar.insta - 399
