@@ -1,5 +1,19 @@
 # Instagram automation panel
 -	08:55:13 PM 06 01 --> some error with following having username priyanka.chopra143
+-	02:42:27 PM 15 01 --> total users unfollowed from manushi.chillar.insta - 100
+-	02:42:20 PM 15 01 --> total users unfollowed from shraddha.kapoor.sweet - 100
+-	02:42:16 PM 15 01 --> total users unfollowed from disha.patani.updates - 100
+-	02:42:11 PM 15 01 --> total users unfollowed from tamannaah.143 - 100
+-	02:41:57 PM 15 01 --> total users unfollowed from realshrutihaasan - 100
+-	02:41:54 PM 15 01 --> total users unfollowed from kriti.sanon143 - 100
+-	02:41:12 PM 15 01 --> More following detected for manushi.chillar.insta. Starting unfollow process
+-	02:41:08 PM 15 01 --> some error with unfollowing having username urvashirautela26
+-	02:41:05 PM 15 01 --> More following detected for shraddha.kapoor.sweet. Starting unfollow process
+-	02:41:00 PM 15 01 --> More following detected for tamannaah.143. Starting unfollow process
+-	02:40:58 PM 15 01 --> More following detected for disha.patani.updates. Starting unfollow process
+-	02:40:52 PM 15 01 --> More following detected for realshrutihaasan. Starting unfollow process
+-	02:40:48 PM 15 01 --> No need to unfollow for priyanka.chopra143
+-	02:40:44 PM 15 01 --> More following detected for kriti.sanon143. Starting unfollow process
 -	01:18:37 PM 15 01 --> posted with username realshrutihaasan
 -	01:18:14 PM 15 01 --> posted with username manushi.chillar.insta
 -	01:17:37 PM 15 01 --> posted with username kriti.sanon143
