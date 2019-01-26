@@ -1,5 +1,35 @@
 # Instagram automation panel
 -	08:55:13 PM 06 01 --> some error with following having username priyanka.chopra143
+-	10:29:38 PM 26 01 --> some error with posting having username disha.patani.updates
+-	10:29:35 PM 26 01 --> posted with username disha.patani.updates
+-	10:29:35 PM 26 01 --> some error with posting having username urvashirautela26
+-	10:29:32 PM 26 01 --> posted with username shraddha.kapoor.sweet
+-	10:29:24 PM 26 01 --> posted with username kriti.sanon143
+-	10:28:56 PM 26 01 --> posted with username realshrutihaasan
+-	10:28:21 PM 26 01 --> posted with username tamannaah.143
+-	10:28:09 PM 26 01 --> posted with username priyanka.chopra143
+-	10:27:44 PM 26 01 --> posted with username manushi.chillar.insta
+-	10:27:16 PM 26 01 --> posted with username angelinajolie143
+-	10:26:18 PM 26 01 --> some error with following having username manushi.chillar.insta
+-	07:21:11 PM 26 01 --> some error with posting having username urvashirautela26
+-	07:21:02 PM 26 01 --> some error with posting having username manushi.chillar.insta
+-	07:20:22 PM 26 01 --> some error with posting having username kriti.sanon143
+-	07:20:21 PM 26 01 --> some error with posting having username realshrutihaasan
+-	07:20:10 PM 26 01 --> some error with posting having username angelinajolie143
+-	07:19:38 PM 26 01 --> some error with posting having username priyanka.chopra143
+-	07:19:31 PM 26 01 --> some error with posting having username tamannaah.143
+-	07:19:02 PM 26 01 --> some error with posting having username shraddha.kapoor.sweet
+-	07:18:59 PM 26 01 --> some error with posting having username disha.patani.updates
+-	04:50:33 PM 26 01 --> some error with following having username urvashirautela26
+-	04:49:03 PM 26 01 --> some error with posting having username realshrutihaasan
+-	04:49:00 PM 26 01 --> some error with posting having username kriti.sanon143
+-	04:48:25 PM 26 01 --> some error with posting having username tamannaah.143
+-	04:47:36 PM 26 01 --> some error with posting having username urvashirautela26
+-	04:47:34 PM 26 01 --> some error with posting having username priyanka.chopra143
+-	04:47:11 PM 26 01 --> some error with posting having username angelinajolie143
+-	04:46:07 PM 26 01 --> some error with posting having username manushi.chillar.insta
+-	04:46:04 PM 26 01 --> some error with posting having username disha.patani.updates
+-	04:46:00 PM 26 01 --> some error with posting having username shraddha.kapoor.sweet
 -	01:18:41 PM 26 01 --> posted with username kriti.sanon143
 -	01:18:30 PM 26 01 --> posted with username manushi.chillar.insta
 -	01:18:10 PM 26 01 --> some error with posting having username urvashirautela26
