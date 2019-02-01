@@ -1,5 +1,8 @@
 # Instagram automation panel
 -	08:55:13 PM 06 01 --> some error with following having username priyanka.chopra143
+-	01:24:04 PM 01 02 --> total users unfollowed from pure.python - 100
+-	01:22:47 PM 01 02 --> More following detected for pure.python. Starting unfollow process
+-	01:22:41 PM 01 02 --> No need to unfollow for angelinajolie143
 -	01:19:14 PM 01 02 --> posted with username realshrutihaasan
 -	01:19:10 PM 01 02 --> posted with username angelinajolie143
 -	01:18:35 PM 01 02 --> posted with username kriti.sanon143
