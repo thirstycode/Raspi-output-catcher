@@ -1,5 +1,6 @@
 # Instagram automation panel
 -	08:55:13 PM 06 01 --> some error with following having username priyanka.chopra143
+-	05:48:19 PM 09 02 --> some error with following having username tamannaah.143
 -	05:17:07 PM 09 02 --> total users followed from manushi.chillar.insta - 75
 -	05:17:04 PM 09 02 --> total users followed from tamannaah.143 - 75
 -	05:16:51 PM 09 02 --> total users followed from kriti.sanon143 - 75
