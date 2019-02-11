@@ -1,5 +1,7 @@
 # Instagram automation panel
 -	08:55:13 PM 06 01 --> some error with following having username priyanka.chopra143
+-	01:22:43 PM 11 02 --> No need to unfollow for pure.python
+-	01:22:39 PM 11 02 --> No need to unfollow for angelinajolie143
 -	01:18:56 PM 11 02 --> posted with username kriti.sanon143
 -	01:18:33 PM 11 02 --> some error with posting having username manushi.chillar.insta
 -	01:18:24 PM 11 02 --> some error with posting having username priyanka.chopra143
