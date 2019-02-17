@@ -1,5 +1,6 @@
 # Instagram automation panel
 -	08:55:13 PM 06 01 --> some error with following having username priyanka.chopra143
+-	11:40:26 PM 17 02 --> total users followed from kriti.sanon143 - 225
 -	10:52:13 PM 17 02 --> Total followers count - 251.5k
 -	10:40:09 PM 17 02 --> some error with following having username manushi.chillar.insta
 -	10:30:30 PM 17 02 --> posted with username tamannaah.143
