@@ -1,5 +1,7 @@
 # Instagram automation panel
 -	08:55:13 PM 06 01 --> some error with following having username priyanka.chopra143
+-	10:30:38 PM 18 02 --> posted with username manushi.chillar.insta
+-	10:30:07 PM 18 02 --> posted with username shraddha.kapoor.sweet
 -	10:29:30 PM 18 02 --> posted with username angelinajolie143
 -	10:29:21 PM 18 02 --> some error with posting having username urvashirautela26
 -	10:29:20 PM 18 02 --> some error with posting having username priyanka.chopra143
