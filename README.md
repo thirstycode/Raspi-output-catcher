@@ -1,5 +1,6 @@
 # Instagram automation panel
 -	08:55:13 PM 06 01 --> some error with following having username priyanka.chopra143
+-	03:43:14 AM 23 02 --> some error with following having username realshrutihaasan
 -	03:21:24 AM 23 02 --> total users followed from pure.python - 765
 -	01:58:26 AM 23 02 --> total users followed from pure.python - 690
 -	01:38:16 AM 23 02 --> total users followed from pure.python - 615
