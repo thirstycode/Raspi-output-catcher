@@ -1,5 +1,6 @@
 -	10:48:15 AM 05 03 --> some error with posting having username urvashirautela26
 ving username priyanka.chopra143
+-	08:20:06 PM 05 03 --> total users followed from pure.python - 525
 -	08:00:07 PM 05 03 --> total users followed from pure.python - 450
 -	07:28:01 PM 05 03 --> total users followed from pure.python - 375
 -	07:21:23 PM 05 03 --> some error with posting having username manushi.chillar.insta
