@@ -1,5 +1,6 @@
 -	10:48:15 AM 05 03 --> some error with posting having username urvashirautela26
 ving username priyanka.chopra143
+-	10:52:09 PM 06 03 --> some error with fetching total followers.
 -	10:30:09 PM 06 03 --> some error with posting having username manushi.chillar.insta
 -	10:29:16 PM 06 03 --> some error with posting having username urvashirautela26
 -	10:28:56 PM 06 03 --> some error with posting having username kriti.sanon143
