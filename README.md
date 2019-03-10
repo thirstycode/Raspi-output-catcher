@@ -1,5 +1,7 @@
 -	10:48:15 AM 05 03 --> some error with posting having username urvashirautela26
 ving username priyanka.chopra143
+-	10:30:26 PM 10 03 --> some error with posting having username shraddha.kapoor.sweet
+-	10:30:23 PM 10 03 --> posted with username shraddha.kapoor.sweet
 -	10:29:48 PM 10 03 --> posted with username angelinajolie143
 -	10:29:26 PM 10 03 --> some error with posting having username realshrutihaasan
 -	10:29:18 PM 10 03 --> some error with posting having username disha.patani.updates
