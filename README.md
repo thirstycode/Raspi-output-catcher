@@ -1,5 +1,6 @@
 -	10:48:15 AM 05 03 --> some error with posting having username urvashirautela26
 ving username priyanka.chopra143
+-	06:49:57 PM 24 03 --> total users unfollowed from pure.python - 800
 -	06:38:29 PM 24 03 --> total users unfollowed from manushi.chillar.insta - 600
 -	06:35:06 PM 24 03 --> total users unfollowed from realshrutihaasan - 600
 -	06:34:25 PM 24 03 --> total users unfollowed from kriti.sanon143 - 600
