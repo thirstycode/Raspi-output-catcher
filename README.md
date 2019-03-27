@@ -1,5 +1,8 @@
 -	10:48:15 AM 05 03 --> some error with posting having username urvashirautela26
 ving username priyanka.chopra143
+-	01:24:06 PM 27 03 --> total users unfollowed from pure.python - 100
+-	01:22:17 PM 27 03 --> No need to unfollow for angelinajolie143
+-	01:22:16 PM 27 03 --> More following detected for pure.python. Starting unfollow process
 -	08:17:17 PM 26 03 --> total users unfollowed from manushi.chillar.insta - 800
 -	08:15:07 PM 26 03 --> total users unfollowed from kriti.sanon143 - 800
 -	08:15:03 PM 26 03 --> total users unfollowed from tamannaah.143 - 800
