@@ -1,5 +1,7 @@
 -	10:48:15 AM 05 03 --> some error with posting having username urvashirautela26
 ving username priyanka.chopra143
+-	01:22:39 PM 31 03 --> No need to unfollow for angelinajolie143
+-	01:22:35 PM 31 03 --> No need to unfollow for pure.python
 -	04:32:13 AM 31 03 --> total users unfollowed from pure.python - 524
 -	04:23:17 AM 31 03 --> total users unfollowed from tamannaah.143 - 761
 -	04:21:27 AM 31 03 --> total users unfollowed from realshrutihaasan - 611
