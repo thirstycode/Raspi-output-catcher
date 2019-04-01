@@ -1,5 +1,7 @@
 -	10:48:15 AM 05 03 --> some error with posting having username urvashirautela26
 ving username priyanka.chopra143
+-	01:22:39 PM 01 04 --> No need to unfollow for angelinajolie143
+-	01:22:34 PM 01 04 --> No need to unfollow for pure.python
 -	04:21:07 AM 01 04 --> total users unfollowed from manushi.chillar.insta - 479
 -	03:36:07 AM 01 04 --> total users unfollowed from manushi.chillar.insta - 479
 -	02:51:06 AM 01 04 --> total users unfollowed from manushi.chillar.insta - 479
