@@ -1,5 +1,14 @@
 -	10:48:15 AM 05 03 --> some error with posting having username urvashirautela26
 ving username priyanka.chopra143
+-	02:42:26 PM 02 04 --> total users unfollowed from kriti.sanon143 - 100
+-	02:41:06 PM 02 04 --> some error with unfollowing having username priyanka.chopra143
+-	02:41:02 PM 02 04 --> No need to unfollow for manushi.chillar.insta
+-	02:40:59 PM 02 04 --> No need to unfollow for tamannaah.143
+-	02:40:54 PM 02 04 --> No need to unfollow for realshrutihaasan
+-	02:40:49 PM 02 04 --> some error with unfollowing having username urvashirautela26
+-	02:40:46 PM 02 04 --> some error with unfollowing having username shraddha.kapoor.sweet
+-	02:40:42 PM 02 04 --> some error with unfollowing having username disha.patani.updates
+-	02:40:39 PM 02 04 --> More following detected for kriti.sanon143. Starting unfollow process
 -	01:22:38 PM 02 04 --> No need to unfollow for pure.python
 -	01:22:33 PM 02 04 --> No need to unfollow for angelinajolie143
 -	08:11:10 PM 01 04 --> total users unfollowed from kriti.sanon143 - 800
