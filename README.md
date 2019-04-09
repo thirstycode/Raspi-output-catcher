@@ -1,5 +1,10 @@
 # Instagram output catcher
 -	02:41:04 PM 05 04 --> some error with unfollowing having username disha.patani.updates
+-	10:33:49 PM 09 04 --> total users unfollowed from pure.python - 583
+-	10:30:19 PM 09 04 --> some error with posting having username disha.patani.updates
+-	10:30:19 PM 09 04 --> some error with posting having username priyanka.chopra143
+-	10:30:19 PM 09 04 --> some error with posting having username urvashirautela26
+-	10:30:17 PM 09 04 --> posted with username disha.patani.updates
 -	10:29:26 PM 09 04 --> some error with posting having username shraddha.kapoor.sweet
 -	10:29:22 PM 09 04 --> posted with username shraddha.kapoor.sweet
 -	10:28:53 PM 09 04 --> posted with username manushi.chillar.insta
@@ -110,8 +115,7 @@
 -	01:18:51 PM 09 04 --> posted with username kriti.sanon143
 -	01:18:46 PM 09 04 --> posted with username tamannaah.143
 -	01:18:37 PM 09 04 --> some error with posting having username urvashirautela26
--	01:17:52 PM 09 04 --> posted with username angelinajolie143
--	01:17:19 PM 09 04 --> some error with posting having username shraddha.kapoor.sweet
+-	01:17:52 PM 09 04 --> posted with username angelinajolie14-	-	01:17:19 PM 09 04 --> some error with posting having username shraddha.kapoor.sweet
 -	01:17:17 PM 09 04 --> posted with username shraddha.kapoor.sweet
 -	01:16:27 PM 09 04 --> some error with posting having username disha.patani.updates
 -	01:16:25 PM 09 04 --> posted with username disha.patani.updates
@@ -226,8 +230,7 @@
 -	01:16:15 PM 08 04 --> posted with username angelinajolie143
 -	10:49:27 AM 08 04 --> some error with posting having username urvashirautela26
 -	10:49:03 AM 08 04 --> posted with username realshrutihaasan
--	10:48:03 AM 08 04 --> posted with username tamannaah.143
--	10:47:17 AM 08 04 --> posted with username manushi.chillar.insta
+-	10:48:03 AM 08 04 --> posted with username tamannaah.14-	-	10:47:17 AM 08 04 --> posted with username manushi.chillar.insta
 -	10:46:55 AM 08 04 --> posted with username angelinajolie143
 -	10:46:54 AM 08 04 --> some error with posting having username disha.patani.updates
 -	10:46:52 AM 08 04 --> posted with username disha.patani.updates
@@ -343,7 +346,7 @@
 -	08:18:26 AM 07 04 --> posted with username disha.patani.updates
 -	08:18:14 AM 07 04 --> posted with username kriti.sanon143
 -	08:17:49 AM 07 04 --> posted with username tamannaah.143
--	08:17:40 AM 07 04 --> posted with username angelinajolie143
+-	08:17:40 AM 07 04 --posted with username angelinajolie143
 -	08:17:36 AM 07 04 --> some error with posting having username shraddha.kapoor.sweet
 -	08:17:33 AM 07 04 --> posted with username shraddha.kapoor.sweet
 -	08:17:32 AM 07 04 --> some error with posting having username urvashirautela26
