@@ -1,5 +1,8 @@
 # Instagram output catcher
 -	02:41:04 PM 05 04 --> some error with unfollowing having username disha.patani.updates
+-	04:15:49 PM 11 04 --> total users unfollowed from manushi.chillar.insta - 300
+-	04:14:55 PM 11 04 --> total users unfollowed from kriti.sanon143 - 300
+-	04:14:35 PM 11 04 --> total users unfollowed from tamannaah.143 - 300
 -	03:42:34 PM 11 04 --> total users unfollowed from pure.python - 400
 -	03:29:16 PM 11 04 --> total users unfollowed from manushi.chillar.insta - 200
 -	03:28:46 PM 11 04 --> total users unfollowed from kriti.sanon143 - 200
