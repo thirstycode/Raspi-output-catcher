@@ -1,5 +1,19 @@
 # Instagram output catcher
 -	02:41:04 PM 05 04 --> some error with unfollowing having username disha.patani.updates
+-	02:42:18 PM 13 04 --> total users unfollowed from manushi.chillar.insta - 100
+-	02:41:59 PM 13 04 --> total users unfollowed from disha.patani.updates - 100
+-	02:41:55 PM 13 04 --> total users unfollowed from shraddha.kapoor.sweet - 100
+-	02:41:46 PM 13 04 --> total users unfollowed from tamannaah.143 - 100
+-	02:41:42 PM 13 04 --> total users unfollowed from realshrutihaasan - 100
+-	02:41:37 PM 13 04 --> total users unfollowed from kriti.sanon143 - 100
+-	02:40:59 PM 13 04 --> More following detected for shraddha.kapoor.sweet. Starting unfollow process
+-	02:40:52 PM 13 04 --> More following detected for manushi.chillar.insta. Starting unfollow process
+-	02:40:50 PM 13 04 --> More following detected for disha.patani.updates. Starting unfollow process
+-	02:40:44 PM 13 04 --> some error with unfollowing having username urvashirautela26
+-	02:40:40 PM 13 04 --> More following detected for tamannaah.143. Starting unfollow process
+-	02:40:36 PM 13 04 --> More following detected for realshrutihaasan. Starting unfollow process
+-	02:40:32 PM 13 04 --> More following detected for kriti.sanon143. Starting unfollow process
+-	02:40:28 PM 13 04 --> some error with unfollowing having username priyanka.chopra143
 -	01:22:37 PM 13 04 --> No need to unfollow for pure.python
 -	01:22:24 PM 13 04 --> No need to unfollow for angelinajolie143
 -	01:19:37 PM 13 04 --> posted with username disha.patani.updates
