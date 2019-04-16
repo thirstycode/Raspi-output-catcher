@@ -1,5 +1,11 @@
 # Instagram output catcher
 -	02:41:04 PM 05 04 --> some error with unfollowing having username disha.patani.updates
+-	06:39:50 PM 16 04 --> total users followed from kriti.sanon143 - 75
+-	06:37:46 PM 16 04 --> total users followed from manushi.chillar.insta - 75
+-	06:36:13 PM 16 04 --> total users followed from tamannaah.143 - 75
+-	06:36:09 PM 16 04 --> total users followed from shraddha.kapoor.sweet - 75
+-	06:36:08 PM 16 04 --> total users followed from realshrutihaasan - 75
+-	06:35:32 PM 16 04 --> total users followed from disha.patani.updates - 75
 -	05:43:38 PM 16 04 --> total users followed from pure.python - 150
 -	05:23:39 PM 16 04 --> total users followed from pure.python - 75
 -	04:50:36 PM 16 04 --> some error with following having username urvashirautela26
