@@ -1,5 +1,7 @@
 # Instagram output catcher
 -	02:41:04 PM 05 04 --> some error with unfollowing having username disha.patani.updates
+-	05:43:43 PM 03 05 --> total users followed from tamannaah.143 - 75
+-	05:40:10 PM 03 05 --> total users followed from shraddha.kapoor.sweet - 75
 -	05:39:45 PM 03 05 --> total users followed from disha.patani.updates - 75
 -	05:39:33 PM 03 05 --> total users followed from kriti.sanon143 - 75
 -	04:50:13 PM 03 05 --> some error with following having username urvashirautela26
@@ -113,8 +115,7 @@
 -	01:18:43 PM 02 05 --> posted with username tamannaah.143
 -	01:17:56 PM 02 05 --> posted with username angelinajolie143
 -	01:17:52 PM 02 05 --> some error with posting having username urvashirautela26
--	01:17:50 PM 02 05 --> some error with posting having username manushi.chillar.insta
--	01:17:48 PM 02 05 --> posted with username manushi.chillar.insta
+-	01:17:50 PM 02 05 --> some error with posting having username manushi.chillar.i-	01:-	01:17:48 PM 02 05 --> posted with username manushi.chillar.insta
 -	01:17:28 PM 02 05 --> posted with username kriti.sanon143
 -	01:17:19 PM 02 05 --> posted with username disha.patani.updates
 -	01:16:50 PM 02 05 --> posted with username shraddha.kapoor.sweet
@@ -231,8 +232,7 @@
 -	08:16:47 AM 01 05 --> posted with username disha.patani.updates
 -	08:16:33 AM 01 05 --> posted with username kriti.sanon143
 -	07:00:01 AM 01 05 --> imported photos for username : tamannaah.143
--	03:21:44 AM 01 05 --> some error with following having username tamannaah.143
--	12:12:09 AM 01 05 --> total users followed from pure.python - 715
+-	03:21:44 AM 01 05 --> some error with following having username tamannaah-	12:-	12:12:09 AM 01 05 --> total users followed from pure.python - 715
 -	11:46:13 PM 30 04 --> total users followed from pure.python - 675
 -	10:52:50 PM 30 04 --> Total followers count - 385.1k
 -	10:49:51 PM 30 04 --> total users followed from pure.python - 662
@@ -348,8 +348,7 @@
 -	09:09:35 PM 29 04 --> total users followed from disha.patani.updates - 479
 -	09:09:20 PM 29 04 --> total users followed from shraddha.kapoor.sweet - 490
 -	09:09:20 PM 29 04 --> total users followed from realshrutihaasan - 428
--	08:55:58 PM 29 04 --> total users followed from pure.python - 260
--	08:36:47 PM 29 04 --> total users followed from pure.python - 242
+-	08:55:58 PM 29 04 --> total users followed from pure.python --	08:-	08:36:47 PM 29 04 --> total users followed from pure.python - 242
 -	08:19:52 PM 29 04 --> total users followed from kriti.sanon143 - 411
 -	08:17:03 PM 29 04 --> total users followed from shraddha.kapoor.sweet - 415
 -	08:14:10 PM 29 04 --> total users followed from disha.patani.updates - 404
@@ -462,8 +461,7 @@
 -	07:58:01 PM 28 04 --> total users unfollowed from shraddha.kapoor.sweet - 191
 -	07:22:24 PM 28 04 --> posted with username shraddha.kapoor.sweet
 -	07:22:18 PM 28 04 --> some error with posting having username manushi.chillar.insta
--	07:22:15 PM 28 04 --> posted with username manushi.chillar.insta
--	07:21:31 PM 28 04 --> posted with username tamannaah.143
+-	07:22:15 PM 28 04 --> posted with username manushi.chillar.i-	07:-	07:21:31 PM 28 04 --> posted with username tamannaah.143
 -	07:20:14 PM 28 04 --> some error with posting having username urvashirautela26
 -	07:19:47 PM 28 04 --> posted with username kriti.sanon143
 -	07:19:47 PM 28 04 --> some error with posting having username priyanka.chopra143
@@ -577,8 +575,7 @@
 -	02:40:25 PM 27 04 --> No need to unfollow for disha.patani.updates
 -	02:40:22 PM 27 04 --> No need to unfollow for pure.python
 -	02:40:21 PM 27 04 --> some error with unfollowing having username urvashirautela26
--	01:18:34 PM 27 04 --> some error with posting having username priyanka.chopra143
--	01:18:18 PM 27 04 --> some error with posting having username manushi.chillar.insta
+-	01:18:34 PM 27 04 --> some error with posting having username priyanka.chopr-	01:-	01:18:18 PM 27 04 --> some error with posting having username manushi.chillar.insta
 -	01:18:15 PM 27 04 --> posted with username manushi.chillar.insta
 -	01:18:13 PM 27 04 --> posted with username shraddha.kapoor.sweet
 -	01:17:51 PM 27 04 --> posted with username kriti.sanon143
@@ -693,8 +690,7 @@
 -	03:33:46 AM 26 04 --> total users unfollowed from pure.python - 561
 -	02:48:59 AM 26 04 --> total users unfollowed from disha.patani.updates - 589
 -	02:48:43 AM 26 04 --> total users unfollowed from pure.python - 561
--	02:03:58 AM 26 04 --> total users unfollowed from disha.patani.updates - 589
--	02:03:43 AM 26 04 --> total users unfollowed from pure.python - 561
+-	02:03:58 AM 26 04 --> total users unfollowed from disha.patani.updates --	02:-	02:03:43 AM 26 04 --> total users unfollowed from pure.python - 561
 -	01:18:58 AM 26 04 --> total users unfollowed from disha.patani.updates - 589
 -	01:18:41 AM 26 04 --> total users unfollowed from pure.python - 560
 -	12:33:57 AM 26 04 --> total users unfollowed from disha.patani.updates - 589
@@ -806,8 +802,7 @@
 -	08:16:28 AM 25 04 --> posted with username shraddha.kapoor.sweet
 -	04:57:12 AM 25 04 --> total users unfollowed from angelinajolie143 - 103
 -	04:12:11 AM 25 04 --> total users unfollowed from angelinajolie143 - 103
--	03:27:11 AM 25 04 --> total users unfollowed from angelinajolie143 - 103
--	02:42:10 AM 25 04 --> total users unfollowed from angelinajolie143 - 103
+-	03:27:11 AM 25 04 --> total users unfollowed from angelinajolie143 --	02:-	02:42:10 AM 25 04 --> total users unfollowed from angelinajolie143 - 103
 -	01:57:10 AM 25 04 --> total users unfollowed from angelinajolie143 - 103
 -	01:12:10 AM 25 04 --> total users unfollowed from angelinajolie143 - 103
 -	12:27:09 AM 25 04 --> total users unfollowed from angelinajolie143 - 103
@@ -919,8 +914,7 @@
 -	08:17:17 AM 24 04 --> some error with posting having username manushi.chillar.insta
 -	08:17:14 AM 24 04 --> posted with username manushi.chillar.insta
 -	08:16:37 AM 24 04 --> posted with username kriti.sanon143
--	04:21:40 AM 24 04 --> total users unfollowed from realshrutihaasan - 790
--	03:36:40 AM 24 04 --> total users unfollowed from realshrutihaasan - 790
+-	04:21:40 AM 24 04 --> total users unfollowed from realshrutihaasan --	03:-	03:36:40 AM 24 04 --> total users unfollowed from realshrutihaasan - 790
 -	02:51:40 AM 24 04 --> total users unfollowed from realshrutihaasan - 790
 -	02:06:39 AM 24 04 --> total users unfollowed from realshrutihaasan - 790
 -	01:21:39 AM 24 04 --> total users unfollowed from realshrutihaasan - 790
@@ -1030,8 +1024,7 @@
 -	01:17:26 PM 23 04 --> some error with posting having username urvashirautela26
 -	01:16:13 PM 23 04 --> posted with username angelinajolie143
 -	01:16:12 PM 23 04 --> posted with username kriti.sanon143
--	01:15:55 PM 23 04 --> some error with posting having username manushi.chillar.insta
--	01:15:52 PM 23 04 --> posted with username manushi.chillar.insta
+-	01:15:55 PM 23 04 --> some error with posting having username manushi.chillar.i-	01:-	01:15:52 PM 23 04 --> posted with username manushi.chillar.insta
 -	10:50:15 AM 23 04 --> posted with username realshrutihaasan
 -	10:49:52 AM 23 04 --> posted with username kriti.sanon143
 -	10:48:03 AM 23 04 --> posted with username disha.patani.updates
@@ -1142,8 +1135,7 @@
 -	02:40:23 PM 22 04 --> More following detected for pure.python. Starting unfollow process
 -	02:40:21 PM 22 04 --> some error with unfollowing having username manushi.chillar.insta
 -	01:17:49 PM 22 04 --> posted with username disha.patani.updates
--	01:17:36 PM 22 04 --> posted with username realshrutihaasan
--	01:17:28 PM 22 04 --> posted with username shraddha.kapoor.sweet
+-	01:17:36 PM 22 04 --> posted with username realshrutiha-	01:-	01:17:28 PM 22 04 --> posted with username shraddha.kapoor.sweet
 -	01:17:25 PM 22 04 --> posted with username kriti.sanon143
 -	01:17:01 PM 22 04 --> posted with username angelinajolie143
 -	01:16:34 PM 22 04 --> some error with posting having username priyanka.chopra143
@@ -1258,8 +1250,7 @@
 -	08:19:30 AM 21 04 --> posted with username disha.patani.updates
 -	08:19:00 AM 21 04 --> some error with posting having username priyanka.chopra143
 -	08:18:51 AM 21 04 --> posted with username shraddha.kapoor.sweet
--	08:18:27 AM 21 04 --> posted with username kriti.sanon143
--	08:18:12 AM 21 04 --> some error with posting having username manushi.chillar.insta
+-	08:18:27 AM 21 04 --> posted with username kriti.sano-	08:-	08:18:12 AM 21 04 --> some error with posting having username manushi.chillar.insta
 -	08:18:09 AM 21 04 --> posted with username manushi.chillar.insta
 -	08:16:57 AM 21 04 --> posted with username tamannaah.143
 -	08:16:44 AM 21 04 --> some error with posting having username urvashirautela26
@@ -1375,8 +1366,7 @@
 -	07:19:17 PM 19 04 --> posted with username realshrutihaasan
 -	07:19:16 PM 19 04 --> posted with username angelinajolie143
 -	07:18:38 PM 19 04 --> some error with posting having username manushi.chillar.insta
--	07:18:21 PM 19 04 --> some error with posting having username priyanka.chopra143
--	06:40:20 PM 19 04 --> total users followed from pure.python - 425
+-	07:18:21 PM 19 04 --> some error with posting having username priyanka.chopr-	06:-	06:40:20 PM 19 04 --> total users followed from pure.python - 425
 -	06:20:18 PM 19 04 --> total users followed from pure.python - 350
 -	06:00:17 PM 19 04 --> total users followed from pure.python - 275
 -	05:40:20 PM 19 04 --> total users followed from pure.python - 225
@@ -1491,8 +1481,7 @@
 -	04:46:38 PM 18 04 --> some error with posting having username priyanka.chopra143
 -	01:19:11 PM 18 04 --> posted with username tamannaah.143
 -	01:18:38 PM 18 04 --> posted with username disha.patani.updates
--	01:18:14 PM 18 04 --> some error with posting having username manushi.chillar.insta
--	01:18:05 PM 18 04 --> posted with username realshrutihaasan
+-	01:18:14 PM 18 04 --> some error with posting having username manushi.chillar.i-	01:-	01:18:05 PM 18 04 --> posted with username realshrutihaasan
 -	01:18:04 PM 18 04 --> posted with username shraddha.kapoor.sweet
 -	01:17:14 PM 18 04 --> some error with posting having username urvashirautela26
 -	01:16:46 PM 18 04 --> posted with username angelinajolie143
@@ -1608,8 +1597,7 @@
 -	11:12:34 PM 16 04 --> some error with following having username disha.patani.updates
 -	10:52:13 PM 16 04 --> Total followers count - 378.0k
 -	10:33:32 PM 16 04 --> total users followed from kriti.sanon143 - 300
--	10:33:17 PM 16 04 --> total users followed from shraddha.kapoor.sweet - 300
--	10:32:54 PM 16 04 --> total users followed from realshrutihaasan - 300
+-	10:33:17 PM 16 04 --> total users followed from shraddha.kapoor.sweet --	10:-	10:32:54 PM 16 04 --> total users followed from realshrutihaasan - 300
 -	10:32:51 PM 16 04 --> total users followed from disha.patani.updates - 300
 -	10:32:27 PM 16 04 --> total users followed from manushi.chillar.insta - 300
 -	10:31:13 PM 16 04 --> total users followed from tamannaah.143 - 300
@@ -1724,8 +1712,7 @@
 -	05:40:34 PM 15 04 --> total users followed from realshrutihaasan - 150
 -	05:40:21 PM 15 04 --> total users followed from kriti.sanon143 - 150
 -	05:37:11 PM 15 04 --> total users followed from disha.patani.updates - 150
--	05:37:04 PM 15 04 --> total users followed from shraddha.kapoor.sweet - 150
--	05:35:50 PM 15 04 --> total users followed from pure.python - 225
+-	05:37:04 PM 15 04 --> total users followed from shraddha.kapoor.sweet --	05:-	05:35:50 PM 15 04 --> total users followed from pure.python - 225
 -	05:20:45 PM 15 04 --> total users followed from manushi.chillar.insta - 75
 -	05:20:25 PM 15 04 --> total users followed from tamannaah.143 - 75
 -	05:20:07 PM 15 04 --> total users followed from realshrutihaasan - 75
@@ -1839,8 +1826,7 @@
 -	05:15:19 PM 14 04 --> total users unfollowed from pure.python - 600
 -	05:11:50 PM 14 04 --> total users followed from pure.python - 150
 -	05:07:10 PM 14 04 --> total users unfollowed from disha.patani.updates - 400
--	05:03:48 PM 14 04 --> total users unfollowed from shraddha.kapoor.sweet - 400
--	04:51:54 PM 14 04 --> total users followed from pure.python - 75
+-	05:03:48 PM 14 04 --> total users unfollowed from shraddha.kapoor.sweet --	04:-	04:51:54 PM 14 04 --> total users followed from pure.python - 75
 -	04:51:24 PM 14 04 --> posted with username disha.patani.updates
 -	04:50:39 PM 14 04 --> some error with following having username urvashirautela26
 -	04:50:35 PM 14 04 --> some error with following having username priyanka.chopra143
@@ -1952,8 +1938,7 @@
 -	10:27:59 PM 13 04 --> posted with username angelinajolie143
 -	10:27:58 PM 13 04 --> some error with posting having username manushi.chillar.insta
 -	10:22:32 PM 13 04 --> total users unfollowed from kriti.sanon143 - 491
--	10:17:45 PM 13 04 --> total users unfollowed from manushi.chillar.insta - 480
--	10:16:17 PM 13 04 --> total users unfollowed from realshrutihaasan - 555
+-	10:17:45 PM 13 04 --> total users unfollowed from manushi.chillar.insta --	10:-	10:16:17 PM 13 04 --> total users unfollowed from realshrutihaasan - 555
 -	10:15:56 PM 13 04 --> total users unfollowed from tamannaah.143 - 474
 -	09:37:29 PM 13 04 --> total users unfollowed from kriti.sanon143 - 488
 -	09:32:43 PM 13 04 --> total users unfollowed from manushi.chillar.insta - 479
@@ -2062,8 +2047,7 @@
 -	01:19:10 PM 13 04 --> posted with username kriti.sanon143
 -	01:18:54 PM 13 04 --> posted with username tamannaah.143
 -	01:18:50 PM 13 04 --> posted with username realshrutihaasan
--	01:18:49 PM 13 04 --> posted with username angelinajolie143
--	01:17:19 PM 13 04 --> some error with posting having username urvashirautela26
+-	01:18:49 PM 13 04 --> posted with username angelinajoli-	01:-	01:17:19 PM 13 04 --> some error with posting having username urvashirautela26
 -	01:17:15 PM 13 04 --> posted with username shraddha.kapoor.sweet
 -	01:16:27 PM 13 04 --> posted with username manushi.chillar.insta
 -	01:16:23 PM 13 04 --> some error with posting having username priyanka.chopra143
@@ -2179,8 +2163,7 @@
 -	02:40:56 PM 12 04 --> No need to unfollow for kriti.sanon143
 -	02:40:52 PM 12 04 --> No need to unfollow for tamannaah.143
 -	02:40:48 PM 12 04 --> some error with unfollowing having username shraddha.kapoor.sweet
--	02:10:04 PM 12 04 --> total users unfollowed from pure.python - 123
--	01:24:46 PM 12 04 --> total users unfollowed from pure.python - 100
+-	02:10:04 PM 12 04 --> total users unfollowed from pure.python --	01:-	01:24:46 PM 12 04 --> total users unfollowed from pure.python - 100
 -	01:22:51 PM 12 04 --> More following detected for pure.python. Starting unfollow process
 -	01:22:46 PM 12 04 --> No need to unfollow for angelinajolie143
 -	01:19:00 PM 12 04 --> some error with posting having username priyanka.chopra143
@@ -2293,8 +2276,7 @@
 -	07:20:44 PM 11 04 --> some error with posting having username disha.patani.updates
 -	07:20:41 PM 11 04 --> posted with username disha.patani.updates
 -	07:20:39 PM 11 04 --> some error with posting having username priyanka.chopra143
--	07:20:36 PM 11 04 --> posted with username priyanka.chopra143
--	07:20:07 PM 11 04 --> posted with username realshrutihaasan
+-	07:20:36 PM 11 04 --> posted with username priyanka.chopr-	07:-	07:20:07 PM 11 04 --> posted with username realshrutihaasan
 -	07:19:58 PM 11 04 --> posted with username tamannaah.143
 -	07:19:48 PM 11 04 --> posted with username angelinajolie143
 -	07:19:03 PM 11 04 --> posted with username manushi.chillar.insta
@@ -2404,8 +2386,7 @@
 -	10:27:18 PM 10 04 --> posted with username angelinajolie143
 -	10:22:43 PM 10 04 --> total users followed from manushi.chillar.insta - 375
 -	10:21:12 PM 10 04 --> total users followed from realshrutihaasan - 375
--	10:20:55 PM 10 04 --> total users followed from tamannaah.143 - 375
--	10:20:29 PM 10 04 --> total users followed from kriti.sanon143 - 375
+-	10:20:55 PM 10 04 --> total users followed from tamannaah.143 --	10:-	10:20:29 PM 10 04 --> total users followed from kriti.sanon143 - 375
 -	10:18:34 PM 10 04 --> total users unfollowed from realshrutihaasan - 582
 -	10:16:43 PM 10 04 --> total users followed from pure.python - 606
 -	09:57:22 PM 10 04 --> total users followed from pure.python - 585
@@ -2519,8 +2500,7 @@
 -	04:20:33 AM 10 04 --> total users unfollowed from manushi.chillar.insta - 375
 -	04:15:01 AM 10 04 --> total users unfollowed from tamannaah.143 - 368
 -	04:14:43 AM 10 04 --> total users unfollowed from kriti.sanon143 - 360
--	03:50:13 AM 10 04 --> total users unfollowed from pure.python - 681
--	03:35:33 AM 10 04 --> total users unfollowed from manushi.chillar.insta - 375
+-	03:50:13 AM 10 04 --> total users unfollowed from pure.python --	03:-	03:35:33 AM 10 04 --> total users unfollowed from manushi.chillar.insta - 375
 -	03:30:01 AM 10 04 --> total users unfollowed from tamannaah.143 - 368
 -	03:29:43 AM 10 04 --> total users unfollowed from kriti.sanon143 - 360
 -	03:05:12 AM 10 04 --> total users unfollowed from pure.python - 681
@@ -2633,8 +2613,7 @@
 -	04:47:54 PM 09 04 --> posted with username tamannaah.143
 -	04:47:44 PM 09 04 --> some error with posting having username priyanka.chopra143
 -	04:47:42 PM 09 04 --> posted with username priyanka.chopra143
--	04:47:31 PM 09 04 --> some error with posting having username urvashirautela26
--	04:47:30 PM 09 04 --> posted with username angelinajolie143
+-	04:47:31 PM 09 04 --> some error with posting having username urvashiraute-	04:-	04:47:30 PM 09 04 --> posted with username angelinajolie143
 -	04:47:29 PM 09 04 --> posted with username realshrutihaasan
 -	04:46:42 PM 09 04 --> some error with posting having username disha.patani.updates
 -	04:46:39 PM 09 04 --> posted with username disha.patani.updates
@@ -2747,8 +2726,7 @@
 -	04:47:54 PM 08 04 --> some error with posting having username priyanka.chopra143
 -	04:47:52 PM 08 04 --> posted with username kriti.sanon143
 -	04:47:52 PM 08 04 --> posted with username priyanka.chopra143
--	04:47:40 PM 08 04 --> some error with posting having username shraddha.kapoor.sweet
--	04:47:38 PM 08 04 --> posted with username shraddha.kapoor.sweet
+-	04:47:40 PM 08 04 --> some error with posting having username shraddha.kapoor.s-	04:-	04:47:38 PM 08 04 --> posted with username shraddha.kapoor.sweet
 -	04:47:16 PM 08 04 --> posted with username manushi.chillar.insta
 -	04:47:12 PM 08 04 --> posted with username tamannaah.143
 -	04:46:45 PM 08 04 --> some error with posting having username disha.patani.updates
@@ -2863,8 +2841,7 @@
 -	02:41:10 PM 07 04 --> some error with unfollowing having username urvashirautela26
 -	02:41:07 PM 07 04 --> No need to unfollow for kriti.sanon143
 -	02:41:03 PM 07 04 --> some error with unfollowing having username priyanka.chopra143
--	02:40:59 PM 07 04 --> No need to unfollow for realshrutihaasan
--	02:40:55 PM 07 04 --> some error with unfollowing having username shraddha.kapoor.sweet
+-	02:40:59 PM 07 04 --> No need to unfollow for realshrutiha-	02:-	02:40:55 PM 07 04 --> some error with unfollowing having username shraddha.kapoor.sweet
 -	02:40:51 PM 07 04 --> No need to unfollow for tamannaah.143
 -	02:40:47 PM 07 04 --> some error with unfollowing having username disha.patani.updates
 -	01:22:47 PM 07 04 --> No need to unfollow for pure.python
