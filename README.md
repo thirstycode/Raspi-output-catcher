@@ -1,5 +1,14 @@
 # Instagram output catcher
 -	02:41:04 PM 05 04 --> some error with unfollowing having username disha.patani.updates
+-	10:49:49 AM 03 05 --> posted with username disha.patani.updates
+-	10:49:42 AM 03 05 --> some error with posting having username manushi.chillar.insta
+-	10:49:40 AM 03 05 --> posted with username manushi.chillar.insta
+-	10:49:07 AM 03 05 --> some error with posting having username urvashirautela26
+-	10:48:39 AM 03 05 --> posted with username angelinajolie143
+-	10:48:25 AM 03 05 --> some error with posting having username priyanka.chopra143
+-	10:48:16 AM 03 05 --> posted with username shraddha.kapoor.sweet
+-	10:47:53 AM 03 05 --> posted with username kriti.sanon143
+-	10:47:35 AM 03 05 --> posted with username tamannaah.143
 -	08:19:40 AM 03 05 --> posted with username tamannaah.143
 -	08:19:39 AM 03 05 --> posted with username realshrutihaasan
 -	08:19:20 AM 03 05 --> some error with posting having username manushi.chillar.insta
