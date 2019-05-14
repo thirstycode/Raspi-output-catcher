@@ -1,5 +1,8 @@
 # Instagram output catcher
 -	01:19:11 PM 18 04 --> posted with username tamannaah.143
+-	10:54:37 PM 14 05 --> total users followed from shraddha.kapoor.sweet - 525
+-	10:52:50 PM 14 05 --> total users followed from disha.patani.updates - 525
+-	10:52:13 PM 14 05 --> some error with fetching total followers.
 -	10:35:05 PM 14 05 --> some error with following having username tamannaah.143
 -	10:29:56 PM 14 05 --> posted with username disha.patani.updates
 -	10:29:14 PM 14 05 --> some error with posting having username manushi.chillar.insta
