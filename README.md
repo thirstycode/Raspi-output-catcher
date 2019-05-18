@@ -1,5 +1,12 @@
 # Instagram output catcher
 -	01:19:11 PM 18 04 --> posted with username tamannaah.143
+-	07:25:39 PM 18 05 --> total users unfollowed from realshrutihaasan - 700
+-	07:21:18 PM 18 05 --> some error with posting having username manushi.chillar.insta
+-	07:21:15 PM 18 05 --> posted with username manushi.chillar.insta
+-	07:21:10 PM 18 05 --> some error with posting having username priyanka.chopra143
+-	07:21:05 PM 18 05 --> posted with username tamannaah.143
+-	07:20:46 PM 18 05 --> posted with username realshrutihaasan
+-	07:20:43 PM 18 05 --> posted with username kriti.sanon143
 -	07:19:36 PM 18 05 --> some error with posting having username urvashirautela26
 -	07:19:29 PM 18 05 --> posted with username shraddha.kapoor.sweet
 -	07:19:04 PM 18 05 --> posted with username disha.patani.updates
