@@ -1,5 +1,6 @@
 # Instagram output catcher
 -	01:19:11 PM 18 04 --> posted with username tamannaah.143
+-	05:00:53 PM 19 05 --> total users unfollowed from realshrutihaasan - 400
 -	04:48:42 PM 19 05 --> posted with username disha.patani.updates
 -	04:48:39 PM 19 05 --> posted with username shraddha.kapoor.sweet
 -	04:47:58 PM 19 05 --> some error with posting having username priyanka.chopra143
