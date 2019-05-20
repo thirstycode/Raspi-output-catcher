@@ -1,5 +1,6 @@
 # Instagram output catcher
 -	01:19:11 PM 18 04 --> posted with username tamannaah.143
+-	08:07:49 PM 20 05 --> total users unfollowed from realshrutihaasan - 800
 -	07:38:51 PM 20 05 --> total users followed from kriti.sanon143 - 375
 -	07:21:55 PM 20 05 --> posted with username kriti.sanon143
 -	07:21:21 PM 20 05 --> total users unfollowed from realshrutihaasan - 700
