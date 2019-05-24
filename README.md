@@ -1,5 +1,6 @@
 # Instagram output catcher
 -	01:19:11 PM 18 04 --> posted with username tamannaah.143
+-	10:52:14 PM 24 05 --> some error with fetching total followers.
 -	10:30:13 PM 24 05 --> posted with username realshrutihaasan
 -	10:29:20 PM 24 05 --> some error with posting having username priyanka.chopra143
 -	10:29:09 PM 24 05 --> posted with username tamannaah.143
