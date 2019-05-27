@@ -1,5 +1,7 @@
 # Instagram output catcher
 -	01:19:11 PM 18 04 --> posted with username tamannaah.143
+-	03:28:48 PM 27 05 --> total users unfollowed from realshrutihaasan - 200
+-	03:28:10 PM 27 05 --> total users unfollowed from tamannaah.143 - 200
 -	02:42:47 PM 27 05 --> total users unfollowed from realshrutihaasan - 100
 -	02:42:08 PM 27 05 --> total users unfollowed from tamannaah.143 - 100
 -	02:41:44 PM 27 05 --> More following detected for realshrutihaasan. Starting unfollow process
