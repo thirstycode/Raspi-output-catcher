@@ -1,5 +1,8 @@
 # Instagram output catcher
 -	01:19:11 PM 18 04 --> posted with username tamannaah.143
+-	10:52:34 PM 30 05 --> total users followed from kriti.sanon143 - 300
+-	10:52:15 PM 30 05 --> Total followers count - 408.4k
+-	10:51:13 PM 30 05 --> total users followed from realshrutihaasan - 300
 -	10:30:34 PM 30 05 --> posted with username disha.patani.updates
 -	10:29:34 PM 30 05 --> posted with username angelinajolie143
 -	10:28:34 PM 30 05 --> posted with username kriti.sanon143
