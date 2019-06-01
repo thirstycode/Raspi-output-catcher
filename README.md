@@ -1,5 +1,6 @@
 # Instagram output catcher
 -	01:19:11 PM 18 04 --> posted with username tamannaah.143
+-	07:00:01 AM 01 06 --> imported photos for username : angelinajolie143
 -	10:52:14 PM 31 05 --> some error with fetching total followers.
 -	10:30:36 PM 31 05 --> posted with username tamannaah.143
 -	10:30:13 PM 31 05 --> posted with username shraddha.kapoor.sweet
