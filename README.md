@@ -1,5 +1,15 @@
 # Instagram output catcher
 -	01:19:11 PM 18 04 --> posted with username tamannaah.143
+-	04:48:32 PM 02 06 --> posted with username tamannaah.143
+-	04:48:25 PM 02 06 --> posted with username kriti.sanon143
+-	04:48:06 PM 02 06 --> posted with username manushi.chillar.insta
+-	04:47:43 PM 02 06 --> posted with username realshrutihaasan
+-	04:47:31 PM 02 06 --> posted with username disha.patani.updates
+-	04:47:03 PM 02 06 --> some error with following having username manushi.chillar.insta
+-	04:46:54 PM 02 06 --> posted with username shraddha.kapoor.sweet
+-	04:46:12 PM 02 06 --> some error with posting having username priyanka.chopra143
+-	04:46:11 PM 02 06 --> some error with posting having username urvashirautela26
+-	04:45:41 PM 02 06 --> posted with username angelinajolie143
 -	03:07:25 PM 02 06 --> some error with following having username angelinajolie143
 -	02:48:57 PM 02 06 --> some error with following having username disha.patani.updates
 -	01:19:09 PM 02 06 --> posted with username kriti.sanon143
