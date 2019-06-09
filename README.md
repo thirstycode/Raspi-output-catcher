@@ -1,5 +1,23 @@
 # Instagram output catcher
 -	01:19:11 PM 18 04 --> posted with username tamannaah.143
+-	10:49:58 AM 09 06 --> some error with posting having username tamannaah.143
+-	10:48:36 AM 09 06 --> some error with posting having username angelinajolie143
+-	10:48:07 AM 09 06 --> some error with posting having username kriti.sanon143
+-	10:48:02 AM 09 06 --> some error with posting having username disha.patani.updates
+-	10:47:28 AM 09 06 --> some error with posting having username realshrutihaasan
+-	10:47:23 AM 09 06 --> some error with posting having username urvashirautela26
+-	10:47:19 AM 09 06 --> some error with posting having username manushi.chillar.insta
+-	10:46:51 AM 09 06 --> some error with posting having username shraddha.kapoor.sweet
+-	10:46:48 AM 09 06 --> some error with posting having username priyanka.chopra143
+-	08:19:51 AM 09 06 --> some error with posting having username tamannaah.143
+-	08:18:49 AM 09 06 --> some error with posting having username shraddha.kapoor.sweet
+-	08:18:43 AM 09 06 --> some error with posting having username kriti.sanon143
+-	08:18:29 AM 09 06 --> some error with posting having username manushi.chillar.insta
+-	08:18:02 AM 09 06 --> some error with posting having username angelinajolie143
+-	08:17:55 AM 09 06 --> some error with posting having username priyanka.chopra143
+-	08:17:39 AM 09 06 --> some error with posting having username realshrutihaasan
+-	08:17:33 AM 09 06 --> some error with posting having username urvashirautela26
+-	08:17:10 AM 09 06 --> some error with posting having username disha.patani.updates
 -	10:52:15 PM 08 06 --> Total followers count - 413.3k
 -	10:29:58 PM 08 06 --> posted with username disha.patani.updates
 -	10:29:26 PM 08 06 --> posted with username manushi.chillar.insta
