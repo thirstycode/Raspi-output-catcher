@@ -1,5 +1,7 @@
 # Instagram output catcher
 -	01:19:11 PM 18 04 --> posted with username tamannaah.143
+-	04:15:04 PM 20 06 --> total users unfollowed from manushi.chillar.insta - 300
+-	04:14:15 PM 20 06 --> total users unfollowed from tamannaah.143 - 299
 -	03:28:31 PM 20 06 --> total users unfollowed from manushi.chillar.insta - 200
 -	03:28:10 PM 20 06 --> total users unfollowed from tamannaah.143 - 199
 -	02:42:09 PM 20 06 --> total users unfollowed from tamannaah.143 - 99
