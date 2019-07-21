@@ -1,5 +1,6 @@
 # Instagram output catcher
 -	01:19:11 PM 18 04 --> posted with username tamannaah.143
+-	10:52:39 PM 12 07 --> Total followers count - 433.2k
 -	10:29:38 PM 12 07 --> posted with username manushi.chillar.insta
 -	10:28:29 PM 12 07 --> posted with username kriti.sanon143
 -	10:28:16 PM 12 07 --> posted with username tamannaah.143
