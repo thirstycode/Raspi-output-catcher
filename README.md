@@ -1,5 +1,6 @@
 # Instagram output catcher
 -	01:19:11 PM 18 04 --> posted with username tamannaah.143
+-	10:52:28 PM 12 07 --> Total followers count - 433.2k
 -	10:30:09 PM 12 07 --> some error with posting having username priyanka.chopra143
 -	10:28:49 PM 12 07 --> some error with posting having username angelinajolie143
 -	10:28:46 PM 12 07 --> posted with username angelinajolie143
