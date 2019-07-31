@@ -1,5 +1,60 @@
 # Instagram output catcher
 -	01:19:11 PM 18 04 --> posted with username tamannaah.143
+-	08:45:08 PM 31 07 --> posted with username tamannaah.143
+-	08:44:34 PM 31 07 --> some error with posting having username priyanka.chopra143
+-	08:44:27 PM 31 07 --> some error with posting having username urvashirautela26
+-	08:43:51 PM 31 07 --> some error with posting having username manushi.chillar.insta
+-	08:43:49 PM 31 07 --> some error with posting having username manushi.chillar.insta
+-	08:43:49 PM 31 07 --> posted with username manushi.chillar.insta
+-	08:43:47 PM 31 07 --> posted with username manushi.chillar.insta
+-	08:43:43 PM 31 07 --> posted with username disha.patani.updates
+-	08:43:36 PM 31 07 --> posted with username kriti.sanon143
+-	08:43:27 PM 31 07 --> posted with username realshrutihaasan
+-	08:43:11 PM 31 07 --> some error with posting having username priyanka.chopra143
+-	08:43:09 PM 31 07 --> some error with posting having username shraddha.kapoor.sweet
+-	08:43:09 PM 31 07 --> posted with username shraddha.kapoor.sweet
+-	08:43:06 PM 31 07 --> posted with username tamannaah.143
+-	08:43:03 PM 31 07 --> posted with username kriti.sanon143
+-	08:42:58 PM 31 07 --> some error with posting having username manushi.chillar.insta
+-	08:42:56 PM 31 07 --> some error with posting having username priyanka.chopra143
+-	08:42:55 PM 31 07 --> posted with username manushi.chillar.insta
+-	08:42:52 PM 31 07 --> posted with username realshrutihaasan
+-	08:42:52 PM 31 07 --> some error with posting having username priyanka.chopra143
+-	08:42:45 PM 31 07 --> some error with posting having username manushi.chillar.insta
+-	08:42:43 PM 31 07 --> posted with username manushi.chillar.insta
+-	08:42:37 PM 31 07 --> posted with username shraddha.kapoor.sweet
+-	08:42:35 PM 31 07 --> posted with username disha.patani.updates
+-	08:42:34 PM 31 07 --> posted with username kriti.sanon143
+-	08:42:26 PM 31 07 --> some error with posting having username urvashirautela26
+-	08:42:21 PM 31 07 --> some error with posting having username angelinajolie143
+-	08:42:18 PM 31 07 --> posted with username angelinajolie143
+-	08:42:13 PM 31 07 --> posted with username realshrutihaasan
+-	08:42:00 PM 31 07 --> some error with posting having username angelinajolie143
+-	08:41:57 PM 31 07 --> posted with username disha.patani.updates
+-	08:41:57 PM 31 07 --> posted with username angelinajolie143
+-	08:41:48 PM 31 07 --> posted with username shraddha.kapoor.sweet
+-	08:41:34 PM 31 07 --> posted with username tamannaah.143
+-	08:41:23 PM 31 07 --> some error with posting having username urvashirautela26
+-	08:41:21 PM 31 07 --> total users unfollowed from realshrutihaasan - 99
+-	08:41:17 PM 31 07 --> posted with username realshrutihaasan
+-	08:41:10 PM 31 07 --> some error with posting having username urvashirautela26
+-	08:41:04 PM 31 07 --> total users unfollowed from disha.patani.updates - 100
+-	08:41:01 PM 31 07 --> some error with posting having username urvashirautela26
+-	08:40:57 PM 31 07 --> some error with posting having username priyanka.chopra143
+-	08:40:52 PM 31 07 --> some error with posting having username angelinajolie143
+-	08:40:50 PM 31 07 --> posted with username angelinajolie143
+-	08:40:49 PM 31 07 --> some error with posting having username angelinajolie143
+-	08:40:48 PM 31 07 --> posted with username disha.patani.updates
+-	08:40:46 PM 31 07 --> posted with username angelinajolie143
+-	08:40:29 PM 31 07 --> posted with username kriti.sanon143
+-	08:40:25 PM 31 07 --> some error with posting having username angelinajolie143
+-	08:40:24 PM 31 07 --> some error with posting having username manushi.chillar.insta
+-	08:40:24 PM 31 07 --> posted with username tamannaah.143
+-	08:40:24 PM 31 07 --> posted with username shraddha.kapoor.sweet
+-	08:40:23 PM 31 07 --> posted with username angelinajolie143
+-	08:40:22 PM 31 07 --> posted with username manushi.chillar.insta
+-	08:40:15 PM 31 07 --> posted with username realshrutihaasan
+-	08:40:13 PM 31 07 --> posted with username kriti.sanon143
 -	08:39:50 PM 31 07 --> posted with username tamannaah.143
 -	08:39:44 PM 31 07 --> More following detected for realshrutihaasan. Starting unfollow process
 -	08:39:36 PM 31 07 --> More following detected for disha.patani.updates. Starting unfollow process
