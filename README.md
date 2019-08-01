@@ -1,5 +1,33 @@
 # Instagram output catcher
 -	01:19:11 PM 18 04 --> posted with username tamannaah.143
+-	10:49:53 PM 01 08 --> total users unfollowed from realshrutihaasan - 300
+-	10:29:57 PM 01 08 --> some error with posting having username manushi.chillar.insta
+-	10:29:41 PM 01 08 --> some error with posting having username angelinajolie143
+-	10:29:15 PM 01 08 --> some error with posting having username disha.patani.updates
+-	10:28:27 PM 01 08 --> some error with posting having username kriti.sanon143
+-	10:28:12 PM 01 08 --> some error with posting having username urvashirautela26
+-	10:28:04 PM 01 08 --> some error with posting having username priyanka.chopra143
+-	10:28:00 PM 01 08 --> some error with posting having username tamannaah.143
+-	10:27:39 PM 01 08 --> some error with posting having username realshrutihaasan
+-	10:27:24 PM 01 08 --> some error with posting having username shraddha.kapoor.sweet
+-	07:22:18 PM 01 08 --> some error with posting having username kriti.sanon143
+-	07:21:32 PM 01 08 --> some error with posting having username realshrutihaasan
+-	07:21:15 PM 01 08 --> some error with posting having username priyanka.chopra143
+-	07:21:09 PM 01 08 --> some error with posting having username tamannaah.143
+-	07:21:08 PM 01 08 --> some error with posting having username shraddha.kapoor.sweet
+-	07:20:55 PM 01 08 --> some error with posting having username disha.patani.updates
+-	07:20:44 PM 01 08 --> some error with posting having username urvashirautela26
+-	07:20:34 PM 01 08 --> some error with posting having username angelinajolie143
+-	07:20:33 PM 01 08 --> some error with posting having username manushi.chillar.insta
+-	04:49:02 PM 01 08 --> some error with posting having username tamannaah.143
+-	04:48:36 PM 01 08 --> some error with posting having username angelinajolie143
+-	04:48:35 PM 01 08 --> some error with posting having username manushi.chillar.insta
+-	04:48:07 PM 01 08 --> some error with posting having username disha.patani.updates
+-	04:48:03 PM 01 08 --> some error with posting having username realshrutihaasan
+-	04:47:46 PM 01 08 --> some error with posting having username priyanka.chopra143
+-	04:47:05 PM 01 08 --> some error with posting having username kriti.sanon143
+-	04:46:16 PM 01 08 --> some error with posting having username shraddha.kapoor.sweet
+-	04:45:31 PM 01 08 --> some error with posting having username urvashirautela26
 -	03:54:29 PM 01 08 --> total users followed from shraddha.kapoor.sweet - 109
 -	03:53:29 PM 01 08 --> total users followed from kriti.sanon143 - 96
 -	03:50:26 PM 01 08 --> total users followed from tamannaah.143 - 89
