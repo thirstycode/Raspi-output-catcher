@@ -1,5 +1,7 @@
 # Instagram output catcher
 -	01:19:11 PM 18 04 --> posted with username tamannaah.143
+-	02:47:20 PM 02 08 --> total users unfollowed from shraddha.kapoor.sweet - 100
+-	02:41:47 PM 02 08 --> More following detected for shraddha.kapoor.sweet. Starting unfollow process
 -	02:30:39 PM 02 08 --> total users followed from tamannaah.143 - 75
 -	02:30:38 PM 02 08 --> total users followed from kriti.sanon143 - 75
 -	02:27:14 PM 02 08 --> total users followed from realshrutihaasan - 75
