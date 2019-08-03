@@ -1,5 +1,6 @@
 # Instagram output catcher
 -	01:19:11 PM 18 04 --> posted with username tamannaah.143
+-	03:33:38 PM 03 08 --> total users unfollowed from shraddha.kapoor.sweet - 200
 -	02:56:25 PM 03 08 --> total users followed from disha.patani.updates - 75
 -	02:52:02 PM 03 08 --> total users followed from tamannaah.143 - 75
 -	02:50:38 PM 03 08 --> total users followed from kriti.sanon143 - 75
