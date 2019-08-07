@@ -1,5 +1,50 @@
 # Instagram output catcher
 -	01:19:11 PM 18 04 --> posted with username tamannaah.143
+-	10:30:01 PM 07 08 --> some error with posting having username shraddha.kapoor.sweet
+-	10:29:30 PM 07 08 --> some error with posting having username kriti.sanon143
+-	10:29:24 PM 07 08 --> some error with posting having username tamannaah.143
+-	10:28:59 PM 07 08 --> some error with posting having username realshrutihaasan
+-	10:28:57 PM 07 08 --> some error with posting having username angelinajolie143
+-	10:28:51 PM 07 08 --> some error with posting having username priyanka.chopra143
+-	10:28:47 PM 07 08 --> some error with posting having username urvashirautela26
+-	10:28:25 PM 07 08 --> some error with posting having username manushi.chillar.insta
+-	10:27:39 PM 07 08 --> some error with posting having username disha.patani.updates
+-	07:21:54 PM 07 08 --> some error with posting having username realshrutihaasan
+-	07:21:26 PM 07 08 --> some error with posting having username angelinajolie143
+-	07:21:16 PM 07 08 --> some error with posting having username tamannaah.143
+-	07:20:18 PM 07 08 --> some error with posting having username priyanka.chopra143
+-	07:20:10 PM 07 08 --> some error with posting having username urvashirautela26
+-	07:20:08 PM 07 08 --> some error with posting having username manushi.chillar.insta
+-	07:20:04 PM 07 08 --> some error with posting having username kriti.sanon143
+-	07:19:00 PM 07 08 --> some error with posting having username disha.patani.updates
+-	07:18:34 PM 07 08 --> some error with posting having username shraddha.kapoor.sweet
+-	04:48:51 PM 07 08 --> some error with posting having username shraddha.kapoor.sweet
+-	04:47:57 PM 07 08 --> some error with posting having username manushi.chillar.insta
+-	04:47:30 PM 07 08 --> some error with posting having username kriti.sanon143
+-	04:47:29 PM 07 08 --> some error with posting having username realshrutihaasan
+-	04:47:21 PM 07 08 --> some error with posting having username urvashirautela26
+-	04:47:19 PM 07 08 --> some error with posting having username disha.patani.updates
+-	04:46:40 PM 07 08 --> some error with posting having username tamannaah.143
+-	04:46:21 PM 07 08 --> some error with posting having username angelinajolie143
+-	04:45:42 PM 07 08 --> some error with posting having username priyanka.chopra143
+-	01:19:10 PM 07 08 --> some error with posting having username tamannaah.143
+-	01:19:01 PM 07 08 --> some error with posting having username manushi.chillar.insta
+-	01:18:41 PM 07 08 --> some error with posting having username realshrutihaasan
+-	01:17:50 PM 07 08 --> some error with posting having username angelinajolie143
+-	01:17:35 PM 07 08 --> some error with posting having username disha.patani.updates
+-	01:17:23 PM 07 08 --> some error with posting having username kriti.sanon143
+-	01:17:19 PM 07 08 --> some error with posting having username shraddha.kapoor.sweet
+-	01:16:58 PM 07 08 --> some error with posting having username priyanka.chopra143
+-	01:16:14 PM 07 08 --> some error with posting having username urvashirautela26
+-	10:50:14 AM 07 08 --> some error with posting having username tamannaah.143
+-	10:50:09 AM 07 08 --> some error with posting having username shraddha.kapoor.sweet
+-	10:49:47 AM 07 08 --> some error with posting having username urvashirautela26
+-	10:49:31 AM 07 08 --> some error with posting having username priyanka.chopra143
+-	10:49:26 AM 07 08 --> some error with posting having username disha.patani.updates
+-	10:48:43 AM 07 08 --> some error with posting having username manushi.chillar.insta
+-	10:48:11 AM 07 08 --> some error with posting having username angelinajolie143
+-	10:48:08 AM 07 08 --> some error with posting having username realshrutihaasan
+-	10:47:42 AM 07 08 --> some error with posting having username kriti.sanon143
 -	08:19:53 AM 07 08 --> posted with username realshrutihaasan
 -	08:19:17 AM 07 08 --> some error with posting having username urvashirautela26
 -	08:19:03 AM 07 08 --> posted with username disha.patani.updates
