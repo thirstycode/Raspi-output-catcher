@@ -1,5 +1,7 @@
 # Instagram output catcher
 -	01:19:11 PM 18 04 --> posted with username tamannaah.143
+-	02:41:51 PM 09 08 --> total users unfollowed from disha.patani.updates - 0
+-	02:41:23 PM 09 08 --> More following detected for disha.patani.updates. Starting unfollow process
 -	01:19:02 PM 09 08 --> posted with username kriti.sanon143
 -	01:18:31 PM 09 08 --> some error with posting having username angelinajolie143
 -	01:18:29 PM 09 08 --> some error with posting having username urvashirautela26
