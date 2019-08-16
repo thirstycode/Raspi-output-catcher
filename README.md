@@ -1,5 +1,10 @@
 # Instagram output catcher
 -	01:19:11 PM 18 04 --> posted with username tamannaah.143
+-	07:19:46 PM 16 08 --> some error with posting having username angelinajolie143
+-	07:19:44 PM 16 08 --> posted with username angelinajolie143
+-	07:19:24 PM 16 08 --> some error with posting having username priyanka.chopra143
+-	07:18:36 PM 16 08 --> total users unfollowed from disha.patani.updates - 0
+-	07:15:21 PM 16 08 --> total users unfollowed from kriti.sanon143 - 0
 -	06:36:03 PM 16 08 --> total users unfollowed from shraddha.kapoor.sweet - 600
 -	06:33:08 PM 16 08 --> total users unfollowed from disha.patani.updates - 0
 -	06:29:55 PM 16 08 --> total users unfollowed from kriti.sanon143 - 0
