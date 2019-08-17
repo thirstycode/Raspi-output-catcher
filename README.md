@@ -1,5 +1,16 @@
 # Instagram output catcher
 -	01:19:11 PM 18 04 --> posted with username tamannaah.143
+-	10:29:53 PM 17 08 --> posted with username manushi.chillar.insta
+-	10:29:30 PM 17 08 --> posted with username tamannaah.143
+-	10:29:17 PM 17 08 --> posted with username realshrutihaasan
+-	10:29:07 PM 17 08 --> some error with posting having username angelinajolie143
+-	10:29:04 PM 17 08 --> posted with username angelinajolie143
+-	10:28:52 PM 17 08 --> posted with username kriti.sanon143
+-	10:28:43 PM 17 08 --> posted with username disha.patani.updates
+-	10:27:16 PM 17 08 --> some error with posting having username urvashirautela26
+-	10:27:09 PM 17 08 --> some error with posting having username priyanka.chopra143
+-	10:23:45 PM 17 08 --> total users followed from shraddha.kapoor.sweet - 267
+-	10:20:31 PM 17 08 --> total users followed from realshrutihaasan - 27
 -	09:50:58 PM 17 08 --> total users unfollowed from kriti.sanon143 - 0
 -	09:50:52 PM 17 08 --> total users followed from shraddha.kapoor.sweet - 192
 -	09:48:33 PM 17 08 --> total users followed from realshrutihaasan - 25
