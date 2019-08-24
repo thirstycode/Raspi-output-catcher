@@ -1,5 +1,6 @@
 # Instagram output catcher
 -	01:19:11 PM 18 04 --> posted with username tamannaah.143
+-	10:52:58 PM 24 08 --> some error with fetching total followers.
 -	10:38:36 PM 24 08 --> total users followed from realshrutihaasan - 775
 -	10:37:32 PM 24 08 --> total users followed from kriti.sanon143 - 1
 -	10:37:21 PM 24 08 --> total users followed from disha.patani.updates - 7
