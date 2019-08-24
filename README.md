@@ -1,5 +1,9 @@
 # Instagram output catcher
 -	01:19:11 PM 18 04 --> posted with username tamannaah.143
+-	07:19:36 PM 24 08 --> posted with username tamannaah.143
+-	07:19:22 PM 24 08 --> some error with posting having username urvashirautela26
+-	07:18:31 PM 24 08 --> some error with posting having username angelinajolie143
+-	07:18:29 PM 24 08 --> posted with username angelinajolie143
 -	07:09:28 PM 24 08 --> total users followed from disha.patani.updates - 1
 -	07:09:28 PM 24 08 --> total users followed from tamannaah.143 - 559
 -	07:08:54 PM 24 08 --> total users followed from realshrutihaasan - 576
