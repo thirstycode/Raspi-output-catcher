@@ -1,5 +1,20 @@
 -	04:47:00 PM 28 09 --> some error with posting having username realshrutihaasan
 3
+-	08:18:56 AM 30 09 --> some error with posting having username realshrutihaasan
+-	08:18:53 AM 30 09 --> posted with username realshrutihaasan
+-	08:18:40 AM 30 09 --> some error with posting having username tamannaah.143
+-	08:18:37 AM 30 09 --> posted with username tamannaah.143
+-	08:18:27 AM 30 09 --> posted with username manushi.chillar.insta
+-	08:18:20 AM 30 09 --> some error with posting having username kriti.sanon143
+-	08:18:17 AM 30 09 --> posted with username kriti.sanon143
+-	08:17:56 AM 30 09 --> some error with posting having username urvashirautela26
+-	08:17:32 AM 30 09 --> some error with posting having username shraddha.kapoor.sweet
+-	08:17:29 AM 30 09 --> posted with username shraddha.kapoor.sweet
+-	08:17:23 AM 30 09 --> some error with posting having username priyanka.chopra143
+-	08:17:21 AM 30 09 --> some error with posting having username disha.patani.updates
+-	08:17:18 AM 30 09 --> posted with username disha.patani.updates
+-	08:17:14 AM 30 09 --> some error with posting having username angelinajolie143
+-	08:17:11 AM 30 09 --> posted with username angelinajolie143
 -	04:35:14 AM 30 09 --> total users unfollowed from manushi.chillar.insta - 4
 -	03:49:29 AM 30 09 --> total users unfollowed from manushi.chillar.insta - 4
 -	03:03:49 AM 30 09 --> total users unfollowed from manushi.chillar.insta - 4
