@@ -1,5 +1,13 @@
 -	04:47:00 PM 28 09 --> some error with posting having username realshrutihaasan
 3
+-	02:41:25 PM 30 09 --> total users unfollowed from manushi.chillar.insta - 0
+-	02:40:53 PM 30 09 --> some error with unfollowing having username kriti.sanon143
+-	02:40:49 PM 30 09 --> some error with unfollowing having username realshrutihaasan
+-	02:40:45 PM 30 09 --> some error with unfollowing having username tamannaah.143
+-	02:40:43 PM 30 09 --> More following detected for manushi.chillar.insta. Starting unfollow process
+-	02:40:37 PM 30 09 --> some error with unfollowing having username disha.patani.updates
+-	02:40:33 PM 30 09 --> some error with unfollowing having username angelinajolie143
+-	02:40:29 PM 30 09 --> some error with unfollowing having username shraddha.kapoor.sweet
 -	01:18:57 PM 30 09 --> posted with username manushi.chillar.insta
 -	01:18:38 PM 30 09 --> some error with posting having username angelinajolie143
 -	01:18:35 PM 30 09 --> posted with username angelinajolie143
