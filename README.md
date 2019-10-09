@@ -1,5 +1,21 @@
 -	10:29:11 PM 04 10 --> some error with posting having username tamannaah.143
 an
+-	08:19:26 AM 09 10 --> some error with posting having username realshrutihaasan
+-	08:19:24 AM 09 10 --> posted with username realshrutihaasan
+-	08:18:48 AM 09 10 --> some error with posting having username angelinajolie143
+-	08:18:46 AM 09 10 --> posted with username angelinajolie143
+-	08:18:28 AM 09 10 --> some error with posting having username shraddha.kapoor.sweet
+-	08:18:26 AM 09 10 --> some error with posting having username tamannaah.143
+-	08:18:25 AM 09 10 --> posted with username shraddha.kapoor.sweet
+-	08:18:24 AM 09 10 --> posted with username tamannaah.143
+-	08:17:29 AM 09 10 --> some error with posting having username urvashirautela26
+-	08:17:23 AM 09 10 --> some error with posting having username kriti.sanon143
+-	08:17:20 AM 09 10 --> posted with username kriti.sanon143
+-	08:17:09 AM 09 10 --> some error with posting having username disha.patani.updates
+-	08:17:06 AM 09 10 --> posted with username disha.patani.updates
+-	08:16:49 AM 09 10 --> some error with posting having username priyanka.chopra143
+-	08:16:32 AM 09 10 --> some error with posting having username manushi.chillar.insta
+-	08:16:30 AM 09 10 --> posted with username manushi.chillar.insta
 -	10:52:55 PM 08 10 --> some error with fetching total followers.
 -	10:29:57 PM 08 10 --> some error with posting having username manushi.chillar.insta
 -	10:29:54 PM 08 10 --> posted with username manushi.chillar.insta
