@@ -1,5 +1,19 @@
 -	10:29:11 PM 04 10 --> some error with posting having username tamannaah.143
 an
+-	04:48:53 PM 10 10 --> some error with posting having username disha.patani.updates
+-	04:48:50 PM 10 10 --> posted with username disha.patani.updates
+-	04:48:17 PM 10 10 --> some error with posting having username kriti.sanon143
+-	04:48:15 PM 10 10 --> posted with username manushi.chillar.insta
+-	04:47:26 PM 10 10 --> some error with posting having username realshrutihaasan
+-	04:47:23 PM 10 10 --> posted with username realshrutihaasan
+-	04:47:18 PM 10 10 --> some error with posting having username tamannaah.143
+-	04:47:16 PM 10 10 --> some error with posting having username angelinajolie143
+-	04:47:15 PM 10 10 --> posted with username tamannaah.143
+-	04:47:13 PM 10 10 --> posted with username angelinajolie143
+-	04:46:16 PM 10 10 --> some error with posting having username urvashirautela26
+-	04:46:05 PM 10 10 --> some error with posting having username shraddha.kapoor.sweet
+-	04:46:02 PM 10 10 --> posted with username shraddha.kapoor.sweet
+-	04:45:44 PM 10 10 --> some error with posting having username priyanka.chopra143
 -	02:40:54 PM 10 10 --> some error with unfollowing having username shraddha.kapoor.sweet
 -	02:40:50 PM 10 10 --> some error with unfollowing having username realshrutihaasan
 -	02:40:46 PM 10 10 --> some error with unfollowing having username manushi.chillar.insta
@@ -1509,7 +1523,7 @@ an
 -	01:26:41 AM 26 09 --> total users unfollowed from tamannaah.143 - 594
 -	12:43:37 AM 26 09 --> total users unfollowed from realshrutihaasan - 703
 -	12:42:50 AM 26 09 --> total users unfollowed from kriti.sanon143 - 595
--	12:41:57 AM 26 09 --> total users unfollowed from disha.patani.updates - 585
+-	12:41:57 AM--> total users unfollowed from disha.patani.updates - 585
 -	12:40:52 AM 26 09 --> total users unfollowed from tamannaah.143 - 594
 -	11:58:07 PM 25 09 --> total users unfollowed from realshrutihaasan - 703
 -	11:57:14 PM 25 09 --> total users unfollowed from kriti.sanon143 - 595
@@ -1943,7 +1957,7 @@ an
 -	05:36:21 PM 22 09 --> total users followed from disha.patani.updates - 3
 -	05:35:57 PM 22 09 --> total users followed from tamannaah.143 - 75
 -	05:35:49 PM 22 09 --> total users followed from kriti.sanon143 - 242
--	05:33:54 PM 22 09 --> total users followed from shraddha.kapoor.sweet - 0
+-	05:33:54 PM 22 09 --> total utotal users followed from shraddha.kapoor.sweet - 0
 -	05:14:34 PM 22 09 --> total users followed from disha.patani.updates - 3
 -	05:13:31 PM 22 09 --> total users followed from realshrutihaasan - 0
 -	05:13:16 PM 22 09 --> total users followed from tamannaah.143 - 0
