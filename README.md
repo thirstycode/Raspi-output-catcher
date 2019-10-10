@@ -1,5 +1,6 @@
 -	10:29:11 PM 04 10 --> some error with posting having username tamannaah.143
 an
+-	10:52:54 PM 10 10 --> some error with fetching total followers.
 -	10:29:58 PM 10 10 --> some error with posting having username urvashirautela26
 -	10:29:46 PM 10 10 --> some error with posting having username kriti.sanon143
 -	10:29:43 PM 10 10 --> posted with username kriti.sanon143
