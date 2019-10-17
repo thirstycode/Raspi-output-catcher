@@ -1,5 +1,7 @@
 -	10:29:11 PM 04 10 --> some error with posting having username tamannaah.143
 an
+-	10:50:12 AM 17 10 --> some error with posting having username kriti.sanon143
+-	10:50:09 AM 17 10 --> posted with username kriti.sanon143
 -	10:49:46 AM 17 10 --> some error with posting having username shraddha.kapoor.sweet
 -	10:49:43 AM 17 10 --> posted with username shraddha.kapoor.sweet
 -	10:49:23 AM 17 10 --> some error with posting having username disha.patani.updates
