@@ -1,5 +1,10 @@
 -	10:29:11 PM 04 10 --> some error with posting having username tamannaah.143
 an
+-	07:19:50 PM 18 10 --> some error with posting having username disha.patani.updates
+-	07:19:48 PM 18 10 --> posted with username disha.patani.updates
+-	07:19:37 PM 18 10 --> some error with posting having username urvashirautela26
+-	07:18:37 PM 18 10 --> some error with posting having username angelinajolie143
+-	07:18:34 PM 18 10 --> posted with username angelinajolie143
 -	04:48:11 PM 18 10 --> some error with posting having username urvashirautela26
 -	04:47:58 PM 18 10 --> some error with posting having username disha.patani.updates
 -	04:47:56 PM 18 10 --> posted with username disha.patani.updates
